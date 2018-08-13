@@ -1,0 +1,721 @@
+﻿server
+管理
+服務
+product
+control
+unit
+網絡
+plurality
+electronic
+identification
+transaction
+computer
+card
+mobile
+order
+time
+communication
+customer
+processing
+storage
+terminal
+apparatus
+receiving
+using
+value
+software
+process
+lot
+application
+demand
+thereof
+inventory
+electronic device
+having
+access
+製造業
+based
+production
+file
+interface
+display
+authentication
+capacity
+stored
+technology
+providing
+key
+payment
+location
+generating
+products
+systems
+related
+managing
+methods
+平臺
+list
+allocation
+factor
+insurance
+program
+resource
+circuit
+portable
+return
+cost
+semiconductor
+weight
+virtual
+function
+devices
+event
+video
+users
+warehouse
+protection
+installation
+parking
+phone
+wireless
+verification
+determining
+events
+detecting
+stock
+content
+transmitting
+equipment
+business
+web
+sales
+internet
+supply
+status
+matching
+image
+planning
+smart
+sharing
+fabrication
+material
+engine
+digital
+high
+enterprise
+tracking
+model
+storing
+automatically
+group
+environment
+encryption
+investment
+including
+stored value
+searching
+mobile communication
+method thereof
+remote
+risk
+social
+materials
+document
+calculating
+account
+machine
+mobile electronic
+forecast
+carrier
+operating
+level
+performing
+analyzing
+keyword
+integrated
+專利
+automatic
+use
+smart card
+output
+multimedia
+address
+displaying
+master
+績效
+ic
+mobile electronic device
+tools
+schedule
+analysis
+valuation
+connection
+member
+社會網絡
+merchandise
+wafer
+online
+parameter
+medium
+sending
+storage device
+object
+required
+evaluation
+contour
+priority
+perform
+recording
+advertisement
+selection
+transactions
+tumor
+distributed
+interactive
+transfer
+delivery
+parking lot
+patient
+reservation
+applied
+purchasing
+control factor
+controlling
+systems and methods
+communication device
+readable
+firmware
+accordance
+dynamic
+connecting
+safety
+multiple
+structure
+prices
+form
+area
+drm
+payment transactions
+performed
+selling
+funding
+tumor contour
+distributed resource
+computer program
+wireless communication
+sampling
+technology valuation
+demand data
+reading
+results
+method for managing
+capable
+software application
+dynamically
+access control
+term
+recommendation
+health
+user identification
+automatic service
+capacity management
+costing
+media
+alarm
+services
+mechanism
+voice
+negotiation
+encrypted
+flow
+microwave
+return product
+minimum
+identity
+multimedia service
+facility
+switch
+monitoring
+cycle
+mobile terminal
+securities
+portable device
+order fulfillment
+user interface
+adjustment
+cycle time
+recognition
+screen
+support
+mobile communication device
+chemical
+authorization
+report
+fulfillment
+layout
+digital data
+purchase
+golden
+data storage
+term information
+appointment
+methods and systems
+navigation
+design
+shopping
+performances
+sales performances
+dispatch
+length
+search
+handling
+online funding
+warehousing
+technology valuation and transaction
+link
+related method
+storage medium
+yield
+building
+cash
+classifying
+future
+using a mobile
+process apparatus
+software installation
+distribution
+inventory control
+foundry
+book return
+solutions
+book
+automated
+fitness
+hard
+forestry
+interactive online
+establishing
+playback
+valuation and transaction
+interactive online funding
+quality
+picking
+security
+dynamic inventory control
+generation
+configure
+dynamic inventory
+microwave control
+resource management
+consignment
+consignment inventory
+return apparatus
+navigation device
+fitness data
+protection module
+scheduling
+costs
+information service
+short
+management system and method
+computer readable
+book return apparatus
+decoding
+product selling
+device and method
+ports
+composition
+attendance
+models
+electronic identification
+transport
+relation
+control method
+wafer lot
+integration
+resolution
+transaction information
+file transfer
+data warehousing environment
+investment allocation
+integrated circuit
+warehousing environment
+use time
+capacities
+data warehousing
+encoding
+embedded
+facilities
+real-time
+manufacturing process
+measuring
+requested
+semiconductor manufacturing
+method of managing
+copyright
+cable
+hard copy
+method of managing contactless
+copy
+articles
+sampling inspection
+stored value device
+warehouses
+executing
+hot
+network devices
+human
+device as a stored
+control device
+shopping list
+browser
+using a mobile communication
+distributed resource management
+contactless payment transactions using
+contactless payment transactions
+costs of a product
+media content
+contactless payment
+scale
+contactless
+drm protection
+drm-enabled
+voice events
+point
+transactions using a mobile
+transactions using
+charge
+behavior
+charge control
+value device
+customer delivery
+material costs
+demand forecast
+charged
+access control method
+physiological parameter
+speech
+physiological
+electromagnetic
+personal
+electronic control
+inspection
+payment transactions using
+secure
+intellectual
+communication data
+managing contactless
+video content
+collaboration
+managing contactless payment
+three-dimensional
+managing contactless payment transactions
+communicating
+data processing
+toll
+collection
+manufacturing information
+electronic control device
+integration of material costs
+toll collection
+投資組合
+program product
+mobile device
+schedule management device
+schedule management
+因素分析
+forestry products
+generic
+promotion
+foodstuff equipment
+managing product
+trajectory
+data transfer
+foodstuff
+production capacity
+behavior trajectory
+negotiation support
+geographic
+sampling inspection method
+transaction models
+golden tools
+promotion information
+customized
+files
+file transfer method
+approach
+workflow
+factor management
+management method
+customer requested
+protection method
+management device
+self-service
+self-service terminal
+selling prices
+capability
+web address
+online service
+water
+machines
+operational
+health information
+cryptographic device
+exchange
+cryptographic
+design shrink
+machine-implemented
+applicable
+detection
+hybrid
+hybrid energy
+transfer method
+long term information
+long term
+long
+logistics network
+hybrid energy generation
+transferring
+identification method
+patent portfolio
+evaluating
+logistics
+cellular
+readable recording
+correlative services
+correlative
+establishment
+indicators
+analysis module
+licensing
+method for processing
+shrink
+industry
+preventing
+digital content
+visualizing
+appointment location
+correct
+authentication method
+readable recording medium
+copyrighted digital content
+copyrighted digital
+information on ports
+sms
+copyrighted
+copyright protection module
+copyright protection
+sms authentication
+sms authentication method
+chemical management
+energy generation
+display having
+joint cost
+joint
+achieving
+energy
+inspection method
+recording medium
+investment insurance
+installation capacities
+collaboration commerce
+insurance platform
+user identification method
+commerce
+control factor management
+integration of material
+modular
+pre-picked
+computer program product
+released
+period
+interaction
+computer readable recording
+portable navigation device
+computer readable recording medium
+replenishment
+portable navigation
+consolidation
+internal network
+stock management
+internal
+interactively
+interfaces
+consolidation yield
+speech recognition
+consolidation yield management
+method for controlling
+method for dynamically
+configuring
+varying
+varying denomination
+dynamically controlling
+dynamically controlling attendance
+vehicular
+reminder
+ecg
+method for encoding
+vehicular transportation
+drawer
+electric
+electric roller
+electric roller shutter
+inventory file
+distribution management
+method capable
+intellectual scale
+method applicable
+verification method
+performing secure playback
+prediction
+communication link
+premises
+software authorization
+communication equipment
+performing secure
+premises equipment
+premises equipment cpe
+reputation
+collaborative bargaining
+embedded network
+embedded network device
+employees
+collaborative
+controlling attendance
+clients
+perform stock management
+perform stock
+controlling product
+virtual production
+method and apparatus
+virtual production control
+chemical management modes
+conversion
+turn
+assessment
+key verification
+key verification method
+knowledge
+disk
+sleep/awake
+signing
+enterprise resource
+enterprise resource planning
+labeling
+merchandise information
+shutter
+equipment cpe
+resource planning
+method for preventing
+retrieving
+length detection
+retrieving a tumor
+length detection apparatus
+traveling
+retrieving a tumor contour
+licensing platform
+life
+life insurance
+chain
+estimating
+cellular phone
+rfid-based
+rfid-based book
+transportation
+cash drawer
+printer
+translating
+carrying
+rfid-based book return
+carrier selection method
+cost-optimization
+rfid-based book return apparatus
+carrier selection
+attendance of a group
+cpe
+testing
+detection apparatus
+settlement
+method for providing
+hot video
+detecting device
+option
+high safety vehicular transportation
+high safety vehicular
+high safety
+quantities
+service management
+roller
+healthcare
+roller shutter
+machine-implemented method
+denomination
+processing method
+customer demand
+accessed
+safety vehicular
+safety vehicular transportation
+product recommendation
+customer premises
+object management
+cable length detection apparatus
+samples
+analyzing sales
+cable length detection
+cable length
+network server
+customer premises equipment
+customer premises equipment cpe
+network environment
+analyzing sales performances
+management modes
+group of employees
+building method on behavior
+building method
+protecting
+self-perceived
+graphic interface
+customers
+graphic
+debt-clearing
+method on behavior
+product selling prices
+method on behavior trajectory
+network device
+address resolution
+board
+architecture
+generic service management
+micropayment
+selection method
+multilayered drm
+generic service
+foam
+security authentication
+apparatus and method
+adjacency relation
+tolerant
+securities information service
+securities information
+tracking method
+multilayered
+yield management
+供應鏈
+tolerant key
+tolerant key verification
+adjacency
+tolerant key verification method
+mobile communication equipment
+manipulating
+production control
+bargaining
+mobile recommendation
+secure playback
+balancing
+free
+mold manufacturing
+screen sharing
+modes
+fulfilling
+mold
+anti-fake

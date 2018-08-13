@@ -1,0 +1,2142 @@
+﻿1149336 ontario inc.,toronto, on	1149336 ontario inc,on,ca
+1149336 ontario inc.,toronto, ontario,ca	1149336 ontario inc,on,ca
+1149336 ontario inc.,toronto,ca	1149336 ontario inc,on,ca
+1366 technologies inc.,bedford,ma,us	1366 technologies inc,ma,us
+24-m technologies inc.,cambridge,ma,us	24-m technologies inc,ma,us
+3d biomatrix inc.,ann arbor,mi,us	3d biomatrix inc,mi,us
+3m espe ag,seefeld,de	3m espe ag,bavaria,de
+3m innovative properties company 3m center,st. paul,mn,us	3m innovative,mn,us
+3m innovative properties company,st. paul,mn,us	3m innovative,mn,us
+a123 systems inc.,waltham,ma,us	a123 systems inc,ma,us
+abb ab,vasteras,se	abb ab,vastmanland,se
+abb ag,mannheim,de	abb ag,baden wurttemberg,de
+abb research ltd.,zurich,ch	abb research ltd.,zurich,ch
+abbott cardiovascular systems inc.,santa clara,ca,us	abbott cardiovascular systems inc,ca,us
+abbott diabetes care inc.,alameda,ca,us	abbott diabetes care inc,ca,us
+abbott laboratories,abbott park,il,us	abbott laboratories,il,us
+abbott medical optics inc.,santa ana,ca,us	abbott medical optics inc,ca,us
+academia sinica,taipei,tw	academia sinica,taipei,tw
+accentia biopharmaceuticals inc.,tampa,fl,us	accentia biopharmaceuticals inc,fl,us
+accord biomaterials inc.,ann arbor,mi,us	accord biomaterials inc,mi,us
+acidophil llc,lutherville,md,us	acidophil llc,md,us
+acoustic medsystems inc.,champaign,il,us	acoustic medsystems inc,il,us
+acoustic medsystems inc.,savoy,il,us	acoustic medsystems inc,il,us
+actinobac biomed inc.,kendall park,nj,us	actinobac biomed inc,nj,us
+active signal technologies inc.,linthicum,md,us	active signal technologies inc,md,us
+acumen pharmaceuticals inc.,south san francisco,ca,us	acumen pharmaceuticals inc,ca,us
+acumen scientific,goleta,ca,us	acumen scientific,ca,us
+adant technologies inc.,pleasanton,ca,us	adant technologies inc,ca,us
+adheretech inc.,new york,ny,us	adheretech inc,ny,us
+admittance technologies inc.,san antonio,tx,us	admittance technologies inc,tx,us
+adobe systems incorporated,san jose,ca,us	adobe systems inc,ca,us
+advanced bionics llc,valencia,ca,us	advanced bionics llc,ca,us
+advanced cancer therapeutics llc,louisville,ky,us	advanced cancer therapeutics llc,ky,us
+advanced diamond technologies inc.,romeoville,il,us	advanced diamond technologies inc,il,us
+advanced liquid logic inc,san diego,ca,us	advanced liquid logic inc,ca,us
+advanced liquid logic inc.,san diego,ca,us	advanced liquid logic inc,ca,us
+advanced liquid logic inc,research triangle park,nc,us	advanced liquid logic inc,nc,us
+advanced liquid logic inc.,morrisville,nc,us	advanced liquid logic inc,nc,us
+advanced liquid logic inc.,research triangle park,nc,us	advanced liquid logic inc,nc,us
+advanced liquid logic,morrisville,nc,us	advanced liquid logic inc,nc,us
+advanced metal products inc.,west bountiful,ut,us	advanced metal products inc,ut,us
+advanced metal products,west bountiful,ut,us	advanced metal products inc,ut,us
+advanced power electronics corporation (apecor corp.),orlando,fl,us	advanced power electronics corp(apecor corp),fl,us
+advanced research corporation,white bear lake,mn,us	advanced research corp,mn,us
+advaxis inc.,princeton,nj,us	advaxis inc,nj,us
+aeolus sciences inc.,laguna niguel,ca,us	aeolus sciences inc,ca,us
+aeolus sciences inc.,mission viejo,ca,us	aeolus sciences inc,ca,us
+aeolus sciences inc.,research triangle park,nc,us	aeolus sciences inc,nc,us
+aeras global tb vaccine foundation,rockville,md,us	aeras global tb vaccine foundation,md,us
+aerosol dynamics inc.,berkeley,ca,us	aerosol dynamics inc,ca,us
+aerovironment inc.,monrovia,ca,us	aerovironment inc,ca,us
+affinity biosensors llc,santa barbara,ca,us	affinity biosensors llc,ca,us
+afron chemical corporation,richmond,va,us	afron chemical corp,va,us
+afton chemical corporation,richmond,va,us	afron chemical corp,va,us
+agency for science technology & research,singapore,sg	agency for science technology and research,sg,sg
+agency for science technology and research,singapore,sg	agency for science technology and research,sg,sg
+agilent technologies inc.,palo alto,ca,us	agilent technologies inc,ca,us
+agilent technologies inc.,santa clara,ca,us	agilent technologies inc,ca,us
+agricultural research organization ministry of agriculture and rural development,bet dagan,il	agricultural research organization,bet dagan,il
+agricultural utilization research institute,crookston,mn,us	agricultural utilization research institute,mn,us
+agrihouse inc.,berthoud,co,us	agrihouse inc,co,us
+agrivida inc.,medford,ma,us	agrivida inc,ma,us
+aisin aw co. ltd.,anjo, aichi,jp	aisin aw co. ltd,aichi,jp
+aisin aw co. ltd.,anjo,jp	aisin aw co. ltd,aichi,jp
+ajinomoto co. inc.,kawasaki-shi,jp	ajinomoto co. inc.,unknown,jp
+akhtar saima a.,niskayuna,ny,us	akhtar saima a.,ny,us
+alba therapeutics corporation,baltimore,md,us	alba therapeutics corp,md,us
+albany international corp.,rochester,nh,us	albany international corp,nh,us
+albert einstein healthcare network,philadelphia,pa,us	albert einstein healthcare network,pa,us
+alcatel-lucent usa inc.,murray hill,nj,us	alcatel lucent usa inc,nj,us
+alcatel lucent,boulogne-billancourt,fr	alcatel lucent,paris,fr
+alcatel lucent,paris,fr	alcatel lucent,paris,fr
+alcoa technical center,alcoa center,pa,us	alcoa technical center,pa,us
+alcon inc.,hunenberg,ch	alcon inc,hunenberg,ch
+alcon research ltd.,fort worth,tx,us	alcon research ltd,tx,us
+alectos therapeutics inc.,burnaby,ca	alectos therapeutics inc,bc,ca
+alertwatch inc.,ann arbor,mi,us	alertwatch inc,mi,us
+algenol biotech llc,fort myers,fl,us	algenol biotech llc,fl,us
+alios biopharma inc.,south san francisco,ca,us	alios biopharma inc,ca,us
+alkymos inc.,lexington,ky,us	alkymos inc,ky,us
+allasso industries inc.,raleigh,nc,us	allasso industries inc,nc,us
+allegheny-singer research institute,pittsburgh,pa,us	allegheny-singer research institute,pa,us
+allele biotechnology & pharmaceuticals inc.,san diego,ca,us	allele biotechnology & pharmaceuticals inc,ca,us
+allergan inc.,irvine,ca,us	allergan inc,ca,us
+allertein therapeutics llc,fairfield,ct,us	allertein therapeutics llc,ct,us
+alliance discovery inc.,doylestown,pa,us	alliance discovery inc,pa,us
+alliance for substainable energy llc,golden,co,us	alliance for sustainable energy llc,co,us
+allstate insurance company,northbrook,il,us	allstate insurance co.,il,us
+allstate university company,northbrook,il,us	allstate insurance co.,il,us
+alnylam pharmaceuticals inc.,cambridge,ma,us	alnylam pharmaceuticals inc,ma,us
+alpha-omega power technologies ltd. co.,albuquerque,nm,us	alpha-omega power technologies ltd. co.,nm,us
+alphavax incorporated,research triangle park,nc,us	alphavax incorp,nc,us
+alveo technologies inc.,lafayette,ca,us	alveo technologies inc,ca,us
+alvine pharmaceuticals inc.,san carlos,ca,us	alvine pharmaceuticals inc,ca,us
+alza corporation,mountain view,ca,us	alza corp,ca,us
+amastan llc,storrs,ct,us	amastan llc,ct,us
+amastan technologies llc,north andover,ma,us	amastan technologies llc,ma,us
+radiation therapy oncology group of the american college of radiology,philadelphia,pa,us	american COlege of radiology,pa,us
+amgen inc.,thousand oaks,ca,us	amgen inc,ca,us
+amicrobe inc.,pasadena,ca,us	amicrobe inc,ca,us
+amidebio llc,boulder,co,us	amidebio llc,co,us
+amin turocy & watson llp,cleveland,oh,us	amin turocy & watson llp,oh,us
+amyris biotechnologies inc.,emeryville,ca,us	amyris biotechnologies inc,ca,us
+analog devices inc.,norwood,ma,us	analog devices inc,ma,us
+anasys instruments,santa barbara,ca,us	anasys instruments,ca,us
+andgar corporation,everett,wa,us	andgar corp,wa,us
+androscience corporation,san diego,ca,us	androscience corp,ca,us
+anglefix tech llc,charlotte,nc,us	anglefix tech llc,nc,us
+anima cell metrology inc.,bernardsville,nj,us	anima cell metrology,nj,us
+anima cell metrology,basking ridge,nj,us	anima cell metrology,nj,us
+animal biotech llc,dallas,tx,us	animal biotech llc,tx,us
+ann & robert h. lurie children's hospital of chicago,chicago,il,us	ann & robert h. lurie children's hospital of chicago,il,us
+anvik corporation,hawthorne,ny,us	anvik corp,ny,us
+aol inc.,dulles,va,us	aol inc,va,us
+apath llc,st. louis,mo,us	apath llc,mo,us
+apdm inc.,portland,or,us	apdm inc,or,us
+apex therapeutics inc.,indianapolis,in,us	apex therapeutics inc,in,us
+aphios corporation,woburn,ma,us	aphios corp,ma,us
+apic corporation,culver city,ca,us	apic corp,ca,us
+apollo endosurgery inc.,austin,tx,us	apollo endosurgery inc,tx,us
+apple inc.,cupertino,ca,us	apple inc,ca,us
+applied invention llc,glendale,ca,us	applied invention llc,ca,us
+applied materials inc.,santa clara,ca,us	applied materials inc,ca,us
+applied quantum technologies inc.,durham,nc,us	applied quantum technologies,nc,us
+applied quantum technologies,durham,nc,us	applied quantum technologies,nc,us
+aptima inc.,woburn,ma,us	aptima inc,ma,us
+aquarius biotechnologies inc,bedminster,nj,us	aquarius biotechnologies inc,nj,us
+aradigm corporation,hayward,ca,us	aradigm corp,ca,us
+arbutus biopharma inc.,doylestown,pa,us	arbutus biopharma inc,pa,us
+archer daniels midland co.,decatur,il,us	archer daniels midland co.,il,us
+archer daniels midland comanpy,decatur,il,us	archer daniels midland co.,il,us
+archer daniels midland company,decatur,il,us	archer daniels midland co.,il,us
+archer daniels mildand company,decatur,il,us	archer daniels midland co.,il,us
+archer-daniels-midland company,decatur,il,us	archer daniels midland co.,il,us
+argos therapeutics inc.,durham,nc,us	argos therapeutics inc,nc,us
+aria neurosciences inc.,hamden,ct,us	aria neurosciences inc,ct,us
+arisaph pharmaceuticals inc.,boston,ma,us	arisaph pharmaceuticals inc,ma,us
+arkansas children's hospital research institute inc.,little rock,ar,us	arkansas children's hospital research institute inc,ar,us
+arkema inc.,philadelphia,pa,us	arkema inc,pa,us
+army research laboratory,aberdeen proving ground,md,us	army research laboratory,md,us
+arphios corporation,woburn,ma,us	arphios corp,ma,us
+arris enterprises inc.,suwanee,ga,us	arris enterprises inc,ga,us
+arrowhead center inc.,las cruces,nm,us	arrowhead center inc,nm,us
+artecel inc,sunnyvale,ca,us	artecel inc,ca,us
+ascenta licensing corporation,wilmington,de,us	ascenta licensing corp,de,us
+aseptia inc.,raleigh,nc,us	aseptia inc,nc,us
+associated universities inc.,washington,dc,us	associated universities inc,dc,us
+astex pharmaceutials inc.,dublin,ca,us	astex pharmaceuticals,ca,us
+astex pharmaceuticals inc.,dublin,ca,us	astex pharmaceuticals,ca,us
+at&t corp.,new york,ny,us	at&t corp,ny,us
+at&t intellectual propert i l.p.,atlanta,ga,us	at&t intellectual propert i lp,ga,us
+at&t intellectual property i l.p.,atlanta,ga,us	at&t intellectual propert i lp,ga,us
+at&t intellectual property i l.p.,reno,nv,us	at&t intellectual propert i lp,ga,us
+at&t intellectual property i lp,atlanta,ga,us	at&t intellectual propert i lp,ga,us
+at&t intellectual property l l.p.,atlanta,ga,us	at&t intellectual propert i lp,ga,us
+at&t intellectual propery i l.p.,atlanta,ga,us	at&t intellectual propert i lp,ga,us
+at&t intellectual property ii l.p.,atlanta,ga,us	at&t intellectual propert ii lp,ga,us
+at&t intellectual property ii l.p.,new york,ny,us	at&t intellectual propert ii lp,ga,us
+at&t intellectual property ii l.p.,reno,nv,us	at&t intellectual propert ii lp,ga,us
+at&t intellectual property ii lp,atlanta,ga,us	at&t intellectual propert ii lp,ga,us
+athena diagnostics inc.,worcester,ma,us	athena diagnostics inc,ma,us
+ats holdings llc,butler,pa,us	ats holdings llc,pa,us
+atterocor inc.,ann arbor,mi,us	atterocor inc,mi,us
+aumann margaret,davis,ca,us	aumann margaret,ca,us
+auxagen inc.,st. louis,mo,us	auxagen inc,mo,us
+auxilium green llc,bedminster,nj,us	auxilium green llc,nj,us
+avid radiopharmaceuticals inc.,philadelphia,pa,us	avid radiopharmaceuticals inc,pa,us
+avigenics inc.,athens,ga,us	avigenics inc,ga,us
+axion biosystems inc.,atlanta,ga,us	axion biosystems inc,ga,us
+axis engineering technologies inc.,devens,ma,us	axis engineering technologies inc,ma,us
+babcock & wilcox technical services y-12 llc,oak ridge,tn,us	babcock & wilcox technical services y-12 llc,tn,us
+bacock & wilcox technical services y-12 l.l.c.,oak ridge,tn,us	babcock & wilcox technical services y-12 llc,tn,us
+bachem biosciences inc.,king of prussia,pa,us	bachem biosciences inc,pa,us
+bacterial robotics llc,cincinnati,oh,us	bacterial robotics llc,oh,us
+bae systems information and electronic systems integration inc.,nashua,nh,us	bae systems inc,nh,us
+baker hughes incorporated,houston,tx,us	baker hughes incorp,tx,us
+bandman-boyle legal representative nancy,hadley,ma,us	bandman-boyle legal representative nancy,ma,us
+banyan biomakers,alachua,fl,us	banyan biomarkers inc,fl,us
+banyan biomarkers inc.,alachua,fl,us	banyan biomarkers inc,fl,us
+banyan biomarkers,alachua,fl,us	banyan biomarkers inc,fl,us
+bardarov legal representative svetoslav,worcester,ma,us	bardarov legal representative svetoslav,ma,us
+barnes & noble college booksellers llc,basking ridge,nh,us	barnes & noble college llc,nh,us
+barnes & noble college booksellers llc,basking ridge,nj,us	barnes & noble college llc,nh,us
+barnesandnoble.com llc,new york,ny,us	barnes & noble college llc,nh,us
+barofold inc.,aurora,co,us	barofold inc,co,us
+baruch s. blumberg institute,doylestown,pa,us	baruch s. blumberg institute,pa,us
+battelle energy alliance llc,idaho falls,id,us	battelle energy alliance llc,id,us
+battelle memorial institute on behalf of pacific northwest national laboratory,richland,wa,us	battelle memorial institute,oh,us
+battelle memorial institute,columbus,oh,us	battelle memorial institute,oh,us
+battelle memorial institute,richland,wa,us	battelle memorial institute,oh,us
+bausch & lomb incorporated,rochester,ny,us	bausch & lomb incorp,ny,us
+baxalta incorporated,bannockburn,il,us	baxalta incorp,il,us
+baxter international inc.,deerfield,il,us	baxter international inc,il,us
+baysinger nancy k.,california,md,us	baysinger nancy k.,md,us
+baystate medical center inc.,springfield,ma,us	baystate medical center inc,ma,us
+beckman coulter inc.,brea,ca,us	beckman coulter inc,ca,us
+beckman coulter inc.,fullerton,ca,us	beckman coulter inc,ca,us
+becton dickinson and company,franklin lakes,nj,us	becton dickinson & company,nj,us
+bedoukian research inc.,danbury,ct,us	bedoukian research inc,ct,us
+beeologics inc.,st. louis,mo,us	beeologics inc,mo,us
+behr process corporation,santa ana,ca,us	behr process corp,ca,us
+benya lighting design,west linn,or,us	benya lighting design,or,us
+berger legal representative karen r.,cherry hill,nj,us	berger legal representative karen r,nj,us
+berkeley bionics,berkeley,ca,us	berkeley bionics,ca,us
+bernstein albert h.,sarasota,fl,us	bernstein albert h,fl,us
+beryllium discovery corp.,bedford,ma,us	beryllium discovery corp,ma,us
+beta biomed services inc.,rowlett,tx,us	beta biomed services inc,tx,us
+betabatt inc.,houston,tx,us	betabatt inc,tx,us
+betastem therapeutics inc.,san francisco,ca,us	betastem therapeutics inc,ca,us
+beth israel deaconess medical center inc.,boston,ca,us	beth israel deaconess medical center,ma,us
+beth israel deaconess medical center inc.,boston,ma,us	beth israel deaconess medical center,ma,us
+beth israel deaconess medical center,boston,ma,us	beth israel deaconess medical center,ma,us
+beth israel deaconness medical center,boston,ma,us	beth israel deaconess medical center,ma,us
+beth isreal deaconess medical center,boston,ma,us	beth israel deaconess medical center,ma,us
+bethesda pharmaceuticals inc.,bakerfield,ca,us	bethesda pharmaceuticals inc,ca,us
+bilger legal representative carolyn j.,champaign,il,us	bilger legal representative carolyn j,il,us
+bioclassifier llc,st. louis,mo,us	bioclassifier llc,mo,us
+biodelivery sciences international inc.,raleigh,nc,us	biodelivery sciences international inc,nc,us
+biodetection instruments llc,fayetteville,ar,us	biodetection instruments llc,ar,us
+bioe llc,st. paul,mn,us	bioe llc,mn,us
+bioenergenix llc,san francisco,ca,us	bioenergenix llc,ca,us
+biofire defense llc,salt lake city,ut,us	biofire,ut,us
+biofire diagnostics inc.,salt lake city,ut,us	biofire,ut,us
+biogen idec ma inc.,cambridge,ma,us	biogen idec ma inc,ma,us
+biokeys for flavors llc,norwood,nj,us	biokeys for flavors llc,nj,us
+biomarck pharmaceuticals ltd,raleigh,nc,us	biomarck pharmaceuticals ltd,nc,us
+biomarck pharmaceuticals ltd.,durham,nc,us	biomarck pharmaceuticals ltd,nc,us
+biomarck pharmaceuticals ltd.,raleigh,nc,us	biomarck pharmaceuticals ltd,nc,us
+cerêve inc.,oakmont,pa,us	cereve inc.,pa,us
+city college of new york,new york,ny,us	city univ new york,ny,us
+city university of new york,new york,ny,us	city univ new york,ny,us
+queen's college of the city university of new york,flushing,ny,us	city univ new york,ny,us
+research foundation of city university of new york,new york,ny,us	city univ new york,ny,us
+research foundation of the city university of new york,new york,ny,us	city univ new york,ny,us
+research foundation of the city university of ny,new york,ny,us	city univ new york,ny,us
+the research foundation of cuny of behalf of the city college of new york,new york,ny,us	city univ new york,ny,us
+the research foundation of the city of new york,new york,ny,us	city univ new york,ny,us
+the research foundation of the city university of new york,new york,ny,us	city univ new york,ny,us
+the research foundation of the city university of new york,west new york,ny,us	city univ new york,ny,us
+college park industries inc.	college park industries inc.
+college park industries inc.,warren,mi,us	college park industries inc.
+corinnova incorporated,college station,tx,us	corinnova incorp,tx,us
+emergency university inc.,emerald hills,ca,us	emergency UNversity inc,ca,us
+emergency university inc.,redwood city,ca,us	emergency UNversity inc,ca,us
+flanders interuniversity institute for biotechnology vib,ghent,be	flanders institute for biotechnology (vib),ghent,be
+flanders interuniversity institute for biotechnology vib,zwjinaarde, ghent,be	flanders institute for biotechnology (vib),ghent,be
+flanders interuniversity institute for biotechnology,ghent,be	flanders institute for biotechnology (vib),ghent,be
+vib vzw and universiteit gent,ghent,be	flanders institute for biotechnology (vib),ghent,be
+the general hospital corp.,boston,ma,us	general hospital corp,ma,us
+the general hospital corporation massachusetts,boston,ma,us	general hospital corp,ma,us
+the general hospital corporation,boston,ma,us	general hospital corp,ma,us
+the general hospital corporation,cambridge,ma,us	general hospital corp,ma,us
+the general hospital corporation,new york,ny,us	general hospital corp,ma,us
+the general hospitall corporation,boston,ma,us	general hospital corp,ma,us
+the j. david gladstone institute a testamentary trust established under the will of j. david gladstone,san francisco,ca,us	gladstone institute,ca,us
+the j. david gladstone institute,san francisco,ca,us	gladstone institute,ca,us
+the j. david gladstone institutes a testamentary trust established under the will of j. david gladstone,san francisco,ca,us	gladstone institute,ca,us
+the j. david gladstone institutes,irvine,ca,us	gladstone institute,ca,us
+the j. david gladstone institutes,san francisco,ca,us	gladstone institute,ca,us
+interuniversitair microelektronica centrum (imec),leuven,be	interuniversitair microelektronica centrum(imec),leuven,be
+the jackson laboratory,bar harbor,me,us	jackson laboratory,me,us
+the jackson laboratory,bay harbor,me,us	jackson laboratory,me,us
+the los angeles biomedical research institute at harbor-ucla medical center,torrance,ca,us	los angeles biomedical research institute,ca,us
+the los angeles biomedical research institute at harbor—ucla medical center,torrance,ca,us	los angeles biomedical research institute,ca,us
+the los angeles biomedical research institute of harbor-ucla medical center,torrance,ca,us	los angeles biomedical research institute,ca,us
+maxion technologies inc.,college park,md,us	maxion technologies inc,md,us
+medical university of south carolina,charleston,sc,us	medical univ south carolina,sc,us
+the medical university of south carolina,charleston,sc,us	medical univ south carolina,sc,us
+the methodist hospital system,houston,tx,us	methodist hospital,tx,us
+the methodist hospital,houston,tx,us	methodist hospital,tx,us
+northshore university health system,evanston,il,us	northshore health system,il,us
+northshore university healthsystem,evanston,il,us	northshore health system,il,us
+price patricia k.,college station,tx,us	price patricia k.,tx,us
+inter-university research institute corporation research organization of information and systems,tokyo,jp	research organization of information & systems,tokyo,jp
+board of governors for higher education state of rhode island and providence plantations,providence,ri,us	rhode island board of governors for higher education,ri,us
+starroter corporation,college station,tx,us	starrotor corp,tx,us
+starrotor corporation,college station,tx,us	starrotor corp,tx,us
+starrotor corportion,college station,tx,us	starrotor corp,tx,us
+research foundation for the state university of new york,albany,ny,us	state univ new york,ny,us
+research foundation of state university of new york,albany,ny,us	state univ new york,ny,us
+research foundation of state university of new york,binghamton,ny,us	state univ new york,ny,us
+research foundation of state university of new york,ny,us	state univ new york,ny,us
+research foundation of state university of new york,stony brook,ny,us	state univ new york,ny,us
+research foundation of state university of ny,stony brook,ny,us	state univ new york,ny,us
+research foundation of the state university of new york,albany,ny,us	state univ new york,ny,us
+research foundation of the state university of new york,amherst,ny,us	state univ new york,ny,us
+research foundation of the state university of new york,stony brook,ny,us	state univ new york,ny,us
+state university of new york stony brook,albany,ny,us	state univ new york,ny,us
+the research foundation for the state of university of new york,albany,ny,us	state univ new york,ny,us
+the research foundation for the state univerisity of new york,albany,ny,us	state univ new york,ny,us
+the research foundation for the state universirty of new york,albany,ny,us	state univ new york,ny,us
+the research foundation for the state university of new york stor—university at buffalo,amherst,ny,us	state univ new york,ny,us
+the research foundation for the state university of new york university at buffalo,amherst,ny,us	state univ new york,ny,us
+the research foundation for the state university of new york,albany	state univ new york,ny,us
+the research foundation for the state university of new york,albany,ny,us	state univ new york,ny,us
+the research foundation for the state university of new york,amherst,ny,us	state univ new york,ny,us
+the research foundation for the state university of new york,binghamton,ny,us	state univ new york,ny,us
+the research foundation for the university of new york,albany,ny,us	state univ new york,ny,us
+the research foundation of state of new york,syracuse,ny,us	state univ new york,ny,us
+the research foundation of state university of new york at albany,albany,ny,us	state univ new york,ny,us
+the research foundation of state university of new york,albany,ny,us	state univ new york,ny,us
+the research foundation of state university of new york,amherst,ny,us	state univ new york,ny,us
+the research foundation of state university of new york,binghamton,ny,us	state univ new york,ny,us
+the research foundation of state university of new york,stony brook,ny,us	state univ new york,ny,us
+the research foundation of state university of ny,amherst,ny,us	state univ new york,ny,us
+the research foundation of the state university of new york,albany,ny,us	state univ new york,ny,us
+the research foundation of the state university of new york,binghamton,ny,us	state univ new york,ny,us
+the research foundation of the state university of new york,stony brook,ny,us	state univ new york,ny,us
+the research foundation state university of new york,albany,ny,us	state univ new york,ny,us
+staten island university hospital,staten island,ny,us	staten island UNversity hospital,ny,us
+aberdeen university,aberdeen,gb	univ aberdeen,aberdeen,gb
+the university of akron,akron,oh,us	univ akron,oh,us
+university of akron,akron,oh,us	univ akron,oh,us
+alabama state university,montgomery,al,us	univ alabama state,al,us
+board of trustees of the university of alabama fo,huntsville,al,us	univ alabama,al,us
+board of trustees of the university of alabama for and on behalf of the university of alabama in huntsville,huntsville,al,us	univ alabama,al,us
+board of trustees of the university of alabama,tuscaloosa,al,us	univ alabama,al,us
+the board of trustees of the university of alabama for and behalf of the university of alabama in huntsville,huntsville,al,us	univ alabama,al,us
+the board of trustees of the university of alabama for and on behalf of the university of alabama in huntsville,huntsville,al,us	univ alabama,al,us
+the board of trustees of the university of alabama for and on behalf of the university of alabama,huntsville,al,us	univ alabama,al,us
+the board of trustees of the university of alabama for and on behalf of the university of alabama,tuscaloosa,al,us	univ alabama,al,us
+the board of trustees of the university of alabama,tuscaloosa,al,us	univ alabama,al,us
+the board of trustees of the university of arkansas	univ alabama,al,us
+the uab research foundation,birmingham,al,us	univ alabama,al,us
+the university of alabama at birmingham research foundation,birmingham,al,us	univ alabama,al,us
+the university of alabama in huntsville,huntsville,al,us	univ alabama,al,us
+the university of alabama research foundation,birmingham,al,us	univ alabama,al,us
+the university of alabama,tuscaloosa,al,us	univ alabama,al,us
+the university of albama at birmingham research foundation,birmingham,al,us	univ alabama,al,us
+u. of alabama at birmingham research foundation,birmingham,al,us	univ alabama,al,us
+uab research foundation university of alabama—birmingham,birmingham,al,us	univ alabama,al,us
+university of alabama at birmingham,birmingham,al,us	univ alabama,al,us
+university of alabama in huntsville,hsv,al,us	univ alabama,al,us
+university of alabama in huntsville,huntsville,al,us	univ alabama,al,us
+university of alabama,tuscaloosa,al,us	univ alabama,al,us
+albany college of pharmacy and health services,albany,ny,us	univ albany college pharmacy & health services,ny,us
+albany college of pharmacy,albany,ny,us	univ albany college pharmacy & health services,ny,us
+albany medical college,albany,ny,us	univ albany medical college,ny,us
+albany medical college,irvine,ca,us	univ albany medical college,ny,us
+albert einstein college of medicine inc.,bronx,ny,us	univ albert einstein college of medicine,ny,us
+albert einstein college of medicine of yeshiva university,bronx,ny,us	univ albert einstein college of medicine,ny,us
+albert einstein school of medicine of yeshiva university,bronx,ny,us	univ albert einstein college of medicine,ny,us
+governors of the university of alberta,alberta,ca	univ alberta,alberta,ca
+the governors of the university of alberta c/o tec edmonton,edmonton,ca	univ alberta,alberta,ca
+the governors of the university of alberta,ca	univ alberta,alberta,ca
+the governors of the university of alberta,edmonton, alberta,ca	univ alberta,alberta,ca
+the governors of the university of alberta,edmonton,ca	univ alberta,alberta,ca
+the governors of the university of alberta,edmonton,ca,us	univ alberta,alberta,ca
+university of alberta tec edmonton,edmonton,ca	univ alberta,alberta,ca
+university of alberta,edmonton, alberta,ca	univ alberta,alberta,ca
+university of alberta,edmundton, alberta,ca	univ alberta,alberta,ca
+alfred university,alfred,ny,us	univ alfred,ny,us
+the american university of beirut,beirut,lb	univ american beirut,beirut,lb
+academisch medisch centrum bu de universiteit van amsterdam,amsterdam,nl	univ amsterdam,amsterdam,nl
+universidad de antioquia,antioquia,co	univ antioquia,medellin,co
+universiteit antwerpen,antwerp,be	univ antwerpen,antwerp,be
+universiteit antwerpen,antwerpen,be	univ antwerpen,antwerp,be
+universteit antwerpen,antwerp,be	univ antwerpen,antwerp,be
+arizona board of regents a body corporate for the state of arizona acting for and on behalf of arizona,scottsdale,az,us	univ arizona board regents,az,us
+arizona board of regents a body corporate of the state of arizona acting for and on behalf of ariz,scottsdale,az,us	univ arizona board regents,az,us
+arizona board of regents a body corporate of the state of arizona acting for and on behalf of arizona state,scottsdale,az,us	univ arizona board regents,az,us
+arizona board of regents a body corporate of the state of arizona acting for and on behalf of arizona,scottsdale,az,us	univ arizona board regents,az,us
+arizona board of regents a body corporate of the state of arizona acting for and on...,scottsdale,az,us	univ arizona board regents,az,us
+arizona board of regents a body corporate of the state of arizona,flagstaff,az,us	univ arizona board regents,az,us
+arizona board of regents,flagstaff,az,us	univ arizona board regents,az,us
+arizona board of regents,scottsdale,az,us	univ arizona board regents,az,us
+arizona board of regents,tucson,az,us	univ arizona board regents,az,us
+the arizona board of regents,scottsdale,az,us	univ arizona board regents,az,us
+the arizona board of regents,tucson,az,us	univ arizona board regents,az,us
+the arizona board regents,tucson,az,us	univ arizona board regents,az,us
+arizona board of regents a body corporate acting for and on behalf of arizona state university,scottsdale,az,us	univ arizona state,az,us
+arizona board of regents a body corporate of the state of arizona acting for and on behalf of arizona state university,scottsdale,ar,us	univ arizona state,az,us
+arizona board of regents a body corporate of the state of arizona acting for and on behalf of arizona state university,scottsdale,az,us	univ arizona state,az,us
+arizona board of regents a body corporate of the state of arizona acting for and on behlf of arizona state university,scottsdale,az,us	univ arizona state,az,us
+arizona board of regents a body corporate of the state of arizona for and on behalf of arizona state university,scottsdale,az,us	univ arizona state,az,us
+arizona board of regents a body corporate of the state of az acting for and on behalf of asu,scottsdale,az,us	univ arizona state,az,us
+arizona board of regents acting for and on behalf of arizona state university,scottsdale,az,us	univ arizona state,az,us
+arizona board of regents for and on behalf arizona state university,scottsdale,az,us	univ arizona state,az,us
+arizona board of regents for and on behalf of arizona state university,phoenix,az,us	univ arizona state,az,us
+arizona board of regents for and on behalf of arizona state university,scottsdale,az,us	univ arizona state,az,us
+arizona board of regents for and on behalf of arizona state university,tempe,az,us	univ arizona state,az,us
+arizona board of regents for and on behalf of arizona state univesity,scottsdale,az,us	univ arizona state,az,us
+arizona board of regents on behalf arizona state university,scottsdale,az,us	univ arizona state,az,us
+arizona board of regents on behalf of arizona state university	univ arizona state,az,us
+arizona board of regents on behalf of arizona state university,scottsdale,az,us	univ arizona state,az,us
+arizona board of regents on behalf of arizona state university,tempe,az,us	univ arizona state,az,us
+arizona board regents for and on behalf of arizona state university,tempe,az,us	univ arizona state,az,us
+arizona state university ira a. fulton schools of engineering,tempe,az,us	univ arizona state,az,us
+the arizona board of regents a body corporate of the state of arizona acting for and on behalf of arizona state university,scottsdale,az,us	univ arizona state,az,us
+the arizona board of regents for and on behalf of arizona state univeristy,scottsdale,az,us	univ arizona state,az,us
+the arizona board of regents for and on behalf of arizona state university,scottsdale,az,us	univ arizona state,az,us
+the arizona board of regents for and on behalf of arizona state university,tempe,az,us	univ arizona state,az,us
+arizona board of reagents on behalf of the university of arizona,phoenix,az,us	univ arizona,az,us
+arizona board of regents acting on behalf of the university of arizona,tucson,az,us	univ arizona,az,us
+arizona board of regents of behalf of the university of arizona,tucson,az,us	univ arizona,az,us
+arizona board of regents on behalf of the university of arizona,phoenix,az,us	univ arizona,az,us
+arizona board of regents on behalf of the university of arizona,tucson,az,us	univ arizona,az,us
+arizona board of regents on behalf of the university of arizona,tuscon,az,us	univ arizona,az,us
+arizona board of regents on behalf of university of arizona,tucson,az,us	univ arizona,az,us
+arizona board of regents on behalf of university of arizona,tuscon,az,us	univ arizona,az,us
+arizona board of regents on behalf the university of arizona,tuscon,az,us	univ arizona,az,us
+the arizona board of regents of behalf of the university of arizona,tucson,az,us	univ arizona,az,us
+the arizona board of regents on behalf of the univeristy of arizona,tucson,az,us	univ arizona,az,us
+the arizona board of regents on behalf of the university of arizona,phoenix,az,us	univ arizona,az,us
+the arizona board of regents on behalf of the university of arizona,tucson,az,us	univ arizona,az,us
+the arizona board of regents on behalf of the university of arizona,tuscon,az,us	univ arizona,az,us
+the arizona board of regents on behalff of the university of arizona,tucson,az,us	univ arizona,az,us
+the board of arizona regents on behalf of the university of arizona,tucson,az,us	univ arizona,az,us
+the university of arizona tech transfer arizona,tucson,az,us	univ arizona,az,us
+the university of arizona,tucson,az,us	univ arizona,az,us
+the university of arizona,tuscon,az,us	univ arizona,az,us
+university of arizona office of technology transfer,tucson,az,us	univ arizona,az,us
+university of arizona,tucson,az,us	univ arizona,az,us
+arkansas state university—jonesboro,jonesboro,ar,us	univ arkansas state,ar,us
+arkansas state university-jonesboro,state university,ar,us	univ arkansas state,ar,us
+arkansas state university—jonesboro,state university,ar,us	univ arkansas state,ar,us
+board of trustees of the university of arkansas,fayetteville,ar,us	univ arkansas,ar,us
+board of trustees of the university of arkansas,little rock,ar,us	univ arkansas,ar,us
+board of trustees of the university of arkansas,little rocks,ar,us	univ arkansas,ar,us
+board of trustees of university of arkansas,little rock,ar,us	univ arkansas,ar,us
+board of trustees university of arkansas,little rock,ar,us	univ arkansas,ar,us
+board of trutees of the university of arkansas,little rock,ar,us	univ arkansas,ar,us
+broad of trustees of the university of arkansas,little rock,ar,us	univ arkansas,ar,us
+the board of trustees at the university of arkansas,little rock,ar,us	univ arkansas,ar,us
+the board of trustees of the university of arkansas,little rock,ak,us	univ arkansas,ar,us
+the board of trustees of the university of arkansas,little rock,ar,us	univ arkansas,ar,us
+university of arkansas,little rock,ak,us	univ arkansas,ar,us
+university of arkansas,little rock,ar,us	univ arkansas,ar,us
+auburn univeristy,auburn,al,us	univ auburn,al,us
+auburn university,auburn,al,us	univ auburn,al,us
+auburn university,pelham,ny,us	univ auburn,al,us
+augusta university research institute inc.,augusta,ga,us	univ augusta,ga,us
+australian national university,canberra,au	univ australian national,canberra,au
+the australian national university,au	univ australian national,canberra,au
+bar ilan university,ramat gan,il	univ bar ilan,ramat gan,il
+universitat de barcelona,barcelona,es	univ barcelona,barcelona,es
+university hospital basel,basel,ch	univ basel,basel,ch
+the university of bath,bath,gb	univ bath,bath,gb
+baylor college of medicine,houston,tx,us	univ baylor college of medicine,tx,us
+baylor college of medicine,houtson,tx,us	univ baylor college of medicine,tx,us
+baylor university,waco,tx,us	univ baylor,tx,us
+baylor universwity,waco,tx,us	univ baylor,tx,us
+beijing institute of technology,cn	univ beijing institute of tech,beijing,cn
+ben-gurion university of the negev research and development authority,beer-sheva,il	univ ben gurion,beer-sheva,il
+universitat bern,bern,ch	univ bern,bern,ch
+university of bern,bern,ch	univ bern,bern,ch
+the university of birmingham of edgbaston,birmingham,gb	univ birmingham,birmingham,gb
+the university of birmingham,birmingham,gb	univ birmingham,birmingham,gb
+the university of birmingham,edgbaston, birmingham,gb	univ birmingham,birmingham,gb
+universite blaise pascal,clermont-ferrand,fr	univ blaise pascal,puy-de-dome,fr
+boise state university,boise,id,us	univ boise state,id,us
+alma mater studiorum-universita di bologna,bologna,it	univ bologna,bologna,it
+the trustees of boston college,chestnut hill,ma,us	univ boston college,ma,us
+the trustees of boston college,chestnutt hill,ma,us	univ boston college,ma,us
+trustee of boston college,chestnut hill,ma,us	univ boston college,ma,us
+trustees of boston college,chestnut hill,ma,us	univ boston college,ma,us
+boston university,boston,ma,us	univ boston,ma,us
+the trustees of boston university,boston,ma,us	univ boston,ma,us
+the trustees of the boston university,boston,ma,us	univ boston,ma,us
+trustees of boston university,boston,ma,us	univ boston,ma,us
+bowling green state university,bowling green,oh,us	univ bowling green state,oh,us
+brandeis university	univ brandeis,ma,us
+brandeis university,waltham,ma,us	univ brandeis,ma,us
+brandels university,waltham,ma,us	univ brandeis,ma,us
+brigham young university technology transfer office,provo,ut,us	univ brigham young,ut,us
+brigham young university,prove,ut,us	univ brigham young,ut,us
+brigham young university,provo,ut,us	univ brigham young,ut,us
+brighman young university,provo,ut,us	univ brigham young,ut,us
+bringham young university,provo,ut,us	univ brigham young,ut,us
+the university of bristol,bristol,gb	univ bristol,bristol,gb
+university of bristol,bristol,gb	univ bristol,bristol,gb
+the university of british columbia,ca	univ british columbia,bc,ca
+the university of british columbia,vancouver, bc,ca	univ british columbia,bc,ca
+the university of british columbia,vancouver, british columbia	univ british columbia,bc,ca
+the university of british columbia,vancouver, british columbia,ca	univ british columbia,bc,ca
+the university of british columbia,vancouver,ca	univ british columbia,bc,ca
+the university of british columbia,vancouver,ca,us	univ british columbia,bc,ca
+the university of british columbia/university-industrial liaison office,ca	univ british columbia,bc,ca
+university of british columbia,vancouver,ca	univ british columbia,bc,ca
+brock university,st. catharines, ontario,ca	univ brock,ontario,ca
+brock university,st. catharines,ca	univ brock,ontario,ca
+brown university research foundation,providence,ri,us	univ brown,ri,us
+brown university,providence,ri,us	univ brown,ri,us
+bryn mawr college,bryn mawr,pa,us	univ bryn mawr college,pa,us
+universidad de buenos aires,buenos aires,ar	univ buenos aires,buenos aires,ar
+university of cagliari,cagliari,it	univ cagliari,cagliari,it
+universidad de caldas,caldas,co	univ caldas,caldas,co
+univeristy technologies international inc.,calgary,ca	univ calgary,calgary,ca
+university technologies international inc.,alberta,ca	univ calgary,calgary,ca
+university technologies international inc.,calgary, alberta,ca	univ calgary,calgary,ca
+california instistute of technology,pasadena,ca,us	univ california institute of tech,ca,us
+california institue of technology,pasadena,ca,us	univ california institute of tech,ca,us
+california institute of technology,padadena,ca,us	univ california institute of tech,ca,us
+california institute of technology,pasadena,ca,us	univ california institute of tech,ca,us
+california institute of technology,pasedena,ca,us	univ california institute of tech,ca,us
+california institute of technonolgy,pasadena,ca,us	univ california institute of tech,ca,us
+the california institute of technology,pasadena,ca,us	univ california institute of tech,ca,us
+the california institute of technology,pasdena,ca,us	univ california institute of tech,ca,us
+california northstate college of pharmacy llc,rancho cordova,ca,us	univ california northstate,ca,us
+california northstate college of pharmacy,rancho cordova,ca,us	univ california northstate,ca,us
+cal poly corporation california polytechnic state university,san luis obispo,ca,us	univ california polytechnic state,ca,us
+california state university fresno,fresno,ca,us	univ california state,ca,us
+california state university fullerton,fullerton,ca,us	univ california state,ca,us
+california state university sacramento,sacramento,ca,us	univ california state,ca,us
+fresno california state university,fresno,ca,us	univ california state,ca,us
+fullerton california state university,fullerton,ca,us	univ california state,ca,us
+purdue research foundation regents of the university of california,west lafayette,in,us	univ california,ca,us
+regents of the university of ca,oakland,ca,us	univ california,ca,us
+regents of the university of california,berkeley,ca,us	univ california,ca,us
+regents of the university of california,oakland,ca,us	univ california,ca,us
+regents of university of california,oakland,ca,us	univ california,ca,us
+san diego university of california,oakland,ca,us	univ california,ca,us
+the board of regents the university of california,oakland,ca,us	univ california,ca,us
+the regeants of the university of california,oakland,ca,us	univ california,ca,us
+the regents of teh university of california,oakland,ca,us	univ california,ca,us
+the regents of th university of california,oakland,ca,us	univ california,ca,us
+the regents of the univerisity of california,oakland,ca,us	univ california,ca,us
+the regents of the univeristy of california	univ california,ca,us
+the regents of the university of calfiornia,oakland,ca,us	univ california,ca,us
+the regents of the university of califonia,oakland,ca,us	univ california,ca,us
+the regents of the university of california	univ california,ca,us
+the regents of the university of california a california corporation,oakland,ca,us	univ california,ca,us
+the regents of the university of california berke,oakland,ca,us	univ california,ca,us
+the regents of the university of california davis,oakland,ca,us	univ california,ca,us
+the regents of the university of california ucsf,san francisco,ca,us	univ california,ca,us
+the regents of the university of california,berkeley,ca,us	univ california,ca,us
+the regents of the university of california,la jolla,ca,us	univ california,ca,us
+the regents of the university of california,los angeles,ca,us	univ california,ca,us
+the regents of the university of california,oakland	univ california,ca,us
+the regents of the university of california,oakland,al,us	univ california,ca,us
+the regents of the university of california,oakland,ca	univ california,ca,us
+the regents of the university of california,oakland,ca,us	univ california,ca,us
+the regents of the university of california,oaklane,ca,us	univ california,ca,us
+the regents of the university of california,oaklnad,ca,us	univ california,ca,us
+the regents of the university of california,okland,ca,us	univ california,ca,us
+the regents of the university of california,pasadena,ca,us	univ california,ca,us
+the regents of the university of california,san francisco,ca,us	univ california,ca,us
+the regents of the university of california;,oakland,ca,us	univ california,ca,us
+the regents of the university of califronia,oakland,ca,us	univ california,ca,us
+the regents of the universtiy of california,oakland,ca,us	univ california,ca,us
+the regents of university of california,oakland,ca,us	univ california,ca,us
+the regents oft the university of california,oakland,ca,us	univ california,ca,us
+the retents of the university of california,oakland,ca,us	univ california,ca,us
+the rgegents of the university of california,oakland,ca,us	univ california,ca,us
+the university of california,oakland,ca,us	univ california,ca,us
+university of california	univ california,ca,us
+university of california at berkekey,berkeley,ca,us	univ california,ca,us
+university of california berkeley,berkeley,ca,us	univ california,ca,us
+university of california david,oakland,ca,us	univ california,ca,us
+university of california davis,davis,ca,us	univ california,ca,us
+university of california san diego regents of university of california,oakland,ca,us	univ california,ca,us
+university of california san diego,la jolla,ca,us	univ california,ca,us
+university of california san diego,oakland,ca,us	univ california,ca,us
+university of california santa barbara (ucsb),santa barbara,ca,us	univ california,ca,us
+university of california,davis,ca,us	univ california,ca,us
+university of california,los angeles,ca,us	univ california,ca,us
+university of california,oakland,ca,us	univ california,ca,us
+university of california-los angeles,los angeles,ca,us	univ california,ca,us
+cambridge university technical services ltd.,cambridge,gb	univ cambridge,cambridge,gb
+university of canterbury,christchurch,nz	univ canterbury,christchurch,nz
+cape brown university,sydney,ca	univ cape brown,sydney,ca
+university of cape town observatory,cape town,za	univ cape town,western cape,za
+university of cape town,cape town,za	univ cape town,western cape,za
+university of cape town,rondebosch,za	univ cape town,western cape,za
+university college cardiff consultants limited,cardiff,gb	univ cardiff,wales,gb
+university college cardiff consultants ltd,cardiff,gb	univ cardiff,wales,gb
+carmel-haifa university economic corp.,mount carmel, haifa,il	univ carmel-haifa,haifa,il
+carmel—haifa university economic corporation ltd.,haifa,il	univ carmel-haifa,haifa,il
+carnegie mellon university a pennsylvania non-profit corporation,pittsburgh,pa,us	univ carnegie mellon,pa,us
+carnegie mellon university center for technology transfer and enterpirse creation,pittsburgh,pa,us	univ carnegie mellon,pa,us
+carnegie mellon university center for technology transfer and enterprise creation,pittsburgh,pa,us	univ carnegie mellon,pa,us
+carnegie mellon university,pittsburg,pa,us	univ carnegie mellon,pa,us
+carnegie mellon university,pittsburgh,pa,us	univ carnegie mellon,pa,us
+carnegie-mellon university,pittsburgh,pa,us	univ carnegie mellon,pa,us
+case western reserve university,cleveland,oh,us	univ case western reserve,oh,us
+case western university,cleveland,oh,us	univ case western reserve,oh,us
+l'universite catholique de louvain,louvain-la-neuve,be	univ catholique louvain,louvain,be
+cayetano heredia university,s.m.p. lima,pe	univ cayetano heredia,lima,pe
+universidad peruma cayetano heredia,lima,pe	univ cayetano heredia,lima,pe
+research foundation of the university of central florida inc.,orlando,fl,us	univ central florida,fl,us
+the university of central florida research foundation inc.,orlando,fl,us	univ central florida,fl,us
+univeristy of central florida research foundation inc.,orlando,fl,us	univ central florida,fl,us
+univerity of central florida reseach foundation inc.,orlando,fl,us	univ central florida,fl,us
+university of central flordia research foundation inc.,orlando,fl,us	univ central florida,fl,us
+university of central florida foundation inc.,orlando,fl,us	univ central florida,fl,us
+university of central florida foundations inc.,orlando,fl,us	univ central florida,fl,us
+university of central florida research foundation inc,orlando,fl,us	univ central florida,fl,us
+university of central florida research foundation inc.,ithaca,ny,us	univ central florida,fl,us
+university of central florida research foundation inc.,oralndo,fl,us	univ central florida,fl,us
+university of central florida research foundation inc.,orland,fl,us	univ central florida,fl,us
+university of central florida research foundation inc.,orlando,ca,us	univ central florida,fl,us
+university of central florida research foundation inc.,orlando,fl,us	univ central florida,fl,us
+university of central florida research foundation inc.,tainun,tw	univ central florida,fl,us
+university of central florida research foundation,orlando,fl,us	univ central florida,fl,us
+university of central florida,orlando,fl,us	univ central florida,fl,us
+university of central research foundation inc.,orlando,fl,us	univ central florida,fl,us
+central michigan university,mount pleasant,mi,us	univ central michigan,mi,us
+chalmers university of technology,gothenburg,se	univ chalmers tech,gothenburg,se
+university of chester,chester,gb	univ chester,north west england,gb
+the university of chicago,chicago,il,us	univ chicago,il,us
+university of chicago,chicago,il,us	univ chicago,il,us
+university of chile,cl	univ chile,santiago metropolitan region,cl
+university of chile,santiago,cl	univ chile,santiago metropolitan region,cl
+china agricultural university,beijing,cn	univ china agricultural,beijing,cn
+china university of mining & technology,jiangsu,cn	univ china mining & tech jiangsu,jiangsu,cn
+china university of mining & technology,xuzhou, jiangsu province,cn	univ china mining & tech jiangsu,jiangsu,cn
+china university of petroleum,beijing,cn	univ china petroleum (beijing),beijing,cn
+university of science and technology of china,anhui,cn	univ china science & tech,anhui,cn
+the chinese university of hong kong,hong kong,hk	univ chinese hong kong,hk,cn
+the chinese university of hong kong,sha tin,cn	univ chinese hong kong,hk,cn
+the chinese university of hong kong,shatin,cn	univ chinese hong kong,hk,cn
+the cleveland clinic foundation,cleveland,oh,us	univ chinese hong kong,hk,cn
+the coca-cola company,atlanta,ga,us	univ chinese hong kong,hk,cn
+industrial cooperation foundation chonbuk national university,jeonbuk,kr	univ chonbuk national,unknown,kr
+chosun university,kr	univ chosun,unknown,kr
+the university of cincinnati,cincinnati,oh,us	univ cincinnati,oh,us
+university of cincinnati,cincinnati,oh,us	univ cincinnati,oh,us
+university of cinicnnati,cincinnati,oh,us	univ cincinnati,oh,us
+clarkson university	univ clarkson,ny,us
+clarkson university,potsdam,ny,us	univ clarkson,ny,us
+clarkson university—division of research,potsdam,ny,us	univ clarkson,ny,us
+clemson university research foundation (curf),anderson,sc,us	univ clemson,sc,us
+clemson university research foundation inc.,clemson,sc,us	univ clemson,sc,us
+clemson university research foundation,anderson,sc,us	univ clemson,sc,us
+clemson university research foundation,clemson,sc,us	univ clemson,sc,us
+clemson university,anderson,sc,us	univ clemson,sc,us
+clemson university,clemson,sc,us	univ clemson,sc,us
+clomson university,clomson,sc,us	univ clemson,sc,us
+cleveland state university,cleveland,oh,us	univ cleveland state,oh,us
+college of charleston,charleston,sc,us	univ college charleston,sc,us
+university college dublin belfield,dublin,ie	univ college dublin,dublin,ie
+university college dublin national university of ireland dublin,dublin,ie	univ college dublin,dublin,ie
+university college dublin national university of ireland,belfield, dublin,ie	univ college dublin,dublin,ie
+university college dublin,belfield, dublin,ie	univ college dublin,dublin,ie
+university college dublin,belfield,ie	univ college dublin,dublin,ie
+university college dublin,dublin,ie	univ college dublin,dublin,ie
+university college dublin,dublin,il	univ college dublin,dublin,ie
+university college london,gb	univ college london,london,gb
+university college london,london,gb	univ college london,london,gb
+college of william & mary,williamsburg,va,us	univ college william & mary,va,us
+college of william and mary,williamsburg,va,us	univ college william & mary,va,us
+colorado school of mines,golden,co,us	univ colorado school of mines,co,us
+colorado state university research foundation,fort collins,co,us	univ colorado state,co,us
+colorado state university research university,fort collins,co,us	univ colorado state,co,us
+colorado state university research,fort collins,co,us	univ colorado state,co,us
+regents of the university of colorado a body corporate,denver,co,us	univ colorado,co,us
+regents of the university of colorado,boulder,co,us	univ colorado,co,us
+regents of the university of colorado,denver,co,us	univ colorado,co,us
+the regents of the university of colorado a body corporate,aurora,co,us	univ colorado,co,us
+the regents of the university of colorado a body corporate,boulder,co,us	univ colorado,co,us
+the regents of the university of colorado a body corporate,denver,co,us	univ colorado,co,us
+the regents of the university of colorado a body corporate,dover,co,us	univ colorado,co,us
+the regents of the university of colorado a body of corporate,denver,co,us	univ colorado,co,us
+the regents of the university of colorado denver,denver,co,us	univ colorado,co,us
+the regents of the university of colorado,aurora,co,us	univ colorado,co,us
+the regents of the university of colorado,boulder,co,us	univ colorado,co,us
+the regents of the university of colorado,denver,ca,us	univ colorado,co,us
+the regents of the university of colorado,denver,co,us	univ colorado,co,us
+the regents of university of colorado a body corporate,boulder,co,us	univ colorado,co,us
+the regents of university of colorado a body corporate,denver,co,us	univ colorado,co,us
+columbia university in the city of new york,new york,ny,us	univ columbia,ny,us
+columbia university,new york,ny,us	univ columbia,ny,us
+columbia university,rochester,ny,us	univ columbia,ny,us
+the trustee of columbia university in the city of new york,new york,ny,us	univ columbia,ny,us
+the trustees of columbia in the city of new york,new york,ny,us	univ columbia,ny,us
+the trustees of columbia university in the city of new york,new york,ny,us	univ columbia,ny,us
+the trustees of columbia university on the city of new york,new york,ny,us	univ columbia,ny,us
+the trustees of columbia university,new york,ny,us	univ columbia,ny,us
+the trustess of columbia university in the city of new york,ny,ny,us	univ columbia,ny,us
+trustees of columbia university in the city of new york,new york,ny,us	univ columbia,ny,us
+trustees of columbia university,new york,ny,us	univ columbia,ny,us
+the commonwealth medical college,scranton,pa,us	univ commonwealth medical college,pa,us
+the university of connecticut technology partnership & licensing,farmington,ct,us	univ connecticut,ct,us
+the university of connecticut technology partnerships & licensing,farmington,ct,us	univ connecticut,ct,us
+the university of connecticut,famington,ct,us	univ connecticut,ct,us
+the university of connecticut,farmington,ct,us	univ connecticut,ct,us
+the university of connecticut,storrs,ct,us	univ connecticut,ct,us
+the university of conneticut,farmington,ct,us	univ connecticut,ct,us
+university of connecticut	univ connecticut,ct,us
+university of connecticut center for science and technology commercialization,farmington,ct,us	univ connecticut,ct,us
+university of connecticut the,farmington,ct,us	univ connecticut,ct,us
+university of connecticut,farmington	univ connecticut,ct,us
+university of connecticut,farmington,ct,us	univ connecticut,ct,us
+university of connecticut,framington,ct,us	univ connecticut,ct,us
+university of connecticut,storrs,ct,us	univ connecticut,ct,us
+university of conneticut,farmington,ct,us	univ connecticut,ct,us
+koebenhavns universitet (university of copenhagen),copenhagen,dk	univ copenhagen,copenhagen,dk
+univ. of copenhagen,copenhagen k,dk	univ copenhagen,copenhagen,dk
+university of copenhagen,copenhagen k,dk	univ copenhagen,copenhagen,dk
+cctec/cornell university,ithaca,ny,us	univ cornell,ny,us
+cornell univeristy cornell center for technology enterprise & commercialization,ithaca,ny,us	univ cornell,ny,us
+cornell univeristy,ithaca,ny,us	univ cornell,ny,us
+cornell university cornell center for technology enterprise & commercialization,ithaca,ny,us	univ cornell,ny,us
+cornell university with its principle place of business at cornell center for technology enterprise & comm,ithaca,ny,us	univ cornell,ny,us
+cornell university,itahca,ny,us	univ cornell,ny,us
+cornell university,ithaca,ny,us	univ cornell,ny,us
+cornell university,ithica,ny,us	univ cornell,ny,us
+cornell universiy,ithaca,ny,us	univ cornell,ny,us
+creighton university,omaha,ne,us	univ creighton,ne,us
+university of cyprus,cyprus,gr	univ cyprus,nicosia,cy
+dalhousie university,halifax,ca	univ dalhousie,halifax,ca
+dalhousie university,halifax,ca,us	univ dalhousie,halifax,ca
+dalian university of technology,dalian,cn	univ dalian tech,liaoning,cn
+the trustees of dartmouth college,hanover,nh,us	univ dartmouth college,nh,us
+trustees of darmouth college,hanover,nh,us	univ dartmouth college,nh,us
+trustees of dartmout college,hanover,nh,us	univ dartmouth college,nh,us
+trustees of dartmouth college,hanover,nh,us	univ dartmouth college,nh,us
+trustees of davidson college,davidson,nc,us	univ davidson college,nc,us
+university of dayton,dayton,oh,us	univ dayton,oh,us
+universidad del norte,barranquilla,co	univ del norte,atlantico,co
+university of delaware,newark,de,us	univ delaware,de,us
+delft university of technology,delft,nl	univ delft tech,delft,nl
+delft university of technoloty,delft,nl	univ delft tech,delft,nl
+technical university delft,delft,nl	univ delft tech,delft,nl
+technion research & development foundation ltd.,haifa,il	univ delft tech,delft,nl
+technion research and development foundation limited,haifa,il	univ delft tech,delft,nl
+technion research and development foundation ltd.,haifa,il	univ delft tech,delft,nl
+the technical university of denmark,lyngby,dk	univ denmark tech,lyngby,dk
+colorado seminary which owns and operates the university of denver,denver,co,us	univ denver,co,us
+colorado seminary,denver,co,us	univ denver,co,us
+board of regents of the nevada system of higher education on behalf of the desert research institute,reno,nv,us	univ desert research institute,nv,us
+dresden university of technology,dresden,de	univ dresden tech,dresden,de
+drexel university,philadelphia,pa,us	univ drexel,pa,us
+dublin city university,dublin,ie	univ dublin city,dublin,ie
+universitat duisburg-essen,essen,de	univ duisburg-essen,north rhine westphalia,de
+duke university medical center,durham,nc,us	univ duke,nc,us
+duke university,denver,co,us	univ duke,nc,us
+duke university,durham,nc,us	univ duke,nc,us
+duke university,durham,sc,us	univ duke,nc,us
+the university of dundee,dundee, scotland,gb	univ dundee,dundee,gb
+the university of dundee,dundee,gb	univ dundee,dundee,gb
+the university of dundee,scotland,gb	univ dundee,dundee,gb
+duquesne university of the holy ghost,pittsburgh,pa,us	univ duquesne,pa,us
+duquesne university of the holy spirit,pittsburgh,pa,us	univ duquesne,pa,us
+durham university,durham,gb	univ durham,durham,gb
+university of east anglia,gb	univ east anglia,norfolk,gb
+east carolina university,greenville,nc,us	univ east carolina,nc,us
+east china normal university,shanghai,cn	univ east china normal,shanghai,cn
+east china university of science and technology,shanghai,cn	univ east china science & tech,shanghai,cn
+east tennessee state university,johnson city,tn,us	univ east tennessee state,tn,us
+eastern michigan university,ypsilanti,mi,us	univ eastern michigan,mi,us
+the university court of the university of edinburgh,edinburg,gb	univ edinburgh,edinburgh,gb
+the university court of the university of edinburgh,edinburgh,gb	univ edinburgh,edinburgh,gb
+emoery university,atlanta,ga,us	univ emory,ga,us
+emory university,altanta,ga,us	univ emory,ga,us
+emory university,atlanta,ga,us	univ emory,ga,us
+emory university,atlanta,gu,us	univ emory,ga,us
+erasmus university medical center rotterdam (erasmus mc),ce rotterdam,nl	univ erasmus,rotterdam,nl
+friedrich-alexander-universitaet erlangen-nuernberg,de	univ erlangen-nurnberger,unknown,de
+universidade federal de minas gerais,belo horizonte,br	univ federal minas gerais,minas gerais,br
+universidade federal de paraiba,joao pessoa,br	univ federal paraiba,paraiba,br
+universidade federal de sao paulo—unifesp,sao paulo,br	univ federal sao paulo,sao paulo,br
+ecole polytechnique federale de lausanne (epfl),lausanne,ch	univ federale lausanne polytechnique,lausanne,ch
+ecole polytechnique federale de lausanne,lausanne,ch	univ federale lausanne polytechnique,lausanne,ch
+ferris state university,big rapids,mi,us	univ ferris state,mi,us
+fisk university,nashville,tn,us	univ fisk,tn,us
+florida agricultural and mechanical university,tallahassee,fl,us	univ florida agricultural & mechanical,fl,us
+florida atlantic university board of trustees,ft. pierce,fl,us	univ florida atlantic,fl,us
+florida atlantic university research corporation,boca raton,fl,us	univ florida atlantic,fl,us
+florida atlantic university,boca raton,fl,us	univ florida atlantic,fl,us
+florida gulf coast university,ft. myers,fl,us	univ florida gulf coast,fl,us
+florida institute of technology,melbourne,fl,us	univ florida institute of tech,fl,us
+the flordia international university board of trustees,miami,fl,us	univ florida international,fl,us
+the florida international university board of trustees,miami,fl,us	univ florida international,fl,us
+the florida international university,miami,fl,us	univ florida international,fl,us
+florida memorial university,miami gardens,fl,us	univ florida memorial,fl,us
+florida state university research foundation inc.,tallahassee,fl,us	univ florida state,fl,us
+florida state university research foundation,tallahassee,fl,us	univ florida state,fl,us
+the flordia state university research foundation inc.,tallahassee,fl,us	univ florida state,fl,us
+the florida state university reasearch foundation inc.,tallahassee,fl,us	univ florida state,fl,us
+the florida state university research foundation inc,tallahassee,fl,us	univ florida state,fl,us
+the florida state university research foundation inc.,tallahassee	univ florida state,fl,us
+the florida state university research foundation inc.,tallahassee,fl,us	univ florida state,fl,us
+the florida state university research foundation inc.,tampa,fl,us	univ florida state,fl,us
+the florida state university research foundation,tallahassee,fl,us	univ florida state,fl,us
+the university of florida research foundation inc.,gainesville,fl,us	univ florida,fl,us
+the university of florida research foundation,gainesville,fl,us	univ florida,fl,us
+the university of florida,gainesville,fl,us	univ florida,fl,us
+university of floria research foundation inc.,gainesville,fl,us	univ florida,fl,us
+university of florida reearch foundation inc.,gainesville,fl,us	univ florida,fl,us
+university of florida research foundation inc,gainesville,fl,us	univ florida,fl,us
+university of florida research foundation inc.	univ florida,fl,us
+university of florida research foundation inc.,gainesville	univ florida,fl,us
+university of florida research foundation inc.,gainesville,fl,us	univ florida,fl,us
+university of florida research foundation inc.,gainseville,fl,us	univ florida,fl,us
+university of florida research foundation inc.,gainsville,fl,us	univ florida,fl,us
+university of florida research foundation inc.,orlando,fl,us	univ florida,fl,us
+university of florida research foundation incorporated,gainesville,fl,us	univ florida,fl,us
+university of florida research foundation incorporated,gaineville,fl,us	univ florida,fl,us
+university of florida research foundation,gainesville,fl,us	univ florida,fl,us
+university of florida research foundation,gainsville,fl,us	univ florida,fl,us
+university of florida resesarch foundation inc.,gainesville,fl,us	univ florida,fl,us
+university of florida,gainesville,fl,us	univ florida,fl,us
+university of florida,tampa,fl,us	univ florida,fl,us
+unversity of florida research foundation inc.,gainesville,fl,us	univ florida,fl,us
+franklin and marshall college,lancaster,pa,us	univ franklin and marshall college,pa,us
+franklin and marshall,lancaster,pa,us	univ franklin and marshall college,pa,us
+the trustees of frinceton university,princeton,nj,us	univ frinceton,nh,us
+fudan university,shanghai,cn	univ fudan,shanghai,cn
+liver cancer institute and zhongshan hospital fudan university,shangai,cn	univ fudan,shanghai,cn
+fujita health university,toyoake-shi,jp	univ fujita health,aichi,jp
+the faculty of medicine of the university of geneva,geneva,ch	univ geneva,geneva,ch
+george mason university,fairfax,va,us	univ george mason,va,us
+george mason university,farifax,va,us	univ george mason,va,us
+the george washington university a congressionally chartered not-for-profit corporation,washington,dc,us	univ george washington,dc,us
+the george washington university a congressionally not-for-profit corporation,washington,dc,us	univ george washington,dc,us
+the george washington university and board of regents,washington,dc,us	univ george washington,dc,us
+the george washington university,washington,dc,us	univ george washington,dc,us
+georgetown university medical center,washington,dc,us	univ georgetown,dc,us
+georgetown university,washington,dc,us	univ georgetown,dc,us
+gerogetown university,washington,dc,us	univ georgetown,dc,us
+georgia institute of technology,atlanta,ga,us	univ georgia institute of tech,ga,us
+georgia tech research corp.,atlanta,ga,us	univ georgia institute of tech,ga,us
+georgia tech research corporation	univ georgia institute of tech,ga,us
+georgia tech research corporation georgia institute of technology,atlanta,ga,us	univ georgia institute of tech,ga,us
+georgia tech research corporation,atlanta,ga,us	univ georgia institute of tech,ga,us
+georgia tech research corporation—georgia institute of technology,atlanta,ga,us	univ georgia institute of tech,ga,us
+georgia tech research,atlanta,ga,us	univ georgia institute of tech,ga,us
+georgua tech research corporation,atlanta,ga,us	univ georgia institute of tech,ga,us
+gerogia tech research corporation,atlanta,ga,us	univ georgia institute of tech,ga,us
+medical college of georgia research institute,atlanta,ga,us	univ georgia institute of tech,ga,us
+medical college of georgia research institute,augusta,ga,us	univ georgia institute of tech,ga,us
+medical college of georgia,augusta,ga,us	univ georgia institute of tech,ga,us
+the georgia tech research corporation,atlanta,ga,us	univ georgia institute of tech,ga,us
+georgia southern university research and service foundation inc.,statesboro,ga,us	univ georgia southern,ga,us
+georgia state university research foundation inc.,atlanta,ga,us	univ georgia state,ga,us
+georgia state university research foundation,atlanta,ga,us	univ georgia state,ga,us
+the georgia state university research foundation,atlanta,ga,us	univ georgia state,ga,us
+georgia health sciences university research institute inc.,augusta,ga,us	univ georgia,ga,us
+the university of georgia research foundation inc.,athens,ga,us	univ georgia,ga,us
+the university of georgia research foundation,athens,ga,us	univ georgia,ga,us
+university of ga research foundation,athens,ga,us	univ georgia,ga,us
+university of georgia research foundation inc.	univ georgia,ga,us
+university of georgia research foundation inc.,athens,ga,us	univ georgia,ga,us
+university of georgia research foundation inc.,atlanta,ga,us	univ georgia,ga,us
+university of georgia research foundation inc.,san diego,ca,us	univ georgia,ga,us
+university of georgia research foundation,athens,ga,us	univ georgia,ga,us
+unversity of georgia research foundation inc.,athens,ga,us	univ georgia,ga,us
+german university,cairo,eg	univ german,cairo,eg
+universiteit gent,ghent,be	univ ghent,kortrijk,be
+university of glasgow,glasgow,gb	univ glasgow,strathclyde,gb
+institut polytechnique de grenoble,grenoble cedex,fr	univ grenoble institute of tech,grenoble cedex,fr
+the university of guelph,guelph, ontario,ca	univ guelph,on,ca
+university of guelph,guelph, ontario,ca	univ guelph,on,ca
+university of guelph,guelph,ca	univ guelph,on,ca
+hackensack university medical center,hackensack,nj,us	univ hackensack,nj,us
+university of haifa,haifa,il	univ haifa,haifa,il
+national university corporation hamamatsu university school of medicine,hamamatsu,jp	univ hamamatsu school of medicine,hamamatsu,jp
+university of hamburg,hamburg,de	univ hamburg,hamburg,de
+industry-university cooperation foundation hanyang university,seoul,kr	univ hanyang,seoul,kr
+iucf-hyu industry-university cooperation foundation hanyang university,seoul,kr	univ hanyang,seoul,kr
+the university of hartford,west hartford,ct,us	univ hartford,ct,us
+harvard university & medical school,boston,ma,us	univ harvard,ma,us
+harvard university,cambridge,ma,us	univ harvard,ma,us
+pesident and fellows of harvard college,cambridge,ma,us	univ harvard,ma,us
+president & fellows of harvard college,cambridge,ma,us	univ harvard,ma,us
+president and fellow of harvard college,cambridge,ma,us	univ harvard,ma,us
+president and fellows of harvard college	univ harvard,ma,us
+president and fellows of harvard college,boston,ma,us	univ harvard,ma,us
+president and fellows of harvard college,cambridge,ma,us	univ harvard,ma,us
+president and fellows of harvard university,cambridge,ma,us	univ harvard,ma,us
+presidents and fellows of harvard college,boston,ma,us	univ harvard,ma,us
+presidents and fellows of harvard college,cambridge,ma,us	univ harvard,ma,us
+the president and fellows of harvard college,cambridge,ma,us	univ harvard,ma,us
+the university of hawaii,honolulu,hi,us	univ hawaii,hi,us
+university of hawaii,honolulu,hi,us	univ hawaii,hi,us
+university health network,ontario,ca	univ health network,on,ca
+university health network,toronto, ontario,ca	univ health network,on,ca
+university health network,toronto,ca	univ health network,on,ca
+university of helsinki,helsinki,fi	univ helsinki,helsinki,fi
+hokkaido university,sapporo,jp	univ hokkaido,hokkaido,jp
+the hong kong polytechnic university,hong kong,hk	univ hong kong polytechnic,hk,cn
+the hong kong polytechnic university,hung hom, kowloon,hk	univ hong kong polytechnic,hk,cn
+the hong kong polytechnic university,hung hom,hk	univ hong kong polytechnic,hk,cn
+the hong kong university of science and technology,hong kong,cn	univ hong kong science & tech,hk,cn
+the hong kong university of science and technology,kowloon,hk	univ hong kong science & tech,hk,cn
+versitech limited the university of hong kong,hong kong,hk	univ hong kong,hong kong,cn
+the university of houston system,houston,tx,us	univ houston,tx,us
+the university of houston,houston,tx,us	univ houston,tx,us
+university of houston system,houston,tx,us	univ houston,tx,us
+university of houston,houston,tx,us	univ houston,tx,us
+howard university,washington,dc,us	univ howard,dc,us
+huazhong university of science and technology,wuhan,cn	univ huazhong science & tech,hubei,cn
+the university of hyderabad,hyderabad,in	univ hyderabad,hyderabad,in
+university of idaho,boise,id,us	univ idaho,id,us
+university of idaho,moscow,id,us	univ idaho,id,us
+illinois institute of technology	univ illinois institute of tech,il,us
+illinois institute of technology,chicago,il,us	univ illinois institute of tech,il,us
+the board of trustees of illinois state university,normal,il,us	univ illinois state,il,us
+board of trustees of the univ. of illiniois—urbana,urbana,il,us	univ illinois,il,us
+board of trustees of the university of illinois,urbana,il,us	univ illinois,il,us
+board of trustees university of illinois,urbana,il,us	univ illinois,il,us
+the board of the university of illinois,urbana,il,us	univ illinois,il,us
+the board of trustee of the university of il,urbana,il,us	univ illinois,il,us
+the board of trustees of the university illinois,urbana,il,us	univ illinois,il,us
+the board of trustees of the university of illilnois,urbana,il,us	univ illinois,il,us
+the board of trustees of the university of illinois	univ illinois,il,us
+the board of trustees of the university of illinois a body corporate and politic of the state of illinois,urbana,il,us	univ illinois,il,us
+the board of trustees of the university of illinois semprius inc.	univ illinois,il,us
+the board of trustees of the university of illinois,champaign,il,us	univ illinois,il,us
+the board of trustees of the university of illinois,chicago,il,us	univ illinois,il,us
+the board of trustees of the university of illinois,il,us	univ illinois,il,us
+the board of trustees of the university of illinois,urbana,ca,us	univ illinois,il,us
+the board of trustees of the university of illinois,urbana,il	univ illinois,il,us
+the board of trustees of the university of illinois,urbana,il,us	univ illinois,il,us
+the board of trustees of the university of illinoise,urbana,il,us	univ illinois,il,us
+the board of trustees of the university of illionois,urbana,il,us	univ illinois,il,us
+the board of trustees of the university of illnois,urbana,il,us	univ illinois,il,us
+the board of trustees university of illinois at urbana-champaign,champaign,il,us	univ illinois,il,us
+the university of illinois the office of technology management,urbana,il,us	univ illinois,il,us
+the university of illinois,urbana,il,us	univ illinois,il,us
+university of illinois at chicago,chicago,il,us	univ illinois,il,us
+university of illinois at urbana champaign,urbana,il,us	univ illinois,il,us
+university of illinois at urbana-champaign,urbana,il,us	univ illinois,il,us
+university of illinois at urbana—champaign,urbana,il,us	univ illinois,il,us
+university of illinois,champaign,il,us	univ illinois,il,us
+university of illinois,urbana,il,us	univ illinois,il,us
+technische universitat ilmenau,de	univ ilmenau tech,unknown,de
+technology international inc.,laplace,la,us	univ ilmenau tech,unknown,de
+indian institute of technology bombay,mumbai,in	univ indian institute of tech,unknown,in
+indian institute of technology delhi department of electrical engineering,new delhi,in	univ indian institute of tech,unknown,in
+indian institute of technology kharagpur,kharagpur,in	univ indian institute of tech,unknown,in
+indian institute of technology kharagpur,west bengal,in	univ indian institute of tech,unknown,in
+indian institute of technology,new delhi,in	univ indian institute of tech,unknown,in
+indiana state university,terre haute,in,us	univ indiana state,in,us
+indian university research and technology corporation,indianapolis,in,us	univ indiana,in,us
+indiana univeristy reserach and technology corporation,indianapolis,in,us	univ indiana,in,us
+indiana university and technology corporation,indianapolis,in,us	univ indiana,in,us
+indiana university research & technology corporation,indianapolis,in,us	univ indiana,in,us
+indiana university research and technology corp.,bloomington,in,us	univ indiana,in,us
+indiana university research and technology corp.,indianapolis,in,us	univ indiana,in,us
+indiana university research and technology corporation,bloomington,in,us	univ indiana,in,us
+indiana university research and technology corporation,indianapolis,in,us	univ indiana,in,us
+indiana university research and technology corporation,indianpolis,in,us	univ indiana,in,us
+leopold-franzens universitat innsbruck,innsbruck,at	univ innsbruck,innsbruck,at
+international islamic university malaysia,kuala lumpur,my	univ international islamic malaysia,kuala lumpur,my
+iowa state university research foundation inc.,ames,ia,us	univ iowa,ia,us
+iowa state university,ames,ia,us	univ iowa,ia,us
+the university of iowa research foundation,iowa city,ia,us	univ iowa,ia,us
+university of iowa research foundation (uirf),iowa city,ia,us	univ iowa,ia,us
+university of iowa research foundation,iowa city,ia,us	univ iowa,ia,us
+university of iowa,iowa city,ia,us	univ iowa,ia,us
+national university of ireland galway,galway,ie	univ ireland galway,galway,ie
+national university of ireland maynooth,co. kildare,ie	univ ireland maynooth,kildare,ie
+national university of ireland maynooth,kildare,ie	univ ireland maynooth,kildare,ie
+royal college of surgeons in ireland,dublin,ie	univ ireland royal surgeons college,dublin,ie
+yissum research development company of hebrew university of jerusalem,jerusalem,il	univ jerusalem hebrew,jerusalem,il
+yissum research development company of the hebrew university of jerusalem ltd.,jerusalem,il	univ jerusalem hebrew,jerusalem,il
+yissum research development company of the hebrew university of jerusalem,jerusalem,il	univ jerusalem hebrew,jerusalem,il
+yissum research devolpment company of the hebrew university of jerusalem ltd.,jerusalem,il	univ jerusalem hebrew,jerusalem,il
+jiangnan university,wuxi,cn	univ jiangnan,jiangsu,cn
+john hopkins university school of medicine,baltimore,md,us	univ john hopkins,md,us
+john hopkins university,baltimore,md,us	univ john hopkins,md,us
+johns hopkins university school of medicine,baltimore,md,us	univ john hopkins,md,us
+johns hopkins university the,baltimore,md,us	univ john hopkins,md,us
+johns hopkins university,baltimore,md,us	univ john hopkins,md,us
+the john hopkins university school of medicine,baltimore,md,us	univ john hopkins,md,us
+the john hopkins university,baltimore,md,us	univ john hopkins,md,us
+the johns hokpins university,baltimore,md,us	univ john hopkins,md,us
+the johns hopkins university school of medicine,baltimore,md,us	univ john hopkins,md,us
+the johns hopkins university,balitmore,md,us	univ john hopkins,md,us
+the johns hopkins university,baltimore,ma,us	univ john hopkins,md,us
+the johns hopkins university,baltimore,md,us	univ john hopkins,md,us
+the johns hopkins unviersity,baltimore,md,us	univ john hopkins,md,us
+universite joseph fourrier,grenoble cedex,fr	univ joseph fourier,grenoble,fr
+université joseph fourrier,gronoble cedex 9,fr	univ joseph fourier,grenoble,fr
+national university corporation kagawa university,jp	univ kagawa,takamatsu-shi,jp
+national university corporation kagawa university,kagawa,jp	univ kagawa,takamatsu-shi,jp
+national university corporation kagawa university,takamatsu-shi, kagawa,jp	univ kagawa,takamatsu-shi,jp
+korea advanced institute of science and technology (kaist),kr	univ kaist,unknown,kr
+korea advanced institute of science and technology,daejeon,kr	univ kaist,unknown,kr
+kanazawa university,kanazawa, ishikawa,jp	univ kanagawa,kanagawa,jp
+kanazawa university,kanazawa,jp	univ kanagawa,kanagawa,jp
+kansas state university institute for commercialization,manhattan,ks,us	univ kansas state,ks,us
+kansas state university reasearch foundation,manhattan,ks,us	univ kansas state,ks,us
+kansas state university research foundation,manhanttan,ks,us	univ kansas state,ks,us
+kansas state university research foundation,manhattan,ks,us	univ kansas state,ks,us
+kansas state university research foundation,manhatten,ks,us	univ kansas state,ks,us
+kansas state university research foundation,manhatton,ks,us	univ kansas state,ks,us
+the university of kansas,kansas city,ks,us	univ kansas,ks,us
+the university of kansas,lawrence,ks,us	univ kansas,ks,us
+university of kanasas,lawrence,ks,us	univ kansas,ks,us
+university of kansas medical center,kansas city,mo,us	univ kansas,ks,us
+university of kansas,lawrence,ks,us	univ kansas,ks,us
+karlsruhe institute of technology,de	univ karlsruhe institute of tech,unknown,de
+karlsruhe institute of technology,eggenstein-leopoldshafen,de	univ karlsruhe institute of tech,unknown,de
+karlsruhe institute of technology,karlsruhe,de	univ karlsruhe institute of tech,unknown,de
+katholieke universiteit leuven,leuven,be	univ katholieke,leuven,be
+kean university,union,nj,us	univ kean,nj,us
+keio university,tokyo,jp	univ keio,yokohama,jp
+kennesaw state university research and services foundation inc.,kennesaw,ga,us	univ kennesaw state,ga,us
+kennesaw state university research and services foundation,kennesaw,ga,us	univ kennesaw state,ga,us
+kent state university,kent,oh,us	univ kent state,oh,us
+university of kent,kent,gb	univ kent,kent,gb
+the university of kentucky research foundation,lexington,ky,us	univ kentucky,ky,us
+the university of kentucky,lexington,ky,us	univ kentucky,ky,us
+university of kentucky research foundation,lexington,ky,us	univ kentucky,ky,us
+university of kentucky,lexington,ky,us	univ kentucky,ky,us
+kettering university,flint,mi,us	univ kettering,mi,us
+biochemical institute christian-albrechts university kiel,kiel,de	univ kiel,kiel,de
+christian-albrechts-universitaet zu kiel,kiel,de	univ kiel,kiel,de
+king abdulaziz university,jeddah,sa	univ king abdullah science & tech,thuwal,sa
+king abdullah university of science and technology,sa	univ king abdullah science & tech,thuwal,sa
+king abdullah university of science and technology,thuwal,sa	univ king abdullah science & tech,thuwal,sa
+kind fahd university of petroleum and minerals,dhahran,sa	univ king fahd petroleum & minerals,dhahran,sa
+king fahd univeristy of petroleum and minerals,dhahran,sa	univ king fahd petroleum & minerals,dhahran,sa
+king fahd university of petroleum & minerals,dhahran,sa	univ king fahd petroleum & minerals,dhahran,sa
+king fahd university of petroleum and minerals (kfupm),dharan,sa	univ king fahd petroleum & minerals,dhahran,sa
+king fahd university of petroleum and minerals,dhahran,sa	univ king fahd petroleum & minerals,dhahran,sa
+king fahd university of petroleum and minerals,dharan,sa	univ king fahd petroleum & minerals,dhahran,sa
+king fahd university of petroleum minerals,dhahran,sa	univ king fahd petroleum & minerals,dhahran,sa
+kobe gakuin university,kobe,jp	univ kobe gakuin,kobe,jp
+national university corporation kobe university,hyogo,jp	univ kobe,hyogo,jp
+korea university research and business foundation,seoul,kr	univ korea,seoul,kr
+korea university research and business foundation,seoul,ks,us	univ korea,seoul,kr
+national university corporation kumamoto university,kumamoto,jp	univ kumamoto,kumamoto,jp
+kyoto university,kyoto-shi,jp	univ kyoto,kyoto,jp
+kyoto university,sakyo, kyoto,jp	univ kyoto,kyoto,jp
+university-industry cooperation group of kyung hee university,yongin-si, gyeonggi-do,kr	univ kyunghee,seoul,kr
+kyungpook national university industry-academic cooperation foundation,daegu,kr	univ kyungpook national,daegu,kr
+kyungpook national university industry-academic cooperation foundation,kr	univ kyungpook national,daegu,kr
+kyungpook national university industry-academica cooperation foundation,daegu,kr	univ kyungpook national,daegu,kr
+kyungpook national university,daegu,kr	univ kyungpook national,daegu,kr
+kyusyu university corporation,fukuoka,jp	univ kyusyu,fukuoka,jp
+lamar university a component of the texas state university system an agency of the state of texas,beaumont,tx,us	univ lamar,tx,us
+lamar university,beaumont,tx,us	univ lamar,tx,us
+university of l'aquila,l'aquila, abruzzo,it	univ l'aquila,abruzzo,it
+university of lausanne,lausanne,ch	univ lausanne,lausanne,ch
+universite laval,quebec, quebec,ca	univ laval,quebec,ca
+university of leeds,leeds,gb	univ leeds,leeds,gb
+lehigh university	univ lehigh,pa,us
+lehigh university,bethleham,pa,us	univ lehigh,pa,us
+lehigh university,bethlehem,pa,us	univ lehigh,pa,us
+university of leicester,leicester,gb	univ leicester,leicester,gb
+university of leicester,leicestershire,gb	univ leicester,leicester,gb
+leiden university medical center,leiden,nl	univ leiden,leiden,nl
+leiden university medical center,za leiden,nl	univ leiden,leiden,nl
+leiden university,leiden,nl	univ leiden,leiden,nl
+leiden university,nl	univ leiden,leiden,nl
+lieden university medical center (lumc),leiden,nl	univ leiden,leiden,nl
+lewis & clark college,portland,or,us	univ lewis & clark college,or,us
+vrije universiteit brussel,brussels,be	univ libre de bruxelles,brussels,be
+university of limerick,limerick,ie	univ limerick,limerick,ie
+the lithuanian university of health sciences,kaunas,lt	univ lithuanian health sciences,kaunas,lt
+the university of liverpool,gb	univ liverpool,liverpool,gb
+faculty physicians and surgeons of llusm,loma linda,ca,us	univ loma linda,ca,us
+faculty physicians and surgeons of loma linda university school of medicine,loma linda,ca,us	univ loma linda,ca,us
+faculty physicians and surgeons of loma linda university school of medicine: loma linda university,loma linda,ca,us	univ loma linda,ca,us
+faculty physicians and surgeons of loma linda university school of medicine; loma linda university,loma linda,ca,us	univ loma linda,ca,us
+loma linda univeristy,loma linda,ca,us	univ loma linda,ca,us
+loma linda university medical center,loma linda,ca,us	univ loma linda,ca,us
+loma linda university,loma linda,ae,us	univ loma linda,ca,us
+loma linda university,loma linda,ca,us	univ loma linda,ca,us
+imperial college london,london,gb	univ london imperial college,london,gb
+imperial college of london,london,gb	univ london imperial college,london,gb
+imperial college of science and technology,london,gb	univ london imperial college,london,gb
+imperial college of science technology and medicine,london,gb	univ london imperial college,london,gb
+king's college london,london,gb	univ london king's college,london,gb
+long island university,brookville,ny,us	univ long island,ny,us
+loughborough university,gb	univ loughborough,unknown,gb
+board of sup. of lsu and agr. & mechanical college,baton rouge,la,us	univ louisiana state,la,us
+board of supervisors of louisana state university and agricultural and mechanical college pennington biomedical research center,baton rouge,la,us	univ louisiana state,la,us
+board of supervisors of louisana state university and agricultural and mechanical college,baton rouge,la,us	univ louisiana state,la,us
+board of supervisors of louisiana st. univ. & agricultural & mechanical college,baton rouge,la,us	univ louisiana state,la,us
+board of supervisors of louisiana state university agricultural and mechanical college on behalf of the louisiana state university health sciences center,new orleans,la,us	univ louisiana state,la,us
+board of supervisors of louisiana state university and a&m college through the lsu ag center,baton rouge,la,us	univ louisiana state,la,us
+board of supervisors of louisiana state university and agricultural and mechanical college,baton rouge,la,us	univ louisiana state,la,us
+board of supervisors of louisiana state university and agricultural and mechanical college,shreveport,la,us	univ louisiana state,la,us
+board of supervisors of louisiana state university and agricultural and mechanics college,baton rouge,la,us	univ louisiana state,la,us
+board of supervisors of louisiana state university and agricultural and medical college,baton rouge,la,us	univ louisiana state,la,us
+board of supervisors of louisiana state university and agricultural,baton rouge,la,us	univ louisiana state,la,us
+for the board of supervisors of louisiana state university and agricultural and mechanical college acting on behalf of louisiana state university health sciences center at shreveport,shreveport,la,us	univ louisiana state,la,us
+louisiana state university agricultural center,baton rouge,la,us	univ louisiana state,la,us
+louisiana state university health sciences center office of research,shreveport,la,us	univ louisiana state,la,us
+louisiana state university,baton rouge,la,us	univ louisiana state,la,us
+the board of supervisors of louisiana state university and agricultural and mechanical college,baton rouge,la,us	univ louisiana state,la,us
+the board of supervisors of louisiana state university and mechanical college,baton rouge,la,us	univ louisiana state,la,us
+louisiana tech research corporation,ruston,la,us	univ louisiana tech,la,us
+louisiana tech research foundation; a division of louisiana tech university foundation inc.,ruston,la,us	univ louisiana tech,la,us
+louisiana tech university foundation inc.,ruston,la,us	univ louisiana tech,la,us
+louisiana tech university research foundation a division of louisiana tech university foundation inc.,ruston,la,us	univ louisiana tech,la,us
+louisiana tech university research foundation inc.,ruston,la,us	univ louisiana tech,la,us
+louisiana tech university research foundation,ruston,la,us	univ louisiana tech,la,us
+louisiana tech university research foundation; a division of louisiana tech university foundation inc.,ruston,la,us	univ louisiana tech,la,us
+louisiana tech university research foundation; a division of louisiana tech university foundation,ruston,la,us	univ louisiana tech,la,us
+university of louisville research foundation inc,louisville,ky,us	univ louisville,ky,us
+university of louisville research foundation inc.,louisville,ky,us	univ louisville,ky,us
+university of louisville research foundation,louisville,ky,us	univ louisville,ky,us
+university of lousiville research foundation inc.,nashville,tn,us	univ louisville,ky,us
+universiteit maastricht,maastricht,ne	univ maastricht,limburg,nl
+universiteit maastricht,maastricht,nl	univ maastricht,limburg,nl
+macau university of science and technology,macau,mo	univ macau science & tech,mo,us
+macau university of science and technology,macau,mo,us	univ macau science & tech,mo,us
+cochlear limited,macquarie university, nsw	univ macquarie,nsw,au
+mahidol university,nakhon panthom,th	univ mahidol,nakhon pathom,th
+mahidol university,nakhon pathom,th	univ mahidol,nakhon pathom,th
+mahidol university,th	univ mahidol,nakhon pathom,th
+the university of maine system board of trustees,bangor,me,us	univ maine system,me,us
+university of maine system board of trustees,bangor,md,us	univ maine system,me,us
+university of maine system board of trustees,bangor,me,us	univ maine system,me,us
+university of maine system board,bangor,me,us	univ maine system,me,us
+university of maine system of board of trustees,bangor,me,us	univ maine system,me,us
+university of maine,orono,me,us	univ maine system,me,us
+the university of manchester,manchester,gb	univ manchester,manchester,gb
+university of manitoba,winnipeg, manitoba,ca	univ manitoba,winnipeg,ca
+university of manitoba,winnipeg,ca	univ manitoba,winnipeg,ca
+marquette university,milwaukee,wi,us	univ marquette,wi,us
+university of maryland eastern shore,princess anne,md,us	univ maryland eastern shore,md,us
+the university of maryland at college park,college park,md,us	univ maryland,md,us
+the university of maryland baltimore county,baltimore,md,us	univ maryland,md,us
+the university of maryland baltimore,baltimore,md,us	univ maryland,md,us
+the university of maryland college park,college park,md,us	univ maryland,md,us
+the university of maryland,college park,md,us	univ maryland,md,us
+university of maryland at college park,college park,md,us	univ maryland,md,us
+university of maryland baltimore county,baltimore,md,us	univ maryland,md,us
+university of maryland baltimore,baltimore,md,us	univ maryland,md,us
+university of maryland college park,baltimore,md,us	univ maryland,md,us
+university of maryland college park,college park,md,us	univ maryland,md,us
+university of maryland college parke,college park,md,us	univ maryland,md,us
+university of maryland office of technology commercialization,college park,md,us	univ maryland,md,us
+university of maryland,baltimore,md,us	univ maryland,md,us
+university of maryland,college park,md,us	univ maryland,md,us
+university of maryland,college point,md,us	univ maryland,md,us
+university of maryland,maryland	univ maryland,md,us
+university of maryland,riverdale,md,us	univ maryland,md,us
+maasachusetts institute of technology,cambridge,ma,us	univ massachusetts institute of tech,ma,us
+maassachusetts institute of technology,cambridge,ma,us	univ massachusetts institute of tech,ma,us
+mass institute of technology (mit),cambridge,ma,us	univ massachusetts institute of tech,ma,us
+massachuetts institute of technology,cambridge,ma,us	univ massachusetts institute of tech,ma,us
+massachusets institute of technology,cambridge,ma,us	univ massachusetts institute of tech,ma,us
+massachusette institute of technology,cambridge,ma,us	univ massachusetts institute of tech,ma,us
+massachusettes institute of technology,cambridge,ma,us	univ massachusetts institute of tech,ma,us
+massachusetts insititute of technology,cambridge,ma,us	univ massachusetts institute of tech,ma,us
+massachusetts instittue of technology,cambridge,ma,us	univ massachusetts institute of tech,ma,us
+massachusetts institue of technology,cambridge,ma,us	univ massachusetts institute of tech,ma,us
+massachusetts institute of technology	univ massachusetts institute of tech,ma,us
+massachusetts institute of technology (mit),cambridge,ma,us	univ massachusetts institute of tech,ma,us
+massachusetts institute of technology inc.,cambridge,ma,us	univ massachusetts institute of tech,ma,us
+massachusetts institute of technology quanta computer inc.,cambridge,ma,us	univ massachusetts institute of tech,ma,us
+massachusetts institute of technology,boston,ma,us	univ massachusetts institute of tech,ma,us
+massachusetts institute of technology,cambride,ma,us	univ massachusetts institute of tech,ma,us
+massachusetts institute of technology,cambridge,ma,us	univ massachusetts institute of tech,ma,us
+massachusetts institute of technology,ma,us	univ massachusetts institute of tech,ma,us
+massachusetts institute technology,cambridge,ma,us	univ massachusetts institute of tech,ma,us
+massachusetts instiute of technology,cambridge,ma,us	univ massachusetts institute of tech,ma,us
+massachusetts intitute of technology,cambridge,ma,us	univ massachusetts institute of tech,ma,us
+massachussetts institute of technology,cambridge,ma,us	univ massachusetts institute of tech,ma,us
+masschusetts institute of technology,cambridge,ma,us	univ massachusetts institute of tech,ma,us
+masssachusetts institute of technology,cambridge,ma,us	univ massachusetts institute of tech,ma,us
+the massachusettes institute of technology,cambridge,ma,us	univ massachusetts institute of tech,ma,us
+the massachusetts institute of technology university,cambridge,ma,us	univ massachusetts institute of tech,ma,us
+the massachusetts institute of technology,cambridge,ma,us	univ massachusetts institute of tech,ma,us
+the university of massachuetts,boston,ma,us	univ massachusetts,ma,us
+the university of massachusetts lowell,lowell,ma,us	univ massachusetts,ma,us
+the university of massachusetts,amherst,ma,us	univ massachusetts,ma,us
+the university of massachusetts,boston,ma,us	univ massachusetts,ma,us
+univeristy of massachusetts,boston,ma,us	univ massachusetts,ma,us
+university of massachusettes,boston,ma,us	univ massachusetts,ma,us
+university of massachusetts lowell,boston,ma,us	univ massachusetts,ma,us
+university of massachusetts lowell,lowell,ma,us	univ massachusetts,ma,us
+university of massachusetts medical school,boston,ma,us	univ massachusetts,ma,us
+university of massachusetts medical school,shrewsbury,ma,us	univ massachusetts,ma,us
+university of massachusetts medical school,worcester,ma,us	univ massachusetts,ma,us
+university of massachusetts,amherst,ma,us	univ massachusetts,ma,us
+university of massachusetts,boston,ma,us	univ massachusetts,ma,us
+university of massachusetts,shrewsbury,ma,us	univ massachusetts,ma,us
+university of massachusetts,worcester,ma,us	univ massachusetts,ma,us
+university of massachusetts/lowell,lowell,ma,us	univ massachusetts,ma,us
+mcgill university,ca	univ mcgill,montreal,ca
+mcgill university,montreal, quebec,ca	univ mcgill,montreal,ca
+mcgill university,montreal,ca	univ mcgill,montreal,ca
+the royal institute for the advancement of learning/mcgill university,montreal,ca	univ mcgill,montreal,ca
+the royal institution for the advancement of learning/mcgill university,montreal, quebec,ca	univ mcgill,montreal,ca
+the royal institution for the advancement of learning/mcgill university,montreal,ca	univ mcgill,montreal,ca
+joint intellectual property policy of mcmaster university,hamilton, ontario,ca	univ mcmaster,ontario,ca
+mcmaster university,ontario,ca	univ mcmaster,ontario,ca
+medical college of wisconsin inc.,cleveland,oh,us	univ medical college of wisconsin,wi,us
+medical college of wisconsin inc.,milwaukee,wi,us	univ medical college of wisconsin,wi,us
+medical college of wisconsin research foundation,milwaukee,wi,us	univ medical college of wisconsin,wi,us
+medical college of wisconsin,milwaukee,wi,us	univ medical college of wisconsin,wi,us
+the medical college of wisconsin inc.,milwaukee,wi,us	univ medical college of wisconsin,wi,us
+the medical college of wisconsin,milwaukee,wi,us	univ medical college of wisconsin,wi,us
+the university of medicine and dentistry of new jersey,somerset,nj,us	univ medicine & dentistry new jersey,nj,us
+university of medicine & dentistry of new jersey,somerset,nj,us	univ medicine & dentistry new jersey,nj,us
+university of medicine and dentistry of new jersey,new brunswick,nj,us	univ medicine & dentistry new jersey,nj,us
+university of medicine and dentistry of new jersey,newark,nj,us	univ medicine & dentistry new jersey,nj,us
+university of medicine and dentistry of new jersey,somerset,nj,us	univ medicine & dentistry new jersey,nj,us
+the university of melbourne,au	univ melbourne,victoria,au
+the university of melbourne,melbourne,au	univ melbourne,victoria,au
+the university of melbourne,parkville,au	univ melbourne,victoria,au
+university of melbourne,victoria,au	univ melbourne,victoria,au
+the university of memphis research foundation,memphis,tn,us	univ memphis,tn,us
+university of memphis research foundation,memphis,tn,us	univ memphis,tn,us
+the university of miami,miami,fl,us	univ miami,fl,us
+university of miami,miami,fl,us	univ miami,fl,us
+university of miami—diabetes research institute,miami,fl,us	univ miami,fl,us
+board of trustees michigan state university,east lansing,mi,us	univ michigan state,mi,us
+board of trustees of michigan state university,east lansing,ma,us	univ michigan state,mi,us
+board of trustees of michigan state university,east lansing,mi,us	univ michigan state,mi,us
+board of trustees operating michigan state university,east lansing,mi,us	univ michigan state,mi,us
+michigan state university,east lansing,mi,us	univ michigan state,mi,us
+the board of trustees of michigan state university,east lansing,mi,us	univ michigan state,mi,us
+michigan technological university,houghton,mi,us	univ michigan tech,mi,us
+regents of the university of michigan,ann arbor,mi,us	univ michigan,mi,us
+the regent of the university of michigan,ann arbor,mi,us	univ michigan,mi,us
+the regents of the university of machigan,ann arbor,mi,us	univ michigan,mi,us
+the regents of the university of michiga,anne arbor,mi,us	univ michigan,mi,us
+the regents of the university of michigan office of technology transfer,ann arbor,mi,us	univ michigan,mi,us
+the regents of the university of michigan university of michigan office of technology transfer,ann arbor,mi,us	univ michigan,mi,us
+the regents of the university of michigan,ann arbor	univ michigan,mi,us
+the regents of the university of michigan,ann arbor,mi,us	univ michigan,mi,us
+the regents of the university of michigan,ann harbor,mi,us	univ michigan,mi,us
+the regents of university of michigan,ann arbor,mi,us	univ michigan,mi,us
+the regenys of the university of michigan,ann arbor,mi,us	univ michigan,mi,us
+the university of michigan,ann arbor,mi,us	univ michigan,mi,us
+university of michigan the board of regents acting for and on behalf of the c/o technology management office,ann arbor,mi,us	univ michigan,mi,us
+university of michigan,ann arbor,mi,us	univ michigan,mi,us
+midwestern university,glendale,az,us	univ midwestern,az,us
+the united states of america as represented by midwestern university,washington,dc,us	univ midwestern,az,us
+mie university,tsu-shi,jp	univ mie,tsu-shi,jp
+regards of the university of minnesota,st. paul,mn,us	univ minnesota,mn,us
+regents of the univeristy of minnesota,minneapolis,mn,us	univ minnesota,mn,us
+regents of the university of minnesota	univ minnesota,mn,us
+regents of the university of minnesota,mineeapolis,mn,us	univ minnesota,mn,us
+regents of the university of minnesota,minneapolis,in,us	univ minnesota,mn,us
+regents of the university of minnesota,minneapolis,mn,us	univ minnesota,mn,us
+regents of the university of minnesota,saint paul,mn,us	univ minnesota,mn,us
+regents of the university of minnesota,south minneapolis,mn,us	univ minnesota,mn,us
+regents of the university of minnesota,st. paul,mi,us	univ minnesota,mn,us
+regents of the university of minnesota,st. paul,mn,us	univ minnesota,mn,us
+regents of university of minnesota,saint paul,mn,us	univ minnesota,mn,us
+the regents of the university of minnesota,minneapolis,mn,us	univ minnesota,mn,us
+the regents of the university of minnesota,saint paul,mn,us	univ minnesota,mn,us
+the regents of the university of minnesota,st. paul,mn,us	univ minnesota,mn,us
+university of minnesota,minneapolis,mn,us	univ minnesota,mn,us
+university of minnesota,st. paul,mn,us	univ minnesota,mn,us
+mississippi state university (msu),starkville,ms,us	univ mississippi state,ms,us
+mississippi state university research and technology corporation (rtc),mississippi state,ms,us	univ mississippi state,ms,us
+mississippi state university research and technology corporation,starkville,ms,us	univ mississippi state,ms,us
+mississippi state university,mississippi state,mi,us	univ mississippi state,ms,us
+mississippi state university,mississippi state,ms,us	univ mississippi state,ms,us
+mississippi state university,starkville,ms,us	univ mississippi state,ms,us
+the university of mississippi,university,mi,us	univ mississippi,ms,us
+the university of mississippi,university,ms,us	univ mississippi,ms,us
+university of mississippi,university,ms,us	univ mississippi,ms,us
+curators of the university of missouri,columbia,mo,us	univ missouri,mo,us
+the curator of the university of missouri,columbia,mo,us	univ missouri,mo,us
+the curators of the university of missouri university hall,columbia,mo,us	univ missouri,mo,us
+the curators of the university of missouri,columbia,mi,us	univ missouri,mo,us
+the curators of the university of missouri,columbia,mn,us	univ missouri,mo,us
+the curators of the university of missouri,columbia,mo,us	univ missouri,mo,us
+the curators of the university of missouri,columbus,mo,us	univ missouri,mo,us
+the curators of the university of missouri,kansas city,mo,us	univ missouri,mo,us
+the curators of the university of missouri,rolla,mo,us	univ missouri,mo,us
+the department of health and human services,rockland,md,us	univ missouri,mo,us
+the university of missouri,columbia,mo,us	univ missouri,mo,us
+university of missouri,columbia,mo,us	univ missouri,mo,us
+universita' degli studi di modena e reggio emilia,modena,it	univ modena & reggio emilia,modena,it
+university of modena,reggio emilia,it	univ modena & reggio emilia,modena,it
+monash university,clayton vic,au	univ monash,victoria,au
+monash university,clayton, victoria,au	univ monash,victoria,au
+monash university,clayton,au	univ monash,victoria,au
+monash university,melbourne,au	univ monash,victoria,au
+monash university,victoria,au	univ monash,victoria,au
+the university of mons-hainaut,be	univ mons,mons,be
+montana state university,bozeman,mt,us	univ montana state,mt,us
+montana state university-bozeman,bozeman,mt,us	univ montana state,mt,us
+montana tech of the university of montana,butte,mt,us	univ montana tech,mt,us
+the university of montana,missoula,mn,us	univ montana,mn,us
+montclair state university,montclair,nj,us	univ montclair state,nj,us
+l'universite montpelier ii,montpelier,fr	univ montpellier 2,montpellier,fr
+l'universite montpellier ii,montpellier,fr	univ montpellier 2,montpellier,fr
+universite montpellier 2 sciences et techniques,montpellier,fr	univ montpellier 2,montpellier,fr
+university of montreal,montreal,ca	univ montreal,quebec,ca
+mount holyoke college,south hadley,ma,us	univ mount holyoke college,ma,us
+mount sinai school of medicine of new york university,new york,ny,us	univ mount sinai school of medicine,ny,us
+mount sinai school of medicine office of technology and business development,new york,ny,us	univ mount sinai school of medicine,ny,us
+mount sinai school of medicine,new york,ny,us	univ mount sinai school of medicine,ny,us
+technische universität münchen,münchen,de	univ munich tech,munich,de
+university of murcia,murcia,es	univ murcia,murcia,es
+myongji university industry and academia cooperation foundation,gyeonggi-do,kr	univ myongji,gyeonggi-do,kr
+myongji university industry and academia cooperation foundation,yongin-si, gyeonggi-do,kr	univ myongji,gyeonggi-do,kr
+nagasaki university,nagasaki,jp	univ nagasaki,nagasaki,jp
+national university corporation nagoya university,aichi,jp	univ nagoya,aichi,jp
+national university corporation nagoya university,nagoya-shi,jp	univ nagoya,aichi,jp
+nanjing university,nanjing,cn	univ nanjing,nanjing,cn
+universite de nantes,nantes,fr	univ nantes,nantes,fr
+nanyang technological university,singapore,sg	univ nanyang tech,singapore,sg
+national university corporation nara institute of science and technology,ikoma-shi,jp	univ nara institute of science & tech,ikoma-shi,jp
+national cheng kung university,tainan, taiwan,cn	univ national cheng kung,tainan,tw
+national cheng kung university,tainan,tw	univ national cheng kung,tainan,tw
+national chiao tung university,hsinchu,tw	univ national chiao tung,hsinchu,tw
+national university of singapore (nus),singapore,sg	univ national singapore,singapore,sg
+national university of singapore,singapore,sg	univ national singapore,singapore,sg
+national taiwan university,taipei,tw	univ national taiwan,taipei,tw
+national tsing hu university,hsinchu,tw	univ national tsing hua,hsinchu,tw
+national tsing hua university,hsinchu,tw	univ national tsing hua,hsinchu,tw
+national tsing hua university,hsinschu,tw	univ national tsing hua,hsinchu,tw
+national tsing hua university,taipei,tw	univ national tsing hua,hsinchu,tw
+national tsing huu university,hsinchu,tw	univ national tsing hua,hsinchu,tw
+board of regents of nebraska university,lincoln,ne,us	univ nebraska,ne,us
+board of regents of the university of nebraska,lincoln,ne,us	univ nebraska,ne,us
+board of regents of the university of nebraska-lincoln,lincoln,ne,us	univ nebraska,ne,us
+the board of regents of the university of nebraska,lincoln,ne,us	univ nebraska,ne,us
+university of nebraska board of regents,lincoln,ne,us	univ nebraska,ne,us
+university of nebraska lincoln,lincoln,ne,us	univ nebraska,ne,us
+university of nebraska,lincoln,ne,us	univ nebraska,ne,us
+university of nebraska-lincoln,lincoln,ne,us	univ nebraska,ne,us
+board of regents of the nevada system of higher education on behalf of the university of nevada reno,reno,nv,us	univ nevada,nv,us
+board of regents of the nevada system of higher education on behalf of the university of nevada,reno,nv,us	univ nevada,nv,us
+board of regents of the nevada system of higher education on behalf of the university of nevado reno,reno,nv,us	univ nevada,nv,us
+the board of regents of the nevada system of higher education of behalf of the university of nevada las vegas,las vegas,nv,us	univ nevada,nv,us
+the board of regents of the nevada system of higher education on behalf of the univeristy of nevada,las vegas,nv,us	univ nevada,nv,us
+the board of regents of the nevada system of higher education on behalf of the university of las vegas,las vegas,nv,us	univ nevada,nv,us
+the board of regents of the nevada system of higher education on behalf of the university of nevada las vegas,las vegas,nv,us	univ nevada,nv,us
+the board of regents of the nevada system of higher education on behalf of the university of nevada,las vegas,nv,us	univ nevada,nv,us
+the board of regents of the nevada system of higher education on behalf of the university of nevada,reno,nv,us	univ nevada,nv,us
+the regents of the nevada system of higher education on behalf of the university of nevada las vegas,las vegas,nv,us	univ nevada,nv,us
+university of nevada las vegas,las vegas,nv,us	univ nevada,nv,us
+university of nevada,reno,nv,us	univ nevada,nv,us
+university of new england college of osteopathic medicine,biddeford,me,us	univ new england,me,us
+university of new hampshire,durham,nh,us	univ new hampshire,nh,us
+new jersey institute of technology,newark,nj,us	univ new jersey institute of tech,nj,us
+new mexico highlands university,las vegas,nm,us	univ new mexico highlands,nm,us
+regents of the university of new mexico,albuquerque,nm,us	univ new mexico,nm,us
+stc unm,albuquerque,nm,us	univ new mexico,nm,us
+stc.unm & university of new mexico,albuquerque,nm,us	univ new mexico,nm,us
+stc.unm,albuquerque,nm,us	univ new mexico,nm,us
+the regents of the university of new mexico,albuquerque,nm,us	univ new mexico,nm,us
+new york university school of medicine,new york,ny,us	univ new york,ny,us
+new york university,new york city,ny,us	univ new york,ny,us
+new york university,new york,ny,us	univ new york,ny,us
+polytechnic institute of new york university,brooklyn,ny,us	univ new york,ny,us
+polytechnic institute of nyu,brooklyn,ny,us	univ new york,ny,us
+university of newcastle upon tyne,new castle upon tyne,gb	univ newcastle upon tyne,ne,gb
+university of newcastle upon tyne,newcastle upon tyne,gb	univ newcastle upon tyne,ne,gb
+niigata university,niigata,jp	univ niigata,niigata,jp
+north carolina agricultural and technical state university,greensboro,nc,us	univ north carolina A&T state,nc,us
+north carolina central university,durham,nc,us	univ north carolina central,nc,us
+north carolina state university	univ north carolina state,nc,us
+north carolina state university,raleigh,nc,us	univ north carolina state,nc,us
+north carolina state university,raliegh,nc,us	univ north carolina state,nc,us
+the north carolina state university,raleigh,nc,us	univ north carolina state,nc,us
+north carolina university,raleigh,nc,us	univ north carolina,nc,us
+the universitry of north carolina at chapel hill,chapel hill,nc,us	univ north carolina,nc,us
+the university of north carolina at chapel hikll,chapel hill,nc,us	univ north carolina,nc,us
+the university of north carolina at chapel hill,chapel hill,nc,us	univ north carolina,nc,us
+the university of north carolina at charlotte,charlotte,nc,us	univ north carolina,nc,us
+the university of north carolina at greensboro,greensboro,nc,us	univ north carolina,nc,us
+the university of north carolina,chapel hill,nc,us	univ north carolina,nc,us
+university of north carolina at chapel hill,chapel hill,nc,us	univ north carolina,nc,us
+university of north carolina at charlotte,charlotte,nc,us	univ north carolina,nc,us
+university of north carolina at greensboro,greensboro,nc,us	univ north carolina,nc,us
+university of north carolina,chapel hill,nc,us	univ north carolina,nc,us
+university of north carolina-chapel hill,chapel hill,nc,us	univ north carolina,nc,us
+university of north carolinia at chapel hill,chapel hill,nc,us	univ north carolina,nc,us
+university of north dakota,grand forks,nd,us	univ north dakota,nd,us
+the university of north texas health science center at fort worth,fort worth,tx,us	univ north texas health science center,tx,us
+university of north texas health science center at fort worth,fort worth,tx,us	univ north texas health science center,tx,us
+university of north texas health science center,fort worth,tx,us	univ north texas health science center,tx,us
+north texas health sciences center university of,fort worth,tx,us	univ north texas,tx,us
+university of north texas,denton,tx,us	univ north texas,tx,us
+university of north texas,dentons,tx,us	univ north texas,tx,us
+northeastern ohio universities college of medicine,rootstown,oh,us	univ northeast ohio medical,oh,us
+northeastern university,boston,ma,us	univ northeastern,ma,us
+arizona board of regents acting for and on behalf of northern arizona university,flagstaff,az,us	univ northern arizona,az,us
+arizona board of regents for and on behalf of northern arizona university,scottsdale,az,us	univ northern arizona,az,us
+arizona board of regents on behalf of northern arizona university,flagstaff,az,us	univ northern arizona,az,us
+northern arizona university,flagstaff,az,us	univ northern arizona,az,us
+the arizona board of regents a body corporate acting for and on behalf of northern arizona university,flagstaff,az,us	univ northern arizona,az,us
+the arizona board of regents on behalf of northern arizona university,flagstaff,az,us	univ northern arizona,az,us
+state of colorado acting by and on behalf of the board of trustees of the university of northern colorado,greeley,co,us	univ northern colorado,co,us
+board of trustees of northern illinois university,dekalb,il,us	univ northern illinois,il,us
+board of trustees of northern illnois university,dekalk,il,us	univ northern illinois,il,us
+university of northern iowa research foundati,cedar falls,ia,us	univ northern iowa,ia,us
+university of northern iowa research foundation,cedar falls,ia,us	univ northern iowa,ia,us
+university of northern iowa research foundation,university of northern iowa, cedar falls,ia,us	univ northern iowa,ia,us
+northwesten university,evanston,il,us	univ northwestern,il,us
+northwestern university	univ northwestern,il,us
+northwestern university,evanson,il,us	univ northwestern,il,us
+northwestern university,evanston	univ northwestern,il,us
+northwestern university,evanston,il	univ northwestern,il,us
+northwestern university,evanston,il,us	univ northwestern,il,us
+northwestern university,evanstone,il,us	univ northwestern,il,us
+northwestern university,evansville,in,us	univ northwestern,il,us
+northwestern university,evaston,il,us	univ northwestern,il,us
+notre dame university,notre dame,in,us	univ notre dame,in,us
+notre dame university,south bend,ia,us	univ notre dame,in,us
+the university of notre dame du lac,notre dame,in,us	univ notre dame,in,us
+the university of notre dame,notre dame,in,us	univ notre dame,in,us
+university of notre dame du lac,notre dame,in	univ notre dame,in,us
+university of notre dame du lac,notre dame,in,us	univ notre dame,in,us
+university of notre dame,notre dame,id,us	univ notre dame,in,us
+university of notre dame,notre dame,in,us	univ notre dame,in,us
+university of notre dume du lac,notre dame,in,us	univ notre dame,in,us
+nova southeastern university,ft. lauderdale,fl,us	univ nova southeastern,fl,us
+oakland university,rochester,mi,us	univ oakland,mi,us
+ohio northern university,ada,oh,us	univ ohio northern,oh,us
+ohio state university research foundation,columbus,oh,us	univ ohio state,oh,us
+ohio state university,columbus,oh,us	univ ohio state,oh,us
+ohio state univesity research foundation,columbus,oh,us	univ ohio state,oh,us
+the ohio state research foundation,columbus,oh,us	univ ohio state,oh,us
+the ohio state university research foundation,columbus,oh,us	univ ohio state,oh,us
+the ohio state university research foundation,knoxville,tn,us	univ ohio state,oh,us
+the ohio state university,columbus,oh,us	univ ohio state,oh,us
+medical university of ohio,toledo,oh,us	univ ohio,oh,us
+ohio university,athens,oh,us	univ ohio,oh,us
+ohio university,oh,us	univ ohio,oh,us
+the board of regents for oklahoma state university,stillwater,ok,us	univ oklahoma state,ok,us
+board of regents of the university of oklahoma,norman,ok,us	univ oklahoma,ok,us
+board of regents university of oklahoma,norman,ok,us	univ oklahoma,ok,us
+the board of regents of the university of oklahoma,columbus,oh,us	univ oklahoma,ok,us
+the board of regents of the university of oklahoma,norman,ok,us	univ oklahoma,ok,us
+the board of regents of university of oklahoma,norman,ok,us	univ oklahoma,ok,us
+the regents of the university of oklahoma,norman,ok,us	univ oklahoma,ok,us
+university of oklahoma,norman,ok,us	univ oklahoma,ok,us
+university of oklahoma,oklahoma city,ok,us	univ oklahoma,ok,us
+old dominian university research foundation,norfolk,va,us	univ old dominion,va,us
+old dominion university research foundation,norfolk,va,us	univ old dominion,va,us
+old dominion university research foundation,norwalk,va,us	univ old dominion,va,us
+old dominion university,norfolk,va,us	univ old dominion,va,us
+oregon health & sceince university,portland,or,us	univ oregon health & sceince,or,us
+oregon health & science university,portland,or,us	univ oregon health & sceince,or,us
+oregon health & science university—technology transfer & business development,portland,or,us	univ oregon health & sceince,or,us
+oregon health and science university,portland,or,us	univ oregon health & sceince,or,us
+oregon health and sciences university,portland,or,us	univ oregon health & sceince,or,us
+oregon health science university,portland,or,us	univ oregon health & sceince,or,us
+oregon health sciences university,portland,in,us	univ oregon health & sceince,or,us
+the united states of america as represented by the oregon health & science university,washington,dc,us	univ oregon health & sceince,or,us
+oregon state university,corvallis,or,us	univ oregon state,or,us
+state board of higher education on behalf of oregon state university,corvallis,or,us	univ oregon state,or,us
+state of oregon acting by and though oregon state board of higher education on behalf of oregon state university,corallis,or,us	univ oregon state,or,us
+state of oregon acting by and through the state board of higher education on behalf of oregon state university,corvalis,or,us	univ oregon state,or,us
+state of oregon acting by and through the state board of higher education on behalf of oregon state university,corvallis,or,us	univ oregon state,or,us
+state of oregon acting by and through the state board of higher education on behalf of osu,corvallis,or,us	univ oregon state,or,us
+the state of oregon acting by and through the state board of higher education on behalf of oregon state university,corvallis,or,us	univ oregon state,or,us
+the state of oregon acting by and through the state board of higher education oregon state university,corvallis,or,us	univ oregon state,or,us
+the state of oregon acting by and through...,corvallis,or,us	univ oregon state,or,us
+the state of oregon on behalf of oregon state university,corvallis,or,us	univ oregon state,or,us
+state of oregan acting by and through the state board of higher education on behalf of the university of oregan,eugene,or,us	univ oregon,or,us
+state of oregon acting by and through the board of education on behalf of the university of oregon,eugene,or,us	univ oregon,or,us
+state of oregon acting by and through the state board of higher education on behalf of the university of oregon,eugene,or,us	univ oregon,or,us
+state of oregon acting by and through the state board of higher education on behalf of the university of oregon,igene,or,us	univ oregon,or,us
+state of oregon acting by and through the state board of higher education on behalf of university of oregon,eugene,or,us	univ oregon,or,us
+the state of oregon acting by and through the state board of higher education on behalf of the university of oregon,eugene,or,us	univ oregon,or,us
+university of oregon,eugene,or,us	univ oregon,or,us
+osaka university,osaka,jp	univ osaka,osaka,jp
+oslo university hospital hf,oslo,no	univ oslo,oslo,no
+university of ottawa,ontario,ca	univ ottawa,ottawa,ca
+university of ottawa,ottawa, on,ca	univ ottawa,ottawa,ca
+universidad de oviedo,oviedo,es	univ oviedo,oviedo,es
+chancellor master and scholars of the university of oxford,oxford,gb	univ oxford,oxford,gb
+chancellor masters and scholars of the university of oxford,oxford,gb	univ oxford,oxford,gb
+oxford brookes university,oxford,gb	univ oxford,oxford,gb
+the chancellor masters and scholars of the university of oxford,oxford,gb	univ oxford,oxford,gb
+the charles stark draper laboratory,cambridge,ma,us	univ oxford,oxford,gb
+pace university,new york,ny,us	univ pace,ny,us
+universita' degli studi di padova,padua,it	univ padova,padua,it
+universite paris diderot-paris 7,paris,fr	univ paris diderot,paris,fr
+universite paris diderot—paris 7,paris,fr	univ paris diderot,paris,fr
+universite paris-sud xi,orsay cedex,fr	univ paris-sud xi,orsay,fr
+universita degl studi di parma,parma,it	univ parma,parma,it
+universita degli studi di parma,parma,it	univ parma,parma,it
+universita delgi studi di parma,it	univ parma,parma,it
+universita' delgi studi di parma,it	univ parma,parma,it
+universita′ degli di parma,parma,it	univ parma,parma,it
+universita'degli studi di parma,parma,it	univ parma,parma,it
+universita'degli studi di pavia,pavia,it	univ parma,parma,it
+universita' degli studi di pavia,pavia,it	univ pavia,pavia,it
+peking university shenzhen graduate school,guangdong,cn	univ peking shenzhen graduate school,guangdong,cn
+the penn state reasearch foundation,university park,pa,us	univ penn state,pa,us
+the penn state research foundation,university park,pa,us	univ penn state,pa,us
+the penn state university,university park,pa,us	univ penn state,pa,us
+provost fellows and scholars of the college of the holy and undivided trinity of queen elizabeth near dublin,dublin,ie	univ pennsylvania state,pa,us
+the pennsylvania state university,university park,pa,us	univ pennsylvania state,pa,us
+lock haven university of pennsylvania,harrisburg,pa,us	univ pennsylvania,pa,us
+the trustee of the university of pennsylvania,philadelphia,pa,us	univ pennsylvania,pa,us
+the trustees of the university of pa.,philadelphia,pa,us	univ pennsylvania,pa,us
+the trustees of the university of pennslyvania,philadelphia,pa,us	univ pennsylvania,pa,us
+the trustees of the university of pennsylvani,philadelphia,pa,us	univ pennsylvania,pa,us
+the trustees of the university of pennsylvania,philadelphia,or,us	univ pennsylvania,pa,us
+the trustees of the university of pennsylvania,philadelphia,pa,us	univ pennsylvania,pa,us
+the trustees of the university of pennyslvania,philadelphia,pa,us	univ pennsylvania,pa,us
+the trustees of the university of pennysylvania,philadelphia,pa,us	univ pennsylvania,pa,us
+the trustees of the unversity of pennsylvania,philadelphia,pa,us	univ pennsylvania,pa,us
+the trustess of the university of pennsylvania,philadelphia,pa,us	univ pennsylvania,pa,us
+trustees of the university of pennsylvania,philadelphia,pa,us	univ pennsylvania,pa,us
+university of pennsylvania,philadelphia,pa,us	univ pennsylvania,pa,us
+universite pierre et marie curie paris 6,paris,fr	univ pierre & marie curie,paris,fr
+pittsburg state university,pittsburg,ks,us	univ pittsburg state,ks,us
+the university of pittsburgh of the commonwealth system of higher education,pittsburgh,pa,us	univ pittsburgh,pa,us
+the university of pittsburgh office of technology transfer,pittsburgh,pa,us	univ pittsburgh,pa,us
+the university of pittsburgh,pittsburgh,pa,us	univ pittsburgh,pa,us
+the university of pittsburgh—of the commonwealth system of higher education,pittsburgh,pa,us	univ pittsburgh,pa,us
+university of pittsburg,pittsburgh,pa,us	univ pittsburgh,pa,us
+university of pittsburgh - of the commonwealth system of higher education,pittsburgh,pa,us	univ pittsburgh,pa,us
+university of pittsburgh - of the commonwealth systems of higher education,pittsburgh,pa,us	univ pittsburgh,pa,us
+university of pittsburgh of the commonwealth system of higher education,pittsburgh,pa,us	univ pittsburgh,pa,us
+university of pittsburgh —of the commonwealth system of higher education,pittsburgh,pa,us	univ pittsburgh,pa,us
+university of pittsburgh— of the commonwealth system of higher education,pittsburgh,pa,us	univ pittsburgh,pa,us
+university of pittsburgh,pittsburgh	univ pittsburgh,pa,us
+university of pittsburgh,pittsburgh,pa,us	univ pittsburgh,pa,us
+university of pittsburgh-of the commonwealth of higher education,pittsburgh,pa,us	univ pittsburgh,pa,us
+university of pittsburgh—of the commonwealth system of higher education	univ pittsburgh,pa,us
+university of pittsburgh—of the commonwealth system of higher education pittsburgh pa,pittsburgh,pa,us	univ pittsburgh,pa,us
+university of pittsburgh—of the commonwealth system of higher education,pittsburg,pa,us	univ pittsburgh,pa,us
+university of pittsburgh-of the commonwealth system of higher education,pittsburgh,pa,us	univ pittsburgh,pa,us
+university of pittsburgh—of the commonwealth system of higher education,pittsburgh,pa,us	univ pittsburgh,pa,us
+university of pittsburgh—of the commonwealth system of higher learning,pittsburgh,pa,us	univ pittsburgh,pa,us
+university of pittsburgh—of the commonwwealth system of higher education,pittsburgh,pa,us	univ pittsburgh,pa,us
+university of pittsburg—of the commonwealth system of higher education,pittsburg,pa,us	univ pittsburgh,pa,us
+pohang university of science and technology,gyungbuk,kr	univ pohang science & tech,gyungbuk,kr
+pohang university of science and technology,pohang gyungbuk,kr	univ pohang science & tech,gyungbuk,kr
+pohang university of science and technology,pohang,kr	univ pohang science & tech,gyungbuk,kr
+oregon state board of higher education on behalf of portland state university,portland,or,us	univ portland state,or,us
+portland state university,portland,or,us	univ portland state,or,us
+state of oregon by and through the state board of higher education on behalf of porland state university,portland,or,us	univ portland state,or,us
+state of oregon by and through the state board of higher education on behalf of portland state university,portland,or,us	univ portland state,or,us
+the state of oregon acting by and through the state board of higher education on behalf of the portland state university,portland,or,us	univ portland state,or,us
+universidade do porto,oporto,pt	univ porto,porto,pt
+universidade do porto,porto,pt	univ porto,porto,pt
+university of pretoria,pretoria,za	univ pretoria,pretoria,za
+princeton university office of technology and trademark licensing,princeton,nj,us	univ princeton,nj,us
+princeton university,princeton,nj,us	univ princeton,nj,us
+the trustees of princeton univeristy,princeton,nj,us	univ princeton,nj,us
+the trustees of princeton university,princeton,nj,us	univ princeton,nj,us
+trustees of princeton university,princeton,nj,us	univ princeton,nj,us
+providence college,providence,ri,us	univ providence college,ri,us
+pukyong national university,pusan,kr	univ pukyong national,pusan,kr
+centre of excellence in molecular biology together with all allied components university of punjab,lahore,pk	univ punjab,lahore,pk
+purdue university,west lafayette,in,us	univ purdue,in,us
+queen mary and westfield college university of london,london,gb	univ queen mary london,london,gb
+queen's university belfast,belfast,gb	univ queen's,belfast,gb
+queen's university at kingston,ca	univ queen's,on,ca
+queen's university at kingston,kingston,ca	univ queen's,on,ca
+queen's university at kingston,on,ca	univ queen's,on,ca
+queensland university of technology,brisbane, queensland,au	univ queensland tech,queensland,au
+queensland university of technology,brisbane,au	univ queensland tech,queensland,au
+queensland university of technology,queensland,au	univ queensland tech,queensland,au
+the council of the queensland institute of medical research,queensland,au	univ queensland,queensland,au
+the university of queensland,brisbane, queensland,au	univ queensland,queensland,au
+stichting katholieke universiteit more particularly the university of medical centre nijmegen,nijmegen,nl	univ radboud,nijmegen,nl
+regis university,denver,co,us	univ regis,co,us
+the university of denver and regis university,denver,co,us	univ regis,co,us
+renssealer polytechnic institute,troy,ny,us	univ rensselaer polytechnic institute,ny,us
+rensselaer polytechinc institute,troy,ny,us	univ rensselaer polytechnic institute,ny,us
+rensselaer polytechnic institute,troy,ny,us	univ rensselaer polytechnic institute,ny,us
+rensselaer polytechnical institute,troy,ny,us	univ rensselaer polytechnic institute,ny,us
+university of rhode island research foundation,kingston,ri,us	univ rhode island,ri,us
+university of rhode island,kingston,ri,us	univ rhode island,ri,us
+rice university,houston,tx,us	univ rice,tx,us
+university of richmond,richmond,va,us	univ richmond,va,us
+rochester institute of technology,rochester,ny,us	univ rochester institute of tech,ny,us
+the university of rochester medical center,rochester,ny,us	univ rochester,ny,us
+university of rochester,rochester,ny,us	univ rochester,ny,us
+rockefeller university (the),new york,ny,us	univ rockefeller,ny,us
+rockefeller university,new york,ny,us	univ rockefeller,ny,us
+the rockefeller university,new york,ny,us	univ rockefeller,ny,us
+the rockfeller university,new york,ny,us	univ rockefeller,ny,us
+roger williams university,kingston,ma,us	univ roger williams,ma,us
+universita degli studi di roma “tor vergata”,rome,it	univ rome tor vergata,rome,it
+sapienza università di roma,rome,it	univ rome,rome,it
+rosalind franklin university of medicine and science an illinois corporation,north chicago,il,us	univ rosalind franklin,il,us
+rosalind franklin university of medicine and science,north chicago,il,us	univ rosalind franklin,il,us
+rowan university,glassboro,nj,us	univ rowan,nj,us
+rush university medical center,chicago,il,us	univ rush,il,us
+rugers the state university of new jersey,new brunswick,nj,us	univ rutgers,nj,us
+rutgers state university of new jersey,new brunswick,nj,us	univ rutgers,nj,us
+rutgers the state university of new jersery,new brunswick,nj,us	univ rutgers,nj,us
+rutgers the state university of new jersey	univ rutgers,nj,us
+rutgers the state university of new jersey,brunswick,nj,us	univ rutgers,nj,us
+rutgers the state university of new jersey,new brunswicj,nj,us	univ rutgers,nj,us
+rutgers the state university of new jersey,new brunswick,nj,us	univ rutgers,nj,us
+rutgers the state university of new jersey,new bruswick,nj,us	univ rutgers,nj,us
+rutgers the state university of new jersey,newark,nj,us	univ rutgers,nj,us
+rutgers the state university of new jersey,somerset,nj,us	univ rutgers,nj,us
+rutgers the state university,new brunswick,nj,us	univ rutgers,nj,us
+rutgers university	univ rutgers,nj,us
+rutgers university,new brunswick,nj,us	univ rutgers,nj,us
+saint louis univeristy,st. louis,mo,us	univ saint louis,mo,us
+saint louis university,saint louis,mo,us	univ saint louis,mo,us
+saint louis university,st. louis,mi,us	univ saint louis,mo,us
+saint louis university,st. louis,mo,us	univ saint louis,mo,us
+st. louis university,st. louis,mo,us	univ saint louis,mo,us
+saint mary's college,notre dame,in,us	univ saint mary's college,in,us
+salisbury university,salisbury,md,us	univ salisbury,md,us
+salus university,elkins park,pa,us	univ salus,pa,us
+sam houston state university,huntsville,tx,us	univ sam houston state,tx,us
+san francisco state university,san francisco,ca,us	univ san francisco state,ca,us
+san jose state university research foundation,san jose,ca,us	univ san jose state,ca,us
+santa clara university,santa clara,ca,us	univ santa clara,ca,us
+university of santiago de compostela,es	univ santiago compostela,unknown,es
+the university of saskatchewan,saskatoon, saskatchewan,ca	univ saskatchewan,saskatchewan,ca
+university of saskatchewan,saskatchewan,ca	univ saskatchewan,saskatchewan,ca
+university of saskatchewan,saskatoon, saskatchewan,ca,us	univ saskatchewan,saskatchewan,ca
+universitatsklinikum schleswig-holsten,kiel,de	univ schleswig-holsten,schleswig-holsten,de
+university of the sciences in philadelphia,philadelphia,pa,us	univ sciences philadelphia,pa,us
+seoul national university industry foundation,seoul,kr	univ seoul,seoul,kr
+seoul national university r & db foundation,seoul,kr	univ seoul,seoul,kr
+seoul national university r&db foundation,kr	univ seoul,seoul,kr
+seoul national university r&db foundation,seoul,kr	univ seoul,seoul,kr
+seoul national university,kr	univ seoul,seoul,kr
+shanghai jiao tong university,shanghai,cn	univ shanghai jiao tong,shanghai,cn
+the university of sheffield,sheffield,gb	univ sheffield,sheffield,gb
+shimane university,matsue,jp	univ shimane,matsue,jp
+shinshu university,matsumoto, nagano,jp	univ shinshu,nagano,jp
+shinshu university,matsumoto,jp	univ shinshu,nagano,jp
+shinshu university,matsumoto-shi,jp	univ shinshu,nagano,jp
+shinshu university,nagano,jp	univ shinshu,nagano,jp
+simon fraser university,burnaby,ca	univ shinshu,nagano,jp
+national university corporation shizuoka university,shizuoka,jp	univ shizuoka,shizuoka,jp
+singularity university,moffet field,ca,us	univ singularity,ca,us
+singularity university,moffett field,ca,us	univ singularity,ca,us
+industry-university cooperation foundation sogang university,seoul,kr	univ sogang,seoul,kr
+foundation of soongsil university-industry cooperation,seoul,kr	univ soongsil,seoul,kr
+university of south alabama,mobile,al,us	univ south alabama,al,us
+univeristy of south australia,adelaide,au	univ south australia,adelaide,au
+univeristy of south carolina,columbia,sc,us	univ south carolina,sc,us
+university of south carolina,columbia,sc,us	univ south carolina,sc,us
+the university of south florida,tampa,fl,us	univ south florida,fl,us
+university of south florida (a florida non-profit corporation),tampa,fl,us	univ south florida,fl,us
+university of south florida,tampa,fl,us	univ south florida,fl,us
+university south florida,tampa,fl,us	univ south florida,fl,us
+university of southampton,highland, southampton,gb	univ southampton,southampton,gb
+university of southampton,southampton,gb	univ southampton,southampton,gb
+university of southhampton,southampton,gb	univ southampton,southampton,gb
+alfred e. mann institute for biomedical engineering at the university of southern california,los angeles,ca,us	univ southern california,ca,us
+alred e. mann institute for biomedical engineering at the university of southern california,los angeles,ca,us	univ southern california,ca,us
+the university of southern california,las angeles,ca,us	univ southern california,ca,us
+the university of southern california,los angeles,ca,us	univ southern california,ca,us
+the universtiy of southern california,los angeles,ca,us	univ southern california,ca,us
+univeristy of southern california,los angeles,ca,us	univ southern california,ca,us
+university of south california,los angeles,ca,us	univ southern california,ca,us
+university of southern california,los angeles,ca,us	univ southern california,ca,us
+southern college of optometry,memphis,tn,us	univ southern college of optometry,tn,us
+university of southern denmark,odense m,dk	univ southern denmark,odense m,dk
+board of trustees of southern illinois university on behalf of southern illinois university carbondale,carbondale,il,us	univ southern illinois,il,us
+board of trustees of southern illinois university,carbondale,il,us	univ southern illinois,il,us
+board of trustees of southern illinois university,springfield,il,us	univ southern illinois,il,us
+southern illinois university,springfield,il,us	univ southern illinois,il,us
+the board of trustees of southern illinois university,carbondale,il,us	univ southern illinois,il,us
+the board of trustees of the southern illinois university,carbondale,il,us	univ southern illinois,il,us
+university of southern maine,portland,me,us	univ southern maine,me,us
+southern methodist university,dallas,tx,us	univ southern methodist,tx,us
+the university of southern mississippi,hattiesburg,ms,us	univ southern mississippi,ms,us
+the university of southern mississippi,hattiesburgh,ms,us	univ southern mississippi,ms,us
+university of southern mississippi,hattiesburg,ms,us	univ southern mississippi,ms,us
+university of southern mississippi,hattiesburgh,ms,us	univ southern mississippi,ms,us
+board of regents of the leland stanford jr univ,palo alto,ca,us	univ stanford,ca,us
+board of trustees for the leland stanford junior university,palo alto,ca,us	univ stanford,ca,us
+board of trustees of leland stanford jr. university,palo alto,ca,us	univ stanford,ca,us
+board of trustees of of the leland stanford junior university,palo alto,ca,us	univ stanford,ca,us
+board of trustees of the leland standford junior university,palo alto,ca,us	univ stanford,ca,us
+board of trustees of the leland stanford jr. university,palo alto,ca,us	univ stanford,ca,us
+board of trustees of the leland stanford junior university,palo alto,ca,us	univ stanford,ca,us
+board of trustees of the leland stanford junior university,stanford,ca,us	univ stanford,ca,us
+leland stanford junior university,palo alto,ca,us	univ stanford,ca,us
+leland stanford junior university,stanford,ca,us	univ stanford,ca,us
+stanford university,palo alto,ca,us	univ stanford,ca,us
+stanford university,stanford,ca,us	univ stanford,ca,us
+the board of regents of the leland stanford junior university,palo alto,ca,us	univ stanford,ca,us
+the board of truestees of the leland stanford junior university,stanford,ca,us	univ stanford,ca,us
+the board of trustee of the leland stanford junior university,palo alto,ca,us	univ stanford,ca,us
+the board of trustees for the leland stanford junior university,stanford,ca,us	univ stanford,ca,us
+the board of trustees of leland stanford jr. university,stanford,ca,us	univ stanford,ca,us
+the board of trustees of the laland stanford junior university,palo alto,ca,us	univ stanford,ca,us
+the board of trustees of the lealand stanford junior university,palo alto,ca,us	univ stanford,ca,us
+the board of trustees of the leeland stanford junior university,standford,ca,us	univ stanford,ca,us
+the board of trustees of the leland sanford junior university,palo alto,ca,us	univ stanford,ca,us
+the board of trustees of the leland stamford junior university,palo alto,ca,us	univ stanford,ca,us
+the board of trustees of the leland standford jr. university,palo alto,ca,us	univ stanford,ca,us
+the board of trustees of the leland standford junior university,palo alto,ca,us	univ stanford,ca,us
+the board of trustees of the leland standford junior university,stanford,ca,us	univ stanford,ca,us
+the board of trustees of the leland stanford jr. university,palo alto,ca,us	univ stanford,ca,us
+the board of trustees of the leland stanford jr. university,stanford,ca,us	univ stanford,ca,us
+the board of trustees of the leland stanford junio,ca,us	univ stanford,ca,us
+the board of trustees of the leland stanford junio,palo alto,ca,us	univ stanford,ca,us
+the board of trustees of the leland stanford junior univeristy,palo alto,ca,us	univ stanford,ca,us
+the board of trustees of the leland stanford junior university	univ stanford,ca,us
+the board of trustees of the leland stanford junior university,ca,us	univ stanford,ca,us
+the board of trustees of the leland stanford junior university,pala alto,ca,us	univ stanford,ca,us
+the board of trustees of the leland stanford junior university,palo alto,ca,us	univ stanford,ca,us
+the board of trustees of the leland stanford junior university,palo, alto,ca,us	univ stanford,ca,us
+the board of trustees of the leland stanford junior university,palto alto,ca,us	univ stanford,ca,us
+the board of trustees of the leland stanford junior university,standford,ca,us	univ stanford,ca,us
+the board of trustees of the leland stanford junior university,stanford,ca,us	univ stanford,ca,us
+the board of trustees of the leland stanford junior university,stanford,ct,us	univ stanford,ca,us
+the board of trustees of the leland stanford junior unviversity,stanford,ca,us	univ stanford,ca,us
+the board of trustees of the leland stanford univeristy,stanford,ca,us	univ stanford,ca,us
+the board of trustees of the lelland stanford junior university,palo alto,ca,us	univ stanford,ca,us
+the board of trustees of the lenand stanford junior university,palo alto,ca,us	univ stanford,ca,us
+the board of trustees-leland stanford junior university,palo alto,ca,us	univ stanford,ca,us
+the board of trustees—leland stanford junior university,palo alto,ca,us	univ stanford,ca,us
+the board of trustess of the leland stanford junior university,palo alto,ca,us	univ stanford,ca,us
+the board of trutees of the leland stanford junior university,palo alto,ca,us	univ stanford,ca,us
+the board trustees of the leland stanford junior university,palo alto,ca,us	univ stanford,ca,us
+the borad of trustees of the leland stanford junior university,palo alto,ca,us	univ stanford,ca,us
+the leland stanford junior university,palo alto,ca,us	univ stanford,ca,us
+the trustees of the leland stanford junior university,palo alto,ca,us	univ stanford,ca,us
+stellenbosch university,stellenbosch,za	univ stellenbosch,stellenbosch,za
+stevens institute of technology,hoboken,nj,us	univ stevens institute of tech,nj,us
+the trustees of the stevens institute of technology,hoboken,nj,us	univ stevens institute of tech,nj,us
+universite de strasbourg,strasbourg cedex,fr	univ strasbourg,strasbourg,fr
+universite de strasbourg,strasbourg,fr	univ strasbourg,strasbourg,fr
+sun yat-sen university,guangzhou,cn	univ sun yat-sen,guangzhou,cn
+sungykyunkwan university foundation for corporate collaboration,gyeonggi-do,kr	univ sungykyunkwan,gyeonggi-do,kr
+university of technology sydney,ultimo,au	univ sydney tech,ultimo,au
+university of sydney,sydney,au	univ sydney,nsw,au
+syracuse university,syracuse,ny,us	univ syracuse,ny,us
+taipei medical university,taipei,tw	univ taipei medical,taipei,tw
+ramot at tel aviv university ltd.,tel aviv,il	univ tel-aviv,unknown,il
+ramot at tel aviv university ltd.,tel-aviv,il	univ tel-aviv,unknown,il
+ramot at tel-aviv university ltd,tel-aviv,il	univ tel-aviv,unknown,il
+ramot at tel-aviv university ltd.,il	univ tel-aviv,unknown,il
+ramot at tel-aviv university ltd.,tel aviv,il	univ tel-aviv,unknown,il
+ramot at tel-aviv university ltd.,tel aviv,il,us	univ tel-aviv,unknown,il
+ramot at tel-aviv university ltd.,tel-aviv,il	univ tel-aviv,unknown,il
+tampere university of technology,tampere,fi	univ tempere tech,tampere,fi
+temple university - of the commonwealth system of higher education,philadelphia,pa,us	univ temple,pa,us
+temple university of the commonwealth of higher education,philadelphia,pa,us	univ temple,pa,us
+temple university of the commonwealth system of higher education,philadelphia,pa,us	univ temple,pa,us
+temple university school of medicine,philadelphia,pa,us	univ temple,pa,us
+temple university-of the commonwealth of higher education,philadelphia,pa,us	univ temple,pa,us
+temple university-of the commonwealth system of higher education,philadelphia,pa,us	univ temple,pa,us
+temple university—of the commonwealth system of higher education,philadelphia,pa,us	univ temple,pa,us
+the university of tennesse research foundation,knoxville,tn,us	univ tennessee,tn,us
+the university of tennessee research foundation,knoxville,tn,us	univ tennessee,tn,us
+the university of tennessee research foundation,memphis,tn,us	univ tennessee,tn,us
+univeristy of tennessee research foundation,knoxville,tn,us	univ tennessee,tn,us
+university of tennesse research foundation,knoxville,tn,us	univ tennessee,tn,us
+university of tennessee research center,knoxville,tn,us	univ tennessee,tn,us
+university of tennessee research foundation,columbus,oh,us	univ tennessee,tn,us
+university of tennessee research foundation,knoxville,tn,us	univ tennessee,tn,us
+university of tennessee research foundation,memphis,tn,us	univ tennessee,tn,us
+university of tennessee,knoxville,tn,us	univ tennessee,tn,us
+texas a & m university system,college station,tx,us	univ texas a&m system,tx,us
+texas a&m university	univ texas a&m system,tx,us
+texas a&m university system,college station,tx,us	univ texas a&m system,tx,us
+texas a&m university,college station,tx,us	univ texas a&m system,tx,us
+texas christian university,fort worth,tx,us	univ texas a&m system,tx,us
+university of texas southwestern medical center at dallas,dallas,tx,us	univ texas southwestern,tx,us
+texas state university san marcos a component of the texas state university system an agency of the state of texas,san marcos,tx,us	univ texas state,tx,us
+texas state university,san marcos,tx,us	univ texas state,tx,us
+texas tech university system,lubbock,tx,us	univ texas state,tx,us
+texas tech university,lubbock,tx,us	univ texas state,tx,us
+boar of regents the university of texas system,austin,tx,us	univ texas system,tx,us
+board of directors the university of texas system,austin,tx,us	univ texas system,tx,us
+board of regents of the univeristy of texas system,austin,tx,us	univ texas system,tx,us
+board of regents of the university of texas system	univ texas system,tx,us
+board of regents of the university of texas system,austin,tx,us	univ texas system,tx,us
+board of regents of the university of texas system,houston,tx,us	univ texas system,tx,us
+board of regents the texas university system,austin,tx,us	univ texas system,tx,us
+board of regents the univeristy of texas system,austin,tx,us	univ texas system,tx,us
+board of regents the university of texas system,austin,il,us	univ texas system,tx,us
+board of regents the university of texas system,austin,tx,us	univ texas system,tx,us
+board of regents the university of texas system,dallas,tx,us	univ texas system,tx,us
+board of regents the university of texas system,el paso,tx,us	univ texas system,tx,us
+board of regents the university of texas systems,austin,tx,us	univ texas system,tx,us
+board of regents the university of texas,austin,tx,us	univ texas system,tx,us
+board of regents university of texas system,austin,tx,us	univ texas system,tx,us
+board of the regents of the university of texas system,austin,tx,us	univ texas system,tx,us
+institute for applied cancer science/the university of texas md anderson cancer center,houston,tx,us	univ texas system,tx,us
+the board of regents of the university of texas system,austin,tx,us	univ texas system,tx,us
+the board of regents of the university of texas system,auston,tx,us	univ texas system,tx,us
+the board of regents of the university of texas systems,austin,tx,us	univ texas system,tx,us
+the board of regents the university of texas system,austin,tx,us	univ texas system,tx,us
+the board of regents university of texas system,austin,tx,us	univ texas system,tx,us
+the texas a & m university system,college station,tx,us	univ texas system,tx,us
+the texas a & m university,college station,tx,us	univ texas system,tx,us
+the texas a&m university of system,tamu, college station,tx,us	univ texas system,tx,us
+the texas a&m university system 3369 tamu,college station,tx,us	univ texas system,tx,us
+the texas a&m university system,college state,tx,us	univ texas system,tx,us
+the texas a&m university system,college station,tx,us	univ texas system,tx,us
+the texas a&m university system,college system,tx,us	univ texas system,tx,us
+the texas a&m university systems,college station,tx,us	univ texas system,tx,us
+the texas a&m university,college station,tx,us	univ texas system,tx,us
+the university of md anderson cancer center,houston,tx,us	univ texas system,tx,us
+the university of texas board of regents,austin,tx,us	univ texas system,tx,us
+the university of texas health care center at houston,houston,tx,us	univ texas system,tx,us
+the university of texas md anderson cancer center,houston,tx,us	univ texas system,tx,us
+the university of texas system board of regents,austin,tx,us	univ texas system,tx,us
+the university of texas system,austin,tx,us	univ texas system,tx,us
+university of texas at el paso,el paso,tx,us	univ texas system,tx,us
+thiagarajar college of engineering,tamilnadu,in	univ thiagarajar college of engineering,tamilnadu,in
+thiagarajar college of engineering,tamilnadu,in,us	univ thiagarajar college of engineering,tamilnadu,in
+thomas jefferson university,philadelphia,pa,us	univ thomas jefferson,pa,us
+tianjin university,tainjin,cn	univ tianjin,tainjin,cn
+tianjin university,tianjin,cn	univ tianjin,tainjin,cn
+tohoku university,sendai-shi,jp	univ tohoku,sendai-shi,jp
+national university corporation of tokyo university of agriculture and technology,tokyo,jp	univ tokyo agri & tech,tokyo,jp
+tokyo institute of technology,tokyo,jp	univ tokyo institute of tech,tokyo,jp
+the university of tokyo,bunkyo-ku,jp	univ tokyo,tokyo,jp
+the university of tokyo,tokyo,jp	univ tokyo,tokyo,jp
+the university of toledo,columbus,oh,us	univ toledo,oh,us
+the university of toledo,toldeo,oh,us	univ toledo,oh,us
+the university of toledo,toledo,oh,us	univ toledo,oh,us
+university of toledo,toledo,oh,us	univ toledo,oh,us
+governing council of the university of toronto,ca	univ toronto,ontario,ca
+governing council of the university of toronto,ontario,ca	univ toronto,ontario,ca
+the governing council of the univ. of toronto,toronto,ca	univ toronto,ontario,ca
+the governing council of the university of toronto,toronto, on	univ toronto,ontario,ca
+the governing council of the university of toronto,toronto, ontario,ca	univ toronto,ontario,ca
+the governing council of the university of toronto,toronto,ca	univ toronto,ontario,ca
+the governing council of the university of toronto,toronto,ca,us	univ toronto,ontario,ca
+university of toronto,ca	univ toronto,ontario,ca
+university of toronto,toronto, on,ca,us	univ toronto,ontario,ca
+university of toronto,toronto,ca	univ toronto,ontario,ca
+universita degli studi di trento,trento,it	univ trento,trento,it
+the provost fellows and scholars of the college of the holy and undivided trinity of queen elizabeth near dublin,dublin,ie	univ trinity college,dublin,ie
+the provost fellows foundation scholars and the other members of board of the college of the holy and undivided trinity of queen elizabeth near dublin,dublin,ie	univ trinity college,dublin,ie
+university of tromsø,tromsø,no	univ tromso,tromso,no
+tsinghua university,beijing,cn	univ tsinghua,beijing,cn
+trustees of tufts college	univ tufts,ma,us
+trustees of tufts college tufts university,medford,ma,us	univ tufts,ma,us
+trustees of tufts college,boston,ma,us	univ tufts,ma,us
+trustees of tufts college,medford,ma,us	univ tufts,ma,us
+tufts medical center inc.,boston,ma,us	univ tufts,ma,us
+tufts medical center,boston,ma,us	univ tufts,ma,us
+tufts university,boston,ma,us	univ tufts,ma,us
+tufts university,medford,ma,us	univ tufts,ma,us
+tufts university/trustees of tufts college,medford,ma,us	univ tufts,ma,us
+tulane university,new orleans,la,us	univ tulane,la,us
+tulane university; administrators of the tulane education fund,new orleans,la,us	univ tulane,la,us
+the university of tulsa,tulsa,ok,us	univ tulsa,ok,us
+tuskegee university,tuskegee,al,us	univ tuskegee,al,us
+the united states of america as represented by the uniformed services university of health sciences,washington,dc,us	univ uniformed services health sciences,dc,us
+uniformed services university of the health sciences an institution of higher learning within the department of defense,washington,dc,us	univ uniformed services health sciences,dc,us
+uniformed services university of the health sciences an institution of higher learning within the department of defense.,washington,dc,us	univ uniformed services health sciences,dc,us
+united arab emirates university,al ain,ae	univ united arab emirates,al ain,ae
+united arab emirates university,al anin,ae	univ united arab emirates,al ain,ae
+universita degli studi di urbino “carlo bo”,urbino,it	univ urbino,pesaro and urbino,it
+universita degli studi di urbino,urbino,it	univ urbino,pesaro and urbino,it
+utah state university research foundation,north logan,ut,us	univ utah state,ut,us
+utah state university,logan,ut,us	univ utah state,ut,us
+utah state university,north logan,ut,us	univ utah state,ut,us
+the university of utah research foundation	univ utah,ut,us
+the university of utah research foundation,salt lake city,ut,us	univ utah,ut,us
+the university of utah,salt lake city,ut,us	univ utah,ut,us
+university of utah research foundation,salt lake city,ut,us	univ utah,ut,us
+university of utah research foundation,ut,us	univ utah,ut,us
+university of utah,salt lake city,ut,us	univ utah,ut,us
+university medical center utrecht,nl	univ utrecht,utrecht,nl
+universitat de valÉncia,valencia,es	univ valencia,valencia,es
+vanderbilt university	univ vanderbilt,tn,us
+vanderbilt university center for technology transfer and commercialization,nashville,tn,us	univ vanderbilt,tn,us
+vanderbilt university,nashville,tn,us	univ vanderbilt,tn,us
+vanderbilt unviersity,nashville,tn,us	univ vanderbilt,tn,us
+vanderblit university,nashville,tn,us	univ vanderbilt,tn,us
+the university of vermont and state agricultural college,burlington,va,us	univ vermont,vt,us
+the university of vermont and state agricultural college,burlington,vt,us	univ vermont,vt,us
+the university of vermont and state agriculture college,burlington,vt,us	univ vermont,vt,us
+the university of vermont college of medicine,burlington,vt,us	univ vermont,vt,us
+the university of vermont,burlington,vt,us	univ vermont,vt,us
+university of vermont and state agricultural college,burlington,vt,us	univ vermont,vt,us
+university of vermont,burlington,va,us	univ vermont,vt,us
+university of vermont,burlington,vt,us	univ vermont,vt,us
+universtiy of vermont,burlington,vt,us	univ vermont,vt,us
+university of victoria innovatiion and development corporation,victoria, bc,ca	univ victoria,bc,ca
+university of victoria innovation and development corporation,victoria, bc,ca	univ victoria,bc,ca
+viginia commonwealth university,richmond,va,us	univ virginia commonwealth,va,us
+virginia commonwealth university intellectual property foundation,richmond,va,us	univ virginia commonwealth,va,us
+virginia commonwealth university,richmond,va,us	univ virginia commonwealth,va,us
+virginia commonwealth university,richmond,wa,us	univ virginia commonwealth,va,us
+virginia commonweath university,richmond,va,us	univ virginia commonwealth,va,us
+virginia polytechnic institute and state university,blacksburg,va,us	univ virginia tech,va,us
+virginia polytechnic institute and state university,winchester,va,us	univ virginia tech,va,us
+virginia tech intellectual properties inc.,blacksburg,va,us	univ virginia tech,va,us
+virginia tech intellectual properties,blacksburg,va,us	univ virginia tech,va,us
+the university of virginia patent foundation,charlottesville,va,us	univ virginia,va,us
+university of virginia patent foundation,charlottesvile,va,us	univ virginia,va,us
+university of virginia patent foundation,charlottesville,va,us	univ virginia,va,us
+wageningen university,wageningen,nl	univ wageningen,wageningen,nl
+wake forest university health science,winston-salem,nc,us	univ wake forest,nc,us
+wake forest university health sciences,winston salem,nc,us	univ wake forest,nc,us
+wake forest university health sciences,winston-salem,nc,us	univ wake forest,nc,us
+wake forest university health services,winston-salem,nc,us	univ wake forest,nc,us
+wake forest university school of medicine,winston-salem,nc,us	univ wake forest,nc,us
+wake forest university,winston salem,nc,us	univ wake forest,nc,us
+wake forest university,winston-salem,nc,us	univ wake forest,nc,us
+university of wales institute cardiff,cardiff,gb	univ wales institute,cardiff,gb
+university of warsaw,warsaw,pl	univ warsaw,warsaw,pl
+university of warwick,coventry,gb	univ warwick,west midlands,gb
+waseda university,shinjuku-ku,jp	univ waseda,shinjuku-ku,jp
+the washington university in st. louis,st. louis,mo,us	univ washington st. louis,mo,us
+the washington university,st. louis,mo,us	univ washington st. louis,mo,us
+washington university in st. louis,st. louis,mo,us	univ washington st. louis,mo,us
+washington university school of medicine,st. louis,mo,us	univ washington st. louis,mo,us
+washington university,saint louis,mo,us	univ washington st. louis,mo,us
+washington university,st. louis,mi,us	univ washington st. louis,mo,us
+washington university,st. louis,mo,us	univ washington st. louis,mo,us
+washington state university	univ washington state,wa,us
+washington state university research foundation,pullman,wa,us	univ washington state,wa,us
+washington state university,pullman,wa,us	univ washington state,wa,us
+washington state university,wa,us	univ washington state,wa,us
+washington state university,washington	univ washington state,wa,us
+the university of washington,seattle,wa,us	univ washington,wa,us
+university of washington center for commercialization,seattle,wa,us	univ washington,wa,us
+university of washington through its center for commercialization,seattle,wa,us	univ washington,wa,us
+university of washington through it's center for commercialization,seattle,wa,us	univ washington,wa,us
+university of washington through its center for commercilization,seattle,wa,us	univ washington,wa,us
+university of washington through its center for commericalization,seattle,wa,us	univ washington,wa,us
+university of washington through its center for communication,seattle,wa,us	univ washington,wa,us
+university of washington,seattle,wa,us	univ washington,wa,us
+university of washington,wa,us	univ washington,wa,us
+univesity of washington through its center for communication,seattle,wa,us	univ washington,wa,us
+university of waterloo,waterloo,ca	univ waterloo,waterloo,ca
+wayne state univeristy,detroit,mi,us	univ wayne state,mi,us
+wayne state university board of govenors,detroit,mi,us	univ wayne state,mi,us
+wayne state university,detroit,mi,us	univ wayne state,mi,us
+waynesburg university,waynesburg,pa,us	univ waynesburg,pa,us
+wesleyan university,middletown,ct,us	univ wesleyan,ct,us
+west virginia university research corp.,morgantown,wv,us	univ west virginia,wv,us
+west virginia university research corporation,morgantown,wv,us	univ west virginia,wv,us
+west virginia university,morgantown,wv,us	univ west virginia,wv,us
+the university of western australia,crawley,au	univ western australia,western australia,au
+western university health sciences,pomona,ca,us	univ western health sciences,ca,us
+western university of health sciences,pomona,ca,us	univ western health sciences,ca,us
+western illinois university research foundation,macomb,il,us	univ western illinois,il,us
+western kentucky university,bowling green,ky,us	univ western kentucky,ky,us
+the board of trustees of western michigan university,kalamazoo,mi,us	univ western michigan,mi,us
+the university of western ontario,london, on,ca	univ western ontario,on,ca
+the university of western ontario,london, ontario,ca	univ western ontario,on,ca
+the university of western ontario,london,ca,us	univ western ontario,on,ca
+university of western ontario,london, ontario,ca	univ western ontario,on,ca
+whitehead insititute for biomedical research,cambridge,ma,us	univ whitehead institute,ma,us
+whitehead institute for biomedical research,cambrdge,ma,us	univ whitehead institute,ma,us
+whitehead institute for biomedical research,cambridge,ma,us	univ whitehead institute,ma,us
+whitehead institute of biomedical research,cambridge,ma,us	univ whitehead institute,ma,us
+whitehead institute,cambridge,ma,us	univ whitehead institute,ma,us
+wichita state university,wichita,ks,us	univ wichita state,ks,us
+willamette university,salem,or,us	univ willamette,or,us
+wiliam marsh rice university,houston,tx,us	univ william marsh rice,tx,us
+william marsh rice university,houston,tx,us	univ william marsh rice,tx,us
+wm. marsh rice university,houston,tx,us	univ william marsh rice,tx,us
+the university of windsor,ca	univ windsor,on,ca
+university of windsor,windor, ontario,ca	univ windsor,on,ca
+the regents of the university of wisconsin,ann arbor,mi,us	univ wisconsin,wi,us
+the uwm research foundation inc.,milwaukee,wi,us	univ wisconsin,wi,us
+university of wisconsin - milwaukee,milwaukee,wi,us	univ wisconsin,wi,us
+university of wisconsin,madison,wi,us	univ wisconsin,wi,us
+uwm research foundation inc.,milwaukee,wi,us	univ wisconsin,wi,us
+uwm research foundation,milwaukee,wi,us	univ wisconsin,wi,us
+wisconsin alumni research foudation,madison,wi,us	univ wisconsin,wi,us
+wisconsin alumni research foundation (warf),madison,wi,us	univ wisconsin,wi,us
+wisconsin alumni research foundation,madison,wi,us	univ wisconsin,wi,us
+wisys technology foundation,madison,wi,us	univ wisconsin,wi,us
+university of wollongong,new south wales,au	univ wollongong,wollongong,au
+university of wollongong,wollongong,au	univ wollongong,wollongong,au
+worcester polytechnic institute,worcester,ma,us	univ worcester polytechnic institute,ma,us
+worchester polytechnic institute,worcester,ma,us	univ worcester polytechnic institute,ma,us
+wright state university,dayton,oh,us	univ wright state,oh,us
+julius-maximilians-university of wuerzburg,wuerzburg,de	univ wuerzburg,wuerzburg,de
+the university of wyoming research corporation d/b/a western research institute,laramie,wy,us	univ wyoming,wy,us
+the university of wyoming research corporation,laramie,wy,us	univ wyoming,wy,us
+the university of wyoming,laramie,wy,us	univ wyoming,wy,us
+university of wyoming research corporation,laramie,wy,us	univ wyoming,wy,us
+university of wyoming,laramie,wy,us	univ wyoming,wy,us
+xavier university of louisiana,new orleans,la,us	univ xavier louisiana,la,us
+xavier university,new orleans,la,us	univ xavier,la,us
+yale university,new haven,ct,us	univ yale,ct,us
+national yang ming university,taipei,tw	univ yang ming,taipei,tw
+national yang-ming university,taipei,tw	univ yang ming,taipei,tw
+industry-academic cooperation foundation yonsei university,seoul,kr	univ yonsei,seoul,kr
+industry-academic cooperation foundation; yonsei university,seoul,kr	univ yonsei,seoul,kr
+the university of zurich,zurich,ch	univ zurich,zurich,ch
+university of zurich,zurich,ch	univ zurich,zurich,ch
+universal display corporation,ewing,nj,us	universal display corp,nj,us
+universities space research association,columbia,md,us	universities space research association,md,us
+university corporation for atmospheric research,boulder,co,us	UNversity corp. for atmospheric research,co,us
+the university for systems biology,seattle,wa,us	UNversity for systems biology,wa,us
+university hospitals case medical center,cleveland,oh,us	UNversity hospitals clevelandr,oh,us
+university hopitals of cleveland,cleveland,oh,us	UNversity hospitals clevelandr,oh,us
+university hospitals cleveland medical center,cleveland,oh,us	UNversity hospitals clevelandr,oh,us
+university hospitals of cleveland,cleveland,oh,us	UNversity hospitals clevelandr,oh,us
+the united states department of agriculture,washington,dc,us	us dept agriculture,dc,us
+the united states of america as represented by secretary of agriculture,washington,dc,us	us dept agriculture,dc,us
+the united states of america as represented by the department of agriculture/cooperative state research education and extension service (usda/csrees),washington,dc,us	us dept agriculture,dc,us
+the united states of america as represented by the secretary of agriculture,washington,dc,us	us dept agriculture,dc,us
+the united states of america as represented by the secretary of argiculture,washington,dc,us	us dept agriculture,dc,us
+the united states of america represented by the secretary of agriculture,washington,dc,us	us dept agriculture,dc,us
+the united states of america secretary of agriculture,washington,dc,us	us dept agriculture,dc,us
+u.s. department of agricultue/ncaur,washington,dc,us	us dept agriculture,dc,us
+u.s. department of agriculture,washington,dc,us	us dept agriculture,dc,us
+united states of america as represented by the secretary of agriculture,washington,dc,us	us dept agriculture,dc,us
+the united states of america as represented by the secretary of the air force afmclo/jaz,washington,dc,us	us dept air force,dc,us
+the united states of america as represented by the secretary of the air force directorate of intellectual property law,washington,dc,us	us dept air force,dc,us
+the united states of america as represented by the secretary of the air force,washington,dc,us	us dept air force,dc,us
+government of the united states as represented by the secretary of the army,washington,dc,us	us dept army,dc,us
+the united states of america as repr. by the sec. of the army u.s. army med. resr. inst. of chem. defense,washington,dc,us	us dept army,dc,us
+the united states of america as represented by secretary of the army,washington,dc,us	us dept army,dc,us
+the united states of america as represented by the secretary of the army,washington,dc,us	us dept army,dc,us
+the unites states of america as represented by the secretary of the army,washington,dc,us	us dept army,dc,us
+u.s. army rdecom-ardec,washington,dc,us	us dept army,dc,us
+u.s. army secretary of the army,washington,dc,us	us dept army,dc,us
+united states army medical research and materiel command,frederick,md,us	us dept army,dc,us
+united states of america as represented by the secretary of the army,washington,dc,us	us dept army,dc,us
+us army secretary of the army,fort detrick,md,us	us dept army,dc,us
+the united states of america as represented by the secretary of commerce national institute of standards and technology,washington,dc,us	us dept commerce,dc,us
+the united states of america as represented by the secretary of commerce the national institute of standards & technology,washington,dc,us	us dept commerce,dc,us
+the united states of america as represented by the secretary of commerce the national institute of standards and technology,washington,dc,us	us dept commerce,dc,us
+the united states of america as represented by the secretary of commerce,washington,dc,us	us dept commerce,dc,us
+the united states of america as represented by the secretary of the department of commerce the national institute of standards and technology,washington,dc,us	us dept commerce,dc,us
+the united states of america as represented by the secretary of energy,washington,dc,us	us dept energy,dc,us
+the united states of america as represented by the united states department of energy,washington,dc,us	us dept energy,dc,us
+u.s. department of energy,washington,dc,us	us dept energy,dc,us
+national institute of health,rockville,md,us	us dept health and human services,dc,us
+national institutes of health (nih) u.s. dept. of health and human services (dhhs),washington,dc,us	us dept health and human services,dc,us
+national institutes of health (nih) u.s. dept. of health and human services (dhhs,bethesda,md,us	us dept health and human services,dc,us
+national institutes of health (nih) u.s. dept. of health and human sevices (ddhhs) the united states of america,washington,dc,us	us dept health and human services,dc,us
+national institutes of health (nih),washington,dc,us	us dept health and human services,dc,us
+national institutes of health us dept. of health and human services,bethesda,md,us	us dept health and human services,dc,us
+national institutes of health,bethesda,md,us	us dept health and human services,dc,us
+national institutes of health,rockville,md,us	us dept health and human services,dc,us
+the department of health and human services,washington,dc,us	us dept health and human services,dc,us
+the department of veteran affairs,washington,dc,us	us dept health and human services,dc,us
+the government of the united states of america as represented by the department of health and human services,washington,dc,us	us dept health and human services,dc,us
+the government of the united states of america as represented by the secretary department of health and human services national institutes of health,washington,dc,us	us dept health and human services,dc,us
+the government of the united states of america as represented by the secretary of the department of health and human services,washington,dc,us	us dept health and human services,dc,us
+the u.s.a. as represented by the secretary of the hhs,rockville,md,us	us dept health and human services,dc,us
+the united states of america as representated by the secretary department of health and human services,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by national institutes of health (nih) u.s. dept. of health and human services (dhhs) u.s. government,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by nih,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the department of health and human services centers for disease control and prevention,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the department of health and human services national institute of health office of technology transfer,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the department of health and human services national institutes of health office of technology transfer,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the department of health and human services,bethesda,md,us	us dept health and human services,dc,us
+the united states of america as represented by the department of health and human services,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the department of health,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the dept. of health and human services (dhhs),washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the government of the department of health and human services,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the national institutes of health (nih),washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the secetary of the department of health and human services,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary department of health & human services,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary department of health and humam services,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary department of health and human serivces,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary department of health and human service,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary department of health and human services (hereinafter the government) office of technology transfer national institutes of health,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary department of health and human services centers for disease control and prevention,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary department of health and human services national institutes of health,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary department of health and human services,bethesda,md,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary department of health and human services,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary department of health and human services; national institutes of health office of technology transfer,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary dept. of health & human services,rockville,md,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary dept. of health and human services,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary of health and human services national institutes of health,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary of health and human services,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary of health and human services,washington,wa,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary of health,rockville,md,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary of the deparment of health and human services national institute of health office of technology transfer,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary of the deparment of health and human services,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary of the department of health and human services center for disease control and prevention,atlanta,ga,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary of the department of health and human services centers for disease control and prevention,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary of the department of health and human services national institute of health office of technology tansfer,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary of the department of health and human services national institute of health office of technology transfer,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary of the department of health and human services national institutes of health office of technology transfer,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary of the department of health and human services national institutes of health,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary of the department of health and human services,bethesda,md,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary of the department of health and human services,rockville,md,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary of the department of health and human services,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary of the department of health and human services,wasington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary of the dept. of health & human services,washington,dc,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary of the dept. of health and human services,washington,dc,us	us dept health and human services,dc,us
+the united states of america national institute of health,washington,dc,us	us dept health and human services,dc,us
+the united states of america national institutes of health (nih) u.s. dept of health and human services (dhhs),washington,dc,us	us dept health and human services,dc,us
+the united states of america national institutes of health as represented by the sec. dept hhs,bethesda,md,us	us dept health and human services,dc,us
+u.s. dept. of health and human services (dhhs),washington,dc,us	us dept health and human services,dc,us
+united states of america as represented by the secretary of the department of health and human services,washington,dc,us	us dept health and human services,dc,us
+united states of america nih,washington,dc,us	us dept health and human services,dc,us
+us national institutes of health,bethesda,md,us	us dept health and human services,dc,us
+the united states of america as represented by the secretary of the department of the interior,washington,dc,us	us dept interior,dc,us
+the united states of america as represented by nasa,washington,dc,us	us dept nasa,dc,us
+the united states of america as represented by the administration of the national aeronautics and space administration,greenbelt,md,us	us dept nasa,dc,us
+the united states of america as represented by the administrator of the national aeronautics and space adm,washington,dc,us	us dept nasa,dc,us
+the united states of america as represented by the administrator of the national aeronautics and space administration,washington,dc,us	us dept nasa,dc,us
+the united states of america as represented by the adminstrator of nasa,washington	us dept nasa,dc,us
+the united states of america as represented by the national aeronautics and space administration,washington,dc,us	us dept nasa,dc,us
+the united states of america as represented by the united states national aeronautics and space administration,washington,dc,us	us dept nasa,dc,us
+the united states od america as represented by the director national security agency,waahington,dc,us	us dept national security agency,dc,us
+the united states of america as represented by the director national security agency,washington,dc,us	us dept national security agency,dc,us
+the united states of america as represented by the secretary of the navy,washington,dc,us	us dept navy,dc,us
+united states of america as represented by the secretary of the navy,washington,dc,us	us dept navy,dc,us
+the united states of america as represented by the secretary of state,washington,dc,us	us dept state,dc,us
+the department of veterans affairs office of the general counsel,washington,dc,us	us dept veterans affairs,dc,us
+the department of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+the dept. of veterans affairs office of the general counsel,washington,dc,us	us dept veterans affairs,dc,us
+the government of the united states of america dba the department of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+the u.s. government represented by the department of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united sates of america as represented by the department of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states as represented by the department of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states government as represented by the department of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states government represented by the department of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america as represented by department of veterens affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america as represented by dept. of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america as represented by the department of veteran affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america as represented by the department of veterans affair,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america as represented by the department of veterans affairs office of general counsel,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america as represented by the department of veterans affairs office of general counsel—psg iv (024),washington,dc,us	us dept veterans affairs,dc,us
+the united states of america as represented by the department of veterans affairs office of the general counsel,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america as represented by the department of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america as represented by the department of veteran's affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america as represented by the department of veterans affaris office of general counsel,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america as represented by the depatment of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america as represented by the dept of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america as represented by the dept. of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america as represented by the secretary of the department of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america as represented by the u.s. department of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america as represented by the united states department of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america as represnted by the dept. of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america dba the department of veteran affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america dba the department of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america department of veteran affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america department of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america government department of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america represented by the department of veteran affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america represented by the department of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america represented by the department of vetran affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states of america represented by the deptartment of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states of american as represented by the department of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+the united states of americas as represented by the department of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+u.s. department of veteran affairs,washington,dc,us	us dept veterans affairs,dc,us
+u.s. department of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+u.s. government—department of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+u.s.a. represented by the department of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+u.s.a. represented by the dept. of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+united states department of veteran affairs,washington,dc,us	us dept veterans affairs,dc,us
+united states department of veterans affairs,washington,dc,us	us dept veterans affairs,dc,us
+united states of america department of veteran's affairs.,washington,dc,us	us dept veterans affairs,dc,us
+ut-battelle llc,knoxville,tn,us	ut-battelle llc,tn,us
+ut-battelle llc,oak ridge,tn,us	ut-battelle llc,tn,us
+ut-battelle llc,oak ridged,tn,us	ut-battelle llc,tn,us
+ut-battelle llc,oakridge,tn,us	ut-battelle llc,tn,us
+ut-battelle,oak ridge,tn,us	ut-battelle llc,tn,us
+virginia museum of natrual history foundation,martinsville,va,us	virginia museum of natural history foundation,va,us
+virginia museum of natural history foundation,martinsville,va,us	virginia museum of natural history foundation,va,us
+virginia museum of natural history,martinsville,va,us	virginia museum of natural history foundation,va,us
+volcano corporation,rancho cordova,ca,us	volcano corp,ca,us
+volcano corporation,san diego,ca,us	volcano corp,ca,us
+western digital (fremont) llc,fremont,ca,us	western digital,ca,us
+western digital technologies inc.,irvine,ca,us	western digital,ca,us
+the whitehead institute,cambridge,ma,us	whitehead institute,ma,us
+the wistar institute of anatomy and biology,philadelphia,pa,us	wistar institute,pa,us
+the wistar institute,philadelphia,pa,us	wistar institute,pa,us

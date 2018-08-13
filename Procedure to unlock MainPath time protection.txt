@@ -1,0 +1,11 @@
+Procedure to unlock MainPath time protection
+
+1. Set the time of the Windows system to an earlier year (be sure to change back afterwards)
+
+2. Start Command Prompt (by searching for "Command Prompt" from the start up menu)
+
+3. Enter "regedit" (the registry editor) in the command prompt
+
+4. Under the registry editor, select "HKEY_CURRENT_USER\Software\MainPath"
+
+5. Edit the "Last Usage Time", change any of the 8 bytes to a non-digit value

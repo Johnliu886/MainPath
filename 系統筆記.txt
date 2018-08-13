@@ -1,0 +1,11 @@
+2018/01/31
+突然跑出錯誤訊息
+  "error PRJ0003 : 繁衍 (Spawn) 'resgen.exe' 發生錯誤"
+解決方式
+Visual Studio 主畫面
+工具->選項 ==> 可執行檔
+
+加入此行
+C:\Program Files (x86)\Microsoft Visual Studio 8\SDK\v2.0\Bin
+因為 resgen.exe 在此目錄
+

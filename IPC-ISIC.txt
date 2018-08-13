@@ -1,0 +1,788 @@
+ISIC	IPC	%	SECTOR
+3820-3825	A01B	100	Other machinery
+3820-3825	A01C	100	Other machinery
+3820-3825	A01D	100	Other machinery
+3820-3825	A01F	100	Other machinery
+3820-3825	A01G	10	Other machinery
+3900	A01G	80	Other industrial products
+1000	A01H	100	Agriculture
+3820-3825	A01J	80	Other machinery
+3100	A01J	20	Food, beverages, tobacco
+3810	A01K	30	Metal products, ex. Machines
+3820-3825	A01K	30	Other machinery
+3900	A01K	40	Other industrial products
+3810	A01L	100	Metal products, ex. Machines
+3510+3520-3522	A01M	20	Chemistry, except pharmacy
+3900	A01M	80	Other industrial products
+3510+3520-3522	A01N	100	Chemistry, except pharmacy
+3820-3825	A21B	100	Other machinery
+3820-3825	A21C	100	Other machinery
+3820-3825	A21D	30	Other machinery
+3100	A21D	70	Food, beverages, tobacco
+3810	A22B	50	Metal products, ex. Machines
+3820-3825	A22B	50	Other machinery
+3820-3825	A22C	70	Other machinery
+3100	A22C	30	Food, beverages, tobacco
+3100	A23B	100	Food, beverages, tobacco
+3820-3825	A23C	10	Other machinery
+3100	A23C	90	Food, beverages, tobacco
+3100	A23D	100	Food, beverages, tobacco
+3100	A23F	100	Food, beverages, tobacco
+3820-3825	A23G	10	Other machinery
+3100	A23G	90	Food, beverages, tobacco
+3100	A23J	100	Food, beverages, tobacco
+3100	A23K	100	Food, beverages, tobacco
+3100	A23L	100	Food, beverages, tobacco
+3820-3825	A23N	100	Other machinery
+3820-3825	A23P	100	Other machinery
+3100	A24B	100	Food, beverages, tobacco
+3820-3825	A24C	100	Other machinery
+3820-3825	A24D	50	Other machinery
+3100	A24D	50	Food, beverages, tobacco
+3900	A24F	100	Other industrial products
+3200	A41B	100	Textiles, clothes, etc.
+3200	A41C	100	Textiles, clothes, etc.
+3200	A41D	100	Textiles, clothes, etc.
+3900	A41F	100	Other industrial products
+3900	A41G	100	Other industrial products
+3900	A41H	100	Other industrial products
+3200	A42B	100	Textiles, clothes, etc.
+3200	A42C	100	Textiles, clothes, etc.
+3200	A43B	100	Textiles, clothes, etc.
+3900	A43C	100	Other industrial products
+3820-3825	A43D	100	Other machinery
+3900	A44B	100	Other industrial products
+3900	A44C	100	Other industrial products
+3900	A45B	100	Other industrial products
+3200	A45C	100	Textiles, clothes, etc.
+3830-3832	A45D	40	Electric mach., ex. electronics
+3900	A45D	60	Other industrial products
+3900	A45F	100	Other industrial products
+3900	A46B	100	Other industrial products
+3900	A46D	100	Other industrial products
+3810	A47B	60	Metal products, ex. Machines
+3300	A47B	40	Wood and furniture
+3810	A47C	60	Metal products, ex. Machines
+3300	A47C	40	Wood and furniture
+3810	A47D	50	Metal products, ex. Machines
+3300	A47D	50	Wood and furniture
+3810	A47F	55	Metal products, ex. Machines
+3300	A47F	45	Wood and furniture
+3810	A47G	10	Metal products, ex. Machines
+3550+3560	A47G	50	Rubber and plastic products
+3600	A47G	20	Stone, clay and glass products
+3900	A47G	20	Other industrial products
+3810	A47H	40	Metal products, ex. Machines
+3200	A47H	20	Textiles, clothes, etc.
+3300	A47H	40	Wood and furniture
+3830-3832	A47J	80	Electric mach., ex. electronics
+3810	A47J	10	Metal products, ex. Machines
+3810	A47K	50	Metal products, ex. Machines
+3550+3560	A47K	40	Rubber and plastic products
+3900	A47K	10	Other industrial products
+3830-3832	A47L	40	Electric mach., ex. electronics
+3810	A47L	50	Metal products, ex. Machines
+3900	A47L	10	Other industrial products
+3850	A61B	100	Instruments
+3850	A61C	100	Instruments
+3850	A61D	100	Instruments
+3850	A61F	100	Instruments
+3850	A61G	90	Instruments
+3300	A61G	10	Wood and furniture
+3830-3832	A61H	30	Electric mach., ex. electronics
+3850	A61H	40	Instruments
+3820-3825	A61H	30	Other machinery
+3522	A61J	30	Pharmacy
+3550+3560	A61J	40	Rubber and plastic products
+3900	A61J	30	Other industrial products
+3510+3520-3522	A61K	30	Chemistry, except pharmacy
+3522	A61K	65	Pharmacy
+3510+3520-3522	A61L	40	Chemistry, except pharmacy
+3850	A61L	60	Instruments
+3850	A61M	100	Instruments
+3850	A61N	100	Instruments
+3850	A62B	50	Instruments
+3820-3825	A62B	30	Other machinery
+3550+3560	A62B	20	Rubber and plastic products
+3810	A62C	100	Metal products, ex. Machines
+3510+3520-3522	A62D	100	Chemistry, except pharmacy
+3900	A63B	100	Other industrial products
+3900	A63C	100	Other industrial products
+3900	A63D	100	Other industrial products
+3900	A63F	100	Other industrial products
+3900	A63G	100	Other industrial products
+3900	A63H	100	Other industrial products
+3900	A63J	100	Other industrial products
+3900	A63K	100	Other industrial products
+3820-3825	B01B	100	Other machinery
+3820-3825	B01D	100	Other machinery
+3820-3825	B01F	100	Other machinery
+3820-3825	B01J	100	Other machinery
+3850	B01L	100	Instruments
+3820-3825	B02B	50	Other machinery
+3820-3825	B02C	100	Other machinery
+3820-3825	B03B	100	Other machinery
+3830-3832	B03C	100	Electric mach., ex. electronics
+3820-3825	B03D	100	Other machinery
+3820-3825	B04B	100	Other machinery
+3820-3825	B04C	100	Other machinery
+3810	B05B	50	Metal products, ex. Machines
+3820-3825	B05B	50	Other machinery
+3820-3825	B05C	95	Other machinery
+3820-3825	B05D	100	Other machinery
+3810	B05X	50	Metal products, ex. Machines
+3820-3825	B05X	50	Other machinery
+3820-3825	B06B	100	Other machinery
+3820-3825	B07B	100	Other machinery
+3820-3825	B07C	100	Other machinery
+3820-3825	B08B	100	Other machinery
+3510+3520-3522	B09B	75	Chemistry, except pharmacy
+3820-3825	B09B	25	Other machinery
+3710	B21B	50	Ferrous basic metals
+3720	B21B	50	Non ferrous basic metals
+3710	B21C	100	Ferrous basic metals
+3810	B21D	100	Metal products, ex. Machines
+3810	B21F	100	Metal products, ex. Machines
+3810	B21G	100	Metal products, ex. Machines
+3810	B21H	100	Metal products, ex. Machines
+3810	B21J	100	Metal products, ex. Machines
+3810	B21K	100	Metal products, ex. Machines
+3810	B21L	100	Metal products, ex. Machines
+3710	B22C	50	Ferrous basic metals
+3810	B22C	40	Metal products, ex. Machines
+3820-3825	B22C	10	Other machinery
+3710	B22D	90	Ferrous basic metals
+3720	B22D	10	Non ferrous basic metals
+3710	B22F	100	Ferrous basic metals
+3710	B22X	90	Ferrous basic metals
+3720	B22X	10	Non ferrous basic metals
+3810	B23B	100	Metal products, ex. Machines
+3810	B23C	100	Metal products, ex. Machines
+3810	B23D	100	Metal products, ex. Machines
+3810	B23F	100	Metal products, ex. Machines
+3810	B23G	100	Metal products, ex. Machines
+3810	B23H	100	Metal products, ex. Machines
+3810	B23K	100	Metal products, ex. Machines
+3810	B23P	100	Metal products, ex. Machines
+3830-3832	B23Q	10	Electric mach., ex. electronics
+3810	B23Q	20	Metal products, ex. Machines
+3820-3825	B23Q	70	Other machinery
+3810	B24B	100	Metal products, ex. Machines
+3810	B24C	100	Metal products, ex. Machines
+3810	B24D	100	Metal products, ex. Machines
+3810	B25B	100	Metal products, ex. Machines
+3810	B25C	100	Metal products, ex. Machines
+3810	B25D	100	Metal products, ex. Machines
+3810	B25F	100	Metal products, ex. Machines
+3810	B25G	100	Metal products, ex. Machines
+3810	B25H	100	Metal products, ex. Machines
+3820-3825	B25J	100	Other machinery
+3810	B26B	100	Metal products, ex. Machines
+3810	B26D	100	Metal products, ex. Machines
+3810	B26F	100	Metal products, ex. Machines
+3810	B27B	100	Metal products, ex. Machines
+3810	B27C	100	Metal products, ex. Machines
+3810	B27D	50	Metal products, ex. Machines
+3300	B27D	50	Wood and furniture
+3810	B27F	100	Metal products, ex. Machines
+3810	B27G	100	Metal products, ex. Machines
+3810	B27H	20	Metal products, ex. Machines
+3300	B27H	80	Wood and furniture
+3820-3825	B27J	100	Other machinery
+3510+3520-3522	B27K	70	Chemistry, except pharmacy
+3810	B27K	30	Metal products, ex. Machines
+3810	B27L	80	Metal products, ex. Machines
+3300	B27L	20	Wood and furniture
+3810	B27M	50	Metal products, ex. Machines
+3300	B27M	50	Wood and furniture
+3400	B27N	100	Paper, printing and publishing
+3820-3825	B28B	60	Other machinery
+3600	B28B	40	Stone, clay and glass products
+3820-3825	B28C	60	Other machinery
+3600	B28C	40	Stone, clay and glass products
+3820-3825	B28D	70	Other machinery
+3600	B28D	30	Stone, clay and glass products
+3510+3520-3522	B29B	20	Chemistry, except pharmacy
+3820-3825	B29B	80	Other machinery
+3510+3520-3522	B29C	20	Chemistry, except pharmacy
+3820-3825	B29C	80	Other machinery
+3510+3520-3522	B29D	50	Chemistry, except pharmacy
+3820-3825	B29D	50	Other machinery
+3510+3520-3522	B29F	20	Chemistry, except pharmacy
+3820-3825	B29F	80	Other machinery
+3510+3520-3522	B29G	50	Chemistry, except pharmacy
+3820-3825	B29G	50	Other machinery
+3820-3825	B29H	50	Other machinery
+3550+3560	B29H	50	Rubber and plastic products
+3820-3825	B29J	40	Other machinery
+3600	B29J	10	Stone, clay and glass products
+3300	B29J	50	Wood and furniture
+3510+3520-3522	B29K	100	Chemistry, except pharmacy
+3510+3520-3522	B29L	100	Chemistry, except pharmacy
+3820-3825	B30B	100	Other machinery
+3820-3825	B31B	100	Other machinery
+3820-3825	B31C	90	Other machinery
+3400	B31C	10	Paper, printing and publishing
+3820-3825	B31D	80	Other machinery
+3400	B31D	20	Paper, printing and publishing
+3820-3825	B31F	80	Other machinery
+3400	B31F	20	Paper, printing and publishing
+3900	B32B	100	Other industrial products
+3820-3825	B41B	100	Other machinery
+3400	B41C	100	Paper, printing and publishing
+3820-3825	B41D	100	Other machinery
+3820-3825	B41F	100	Other machinery
+3820-3825	B41G	100	Other machinery
+3825	B41J	100	Computers & office machines
+3900	B41K	100	Other industrial products
+3825	B41L	50	Computers & office machines
+3900	B41L	50	Other industrial products
+3510+3520-3522	B41M	15	Chemistry, except pharmacy
+3400	B41M	40	Paper, printing and publishing
+3900	B41M	30	Other industrial products
+3400	B41N	100	Paper, printing and publishing
+3400	B42B	100	Paper, printing and publishing
+3820-3825	B42C	50	Other machinery
+3400	B42C	50	Paper, printing and publishing
+3400	B42D	100	Paper, printing and publishing
+3400	B42F	40	Paper, printing and publishing
+3900	B42F	60	Other industrial products
+3900	B43K	100	Other industrial products
+3900	B43L	100	Other industrial products
+3900	B43M	100	Other industrial products
+3900	B44B	100	Other industrial products
+3900	B44C	100	Other industrial products
+3510+3520-3522	B44D	50	Chemistry, except pharmacy
+3810	B44D	30	Metal products, ex. Machines
+3900	B44D	20	Other industrial products
+3400	B44F	80	Paper, printing and publishing
+3900	B44F	20	Other industrial products
+3843	B60B	100	Motor vehicles
+3820-3825	B60C	20	Other machinery
+3550+3560	B60C	80	Rubber and plastic products
+3843	B60D	100	Motor vehicles
+3843	B60F	100	Motor vehicles
+3843	B60G	70	Motor vehicles
+3840-3841-3843-3845	B60G	30	Other transport
+3843	B60H	100	Motor vehicles
+3843	B60J	100	Motor vehicles
+3843	B60K	100	Motor vehicles
+3840-3841-3843-3845	B60L	100	Other transport
+3840-3841-3843-3845	B60M	100	Other transport
+3840-3841-3843-3845	B60N	100	Other transport
+3843	B60P	100	Motor vehicles
+3830-3832	B60Q	100	Electric mach., ex. electronics
+3840-3841-3843-3845	B60R	100	Other transport
+3843	B60S	100	Motor vehicles
+3843	B60T	100	Motor vehicles
+3841	B60V	100	Shipbuilding
+3840-3841-3843-3845	B61B	100	Other transport
+3840-3841-3843-3845	B61C	100	Other transport
+3840-3841-3843-3845	B61D	100	Other transport
+3840-3841-3843-3845	B61F	100	Other transport
+3840-3841-3843-3845	B61G	100	Other transport
+3840-3841-3843-3845	B61H	100	Other transport
+3840-3841-3843-3845	B61J	100	Other transport
+3840-3841-3843-3845	B61K	100	Other transport
+3840-3841-3843-3845	B61L	100	Other transport
+3840-3841-3843-3845	B62B	100	Other transport
+3840-3841-3843-3845	B62C	100	Other transport
+3843	B62D	100	Motor vehicles
+3840-3841-3843-3845	B62H	100	Other transport
+3840-3841-3843-3845	B62J	100	Other transport
+3840-3841-3843-3845	B62K	100	Other transport
+3840-3841-3843-3845	B62L	100	Other transport
+3843	B62M	50	Motor vehicles
+3840-3841-3843-3845	B62M	50	Other transport
+3841	B63B	100	Shipbuilding
+3841	B63C	100	Shipbuilding
+3841	B63G	100	Shipbuilding
+3841	B63H	100	Shipbuilding
+3841	B63J	100	Shipbuilding
+3845	B64B	100	Aerospace
+3845	B64C	100	Aerospace
+3845	B64D	100	Aerospace
+3830-3832	B64F	20	Electric mach., ex. electronics
+3845	B64F	70	Aerospace
+3850	B64F	10	Instruments
+3845	B64G	100	Aerospace
+3820-3825	B65B	100	Other machinery
+3820-3825	B65C	100	Other machinery
+3810	B65D	20	Metal products, ex. Machines
+3600	B65D	30	Stone, clay and glass products
+3400	B65D	45	Paper, printing and publishing
+3843	B65F	40	Motor vehicles
+3810	B65F	60	Metal products, ex. Machines
+3810	B65G	60	Metal products, ex. Machines
+3820-3825	B65G	40	Other machinery
+3820-3825	B65H	100	Other machinery
+3820-3825	B66B	100	Other machinery
+3820-3825	B66C	100	Other machinery
+3820-3825	B66D	100	Other machinery
+3820-3825	B66F	100	Other machinery
+3820-3825	B66G	100	Other machinery
+3810	B67B	50	Metal products, ex. Machines
+3820-3825	B67B	50	Other machinery
+3820-3825	B67C	100	Other machinery
+3820-3825	B67D	100	Other machinery
+3200	B68B	100	Textiles, clothes, etc.
+3200	B68C	100	Textiles, clothes, etc.
+3200	B68F	100	Textiles, clothes, etc.
+3200	B68G	100	Textiles, clothes, etc.
+3510+3520-3522	C01B	100	Chemistry, except pharmacy
+3510+3520-3522	C01C	100	Chemistry, except pharmacy
+3510+3520-3522	C01D	100	Chemistry, except pharmacy
+3510+3520-3522	C01F	100	Chemistry, except pharmacy
+3510+3520-3522	C01G	100	Chemistry, except pharmacy
+3510+3520-3522	C02F	50	Chemistry, except pharmacy
+3820-3825	C02F	30	Other machinery
+3400	C02F	20	Paper, printing and publishing
+3600	C03B	100	Stone, clay and glass products
+3600	C03C	100	Stone, clay and glass products
+3600	C04B	100	Stone, clay and glass products
+3510+3520-3522	C05B	100	Chemistry, except pharmacy
+3510+3520-3522	C05C	100	Chemistry, except pharmacy
+3510+3520-3522	C05D	100	Chemistry, except pharmacy
+3510+3520-3522	C05F	100	Chemistry, except pharmacy
+3510+3520-3522	C05G	100	Chemistry, except pharmacy
+3510+3520-3522	C06B	100	Chemistry, except pharmacy
+3510+3520-3522	C06C	100	Chemistry, except pharmacy
+3510+3520-3522	C06D	100	Chemistry, except pharmacy
+3510+3520-3522	C06F	100	Chemistry, except pharmacy
+3510+3520-3522	C07B	10	Chemistry, except pharmacy
+3522	C07B	85	Pharmacy
+3510+3520-3522	C07C	10	Chemistry, except pharmacy
+3522	C07C	85	Pharmacy
+3510+3520-3522	C07D	10	Chemistry, except pharmacy
+3522	C07D	85	Pharmacy
+3510+3520-3522	C07F	10	Chemistry, except pharmacy
+3522	C07F	85	Pharmacy
+3510+3520-3522	C07G	10	Chemistry, except pharmacy
+3522	C07G	85	Pharmacy
+3522	C07H	90	Pharmacy
+3522	C07J	100	Pharmacy
+3522	C07K	100	Pharmacy
+3510+3520-3522	C08B	100	Chemistry, except pharmacy
+3510+3520-3522	C08C	100	Chemistry, except pharmacy
+3510+3520-3522	C08F	100	Chemistry, except pharmacy
+3510+3520-3522	C08G	100	Chemistry, except pharmacy
+3510+3520-3522	C08H	100	Chemistry, except pharmacy
+3510+3520-3522	C08J	100	Chemistry, except pharmacy
+3510+3520-3522	C08K	100	Chemistry, except pharmacy
+3510+3520-3522	C08L	100	Chemistry, except pharmacy
+3510+3520-3522	C09B	100	Chemistry, except pharmacy
+3510+3520-3522	C09C	100	Chemistry, except pharmacy
+3510+3520-3522	C09D	100	Chemistry, except pharmacy
+3510+3520-3522	C09F	100	Chemistry, except pharmacy
+3510+3520-3522	C09G	100	Chemistry, except pharmacy
+3510+3520-3522	C09H	100	Chemistry, except pharmacy
+3510+3520-3522	C09J	100	Chemistry, except pharmacy
+3510+3520-3522	C09K	100	Chemistry, except pharmacy
+3530+3540	C10B	100	Oil refining
+3530+3540	C10C	100	Oil refining
+3820-3825	C10F	100	Other machinery
+3530+3540	C10G	100	Oil refining
+3510+3520-3522	C10H	100	Chemistry, except pharmacy
+3510+3520-3522	C10J	100	Chemistry, except pharmacy
+3510+3520-3522	C10K	100	Chemistry, except pharmacy
+3530+3540	C10L	100	Oil refining
+3530+3540	C10M	100	Oil refining
+3510+3520-3522	C10N	100	Chemistry, except pharmacy
+3510+3520-3522	C11B	50	Chemistry, except pharmacy
+3100	C11B	50	Food, beverages, tobacco
+3510+3520-3522	C11C	50	Chemistry, except pharmacy
+3100	C11C	50	Food, beverages, tobacco
+3510+3520-3522	C11D	100	Chemistry, except pharmacy
+3100	C12B	100	Food, beverages, tobacco
+3100	C12C	100	Food, beverages, tobacco
+3510+3520-3522	C12D	90	Chemistry, except pharmacy
+3100	C12D	10	Food, beverages, tobacco
+3100	C12F	100	Food, beverages, tobacco
+3100	C12G	100	Food, beverages, tobacco
+3820-3825	C12H	100	Other machinery
+3100	C12J	100	Food, beverages, tobacco
+3510+3520-3522	C12K	75	Chemistry, except pharmacy
+3850	C12K	25	Instruments
+3820-3825	C12L	100	Other machinery
+3820-3825	C12M	100	Other machinery
+3522	C12N	80	Pharmacy
+3100	C12N	20	Food, beverages, tobacco
+3522	C12P	50	Pharmacy
+3100	C12P	50	Food, beverages, tobacco
+3850	C12Q	100	Instruments
+3510+3520-3522	C12R	10	Chemistry, except pharmacy
+3522	C12S	100	Pharmacy
+3820-3825	C13C	100	Other machinery
+3100	C13D	100	Food, beverages, tobacco
+3100	C13F	100	Food, beverages, tobacco
+3820-3825	C13G	100	Other machinery
+3820-3825	C13H	100	Other machinery
+3100	C13J	100	Food, beverages, tobacco
+3100	C13K	100	Food, beverages, tobacco
+3100	C13L	100	Food, beverages, tobacco
+3820-3825	C14B	50	Other machinery
+3200	C14B	50	Textiles, clothes, etc.
+3510+3520-3522	C14C	50	Chemistry, except pharmacy
+3820-3825	C14C	50	Other machinery
+3710	C21B	50	Ferrous basic metals
+3710	C21C	100	Ferrous basic metals
+3710	C21D	50	Ferrous basic metals
+3720	C21D	50	Non ferrous basic metals
+3710	C22B	100	Ferrous basic metals
+3720	C22C	100	Non ferrous basic metals
+3720	C22F	100	Non ferrous basic metals
+3720	C22X	100	Non ferrous basic metals
+3810	C23C	100	Metal products, ex. Machines
+3810	C23D	100	Metal products, ex. Machines
+3810	C23F	100	Metal products, ex. Machines
+3810	C23G	100	Metal products, ex. Machines
+3810	C25B	100	Metal products, ex. Machines
+3810	C25C	100	Metal products, ex. Machines
+3810	C25D	100	Metal products, ex. Machines
+3810	C25F	100	Metal products, ex. Machines
+3720	C30B	100	Non ferrous basic metals
+3820-3825	D01B	50	Other machinery
+3200	D01B	50	Textiles, clothes, etc.
+3820-3825	D01C	50	Other machinery
+3200	D01C	50	Textiles, clothes, etc.
+3820-3825	D01D	50	Other machinery
+3200	D01D	50	Textiles, clothes, etc.
+3820-3825	D01F	50	Other machinery
+3200	D01F	50	Textiles, clothes, etc.
+3820-3825	D01G	50	Other machinery
+3200	D01G	50	Textiles, clothes, etc.
+3820-3825	D01H	50	Other machinery
+3200	D01H	50	Textiles, clothes, etc.
+3820-3825	D02D	100	Other machinery
+3820-3825	D02G	50	Other machinery
+3200	D02G	50	Textiles, clothes, etc.
+3820-3825	D02H	50	Other machinery
+3200	D02H	50	Textiles, clothes, etc.
+3820-3825	D02J	50	Other machinery
+3200	D02J	50	Textiles, clothes, etc.
+3200	D03C	100	Textiles, clothes, etc.
+3820-3825	D03D	50	Other machinery
+3200	D03D	50	Textiles, clothes, etc.
+3820-3825	D03J	100	Other machinery
+3820-3825	D04B	50	Other machinery
+3200	D04B	50	Textiles, clothes, etc.
+3820-3825	D04C	50	Other machinery
+3200	D04C	50	Textiles, clothes, etc.
+3820-3825	D04D	50	Other machinery
+3200	D04D	50	Textiles, clothes, etc.
+3820-3825	D04G	50	Other machinery
+3200	D04G	50	Textiles, clothes, etc.
+3820-3825	D04H	50	Other machinery
+3200	D04H	50	Textiles, clothes, etc.
+3900	D05B	100	Other industrial products
+3900	D05C	100	Other industrial products
+3200	D06B	100	Textiles, clothes, etc.
+3820-3825	D06C	100	Other machinery
+3820-3825	D06F	70	Other machinery
+3900	D06F	30	Other industrial products
+3820-3825	D06G	100	Other machinery
+3820-3825	D06H	70	Other machinery
+3200	D06H	30	Textiles, clothes, etc.
+3900	D06J	100	Other industrial products
+3900	D06L	100	Other industrial products
+3200	D06M	100	Textiles, clothes, etc.
+3550+3560	D06N	50	Rubber and plastic products
+3400	D06N	50	Paper, printing and publishing
+3200	D06P	100	Textiles, clothes, etc.
+3200	D06Q	100	Textiles, clothes, etc.
+3200	D07B	100	Textiles, clothes, etc.
+3400	D21B	100	Paper, printing and publishing
+3400	D21C	100	Paper, printing and publishing
+3400	D21D	100	Paper, printing and publishing
+3820-3825	D21F	100	Other machinery
+3820-3825	D21G	100	Other machinery
+3400	D21H	100	Paper, printing and publishing
+3300	D21J	100	Wood and furniture
+3820-3825	E01B	50	Other machinery
+5000	E01B	50	Building and construction
+3820-3825	E01C	50	Other machinery
+5000	E01C	50	Building and construction
+5000	E01D	100	Building and construction
+5000	E01F	100	Building and construction
+3810	E01H	20	Metal products, ex. Machines
+3820-3825	E01H	80	Other machinery
+5000	E02B	100	Building and construction
+5000	E02C	100	Building and construction
+3820-3825	E02D	30	Other machinery
+5000	E02D	65	Building and construction
+5000	E02F	98	Building and construction
+3820-3825	E03B	30	Other machinery
+4000	E03B	70	Utilities
+3810	E03C	40	Metal products, ex. Machines
+4000	E03C	60	Utilities
+3810	E03D	100	Metal products, ex. Machines
+3810	E03F	30	Metal products, ex. Machines
+4000	E03F	70	Utilities
+3600	E04B	80	Stone, clay and glass products
+5000	E04B	15	Building and construction
+3600	E04C	100	Stone, clay and glass products
+3510+3520-3522	E04D	25	Chemistry, except pharmacy
+3810	E04D	25	Metal products, ex. Machines
+3820-3825	E04D	25	Other machinery
+3600	E04D	25	Stone, clay and glass products
+3810	E04F	10	Metal products, ex. Machines
+5000	E04F	90	Building and construction
+3810	E04G	40	Metal products, ex. Machines
+5000	E04G	60	Building and construction
+3810	E04H	40	Metal products, ex. Machines
+5000	E04H	60	Building and construction
+3810	E05B	100	Metal products, ex. Machines
+3810	E05C	100	Metal products, ex. Machines
+3810	E05D	100	Metal products, ex. Machines
+3810	E05F	100	Metal products, ex. Machines
+3810	E05G	100	Metal products, ex. Machines
+3810	E06B	70	Metal products, ex. Machines
+3300	E06B	30	Wood and furniture
+3810	E06C	100	Metal products, ex. Machines
+3600	E06D	100	Stone, clay and glass products
+3810	E21B	45	Metal products, ex. Machines
+3820-3825	E21B	45	Other machinery
+5000	E21B	10	Building and construction
+3820-3825	E21C	100	Other machinery
+3820-3825	E21D	50	Other machinery
+5000	E21D	50	Building and construction
+5000	E21F	100	Building and construction
+3820-3825	F01B	100	Other machinery
+3820-3825	F01C	100	Other machinery
+3820-3825	F01D	100	Other machinery
+3820-3825	F01K	100	Other machinery
+3820-3825	F01L	100	Other machinery
+3820-3825	F01M	100	Other machinery
+3820-3825	F01N	100	Other machinery
+3820-3825	F01P	100	Other machinery
+3820-3825	F02B	100	Other machinery
+3820-3825	F02C	100	Other machinery
+3820-3825	F02D	100	Other machinery
+3820-3825	F02F	100	Other machinery
+3820-3825	F02G	100	Other machinery
+3820-3825	F02K	100	Other machinery
+3843	F02M	100	Motor vehicles
+3843	F02N	100	Motor vehicles
+3830-3832	F02P	100	Electric mach., ex. electronics
+3820-3825	F03B	100	Other machinery
+3820-3825	F03C	100	Other machinery
+3820-3825	F03D	100	Other machinery
+3820-3825	F03G	100	Other machinery
+3820-3825	F03H	100	Other machinery
+3820-3825	F04B	100	Other machinery
+3820-3825	F04C	100	Other machinery
+3820-3825	F04D	100	Other machinery
+3820-3825	F04F	100	Other machinery
+3820-3825	F15B	100	Other machinery
+3820-3825	F15C	100	Other machinery
+3820-3825	F15D	100	Other machinery
+3810	F16B	100	Metal products, ex. Machines
+3820-3825	F16C	100	Other machinery
+3843	F16D	100	Motor vehicles
+3843	F16F	100	Motor vehicles
+3843	F16G	100	Motor vehicles
+3843	F16H	100	Motor vehicles
+3810	F16J	20	Metal products, ex. Machines
+3820-3825	F16J	80	Other machinery
+3820-3825	F16K	100	Other machinery
+3810	F16L	100	Metal products, ex. Machines
+3810	F16M	100	Metal products, ex. Machines
+3820-3825	F16N	100	Other machinery
+3810	F16P	40	Metal products, ex. Machines
+3850	F16P	60	Instruments
+3810	F16S	100	Metal products, ex. Machines
+3820-3825	F16T	100	Other machinery
+3810	F17B	100	Metal products, ex. Machines
+3810	F17C	100	Metal products, ex. Machines
+3810	F17D	100	Metal products, ex. Machines
+3830-3832	F21H	100	Electric mach., ex. electronics
+3830-3832	F21K	100	Electric mach., ex. electronics
+3830-3832	F21L	100	Electric mach., ex. electronics
+3830-3832	F21M	100	Electric mach., ex. electronics
+3830-3832	F21P	100	Electric mach., ex. electronics
+3830-3832	F21Q	100	Electric mach., ex. electronics
+3830-3832	F21S	100	Electric mach., ex. electronics
+3830-3832	F21V	100	Electric mach., ex. electronics
+3810	F22B	80	Metal products, ex. Machines
+3850	F22B	20	Instruments
+3810	F22D	80	Metal products, ex. Machines
+3850	F22D	20	Instruments
+3810	F22G	80	Metal products, ex. Machines
+3850	F22G	20	Instruments
+3810	F22X	80	Metal products, ex. Machines
+3850	F22X	20	Instruments
+3820-3825	F23B	100	Other machinery
+3820-3825	F23C	100	Other machinery
+3820-3825	F23D	100	Other machinery
+3820-3825	F23G	100	Other machinery
+3820-3825	F23H	100	Other machinery
+3820-3825	F23J	100	Other machinery
+3820-3825	F23K	100	Other machinery
+3820-3825	F23L	100	Other machinery
+3820-3825	F23M	100	Other machinery
+3850	F23N	100	Instruments
+3850	F23Q	10	Instruments
+3820-3825	F23Q	60	Other machinery
+3900	F23Q	30	Other industrial products
+3820-3825	F23R	100	Other machinery
+3810	F24B	100	Metal products, ex. Machines
+3810	F24C	100	Metal products, ex. Machines
+3810	F24D	100	Metal products, ex. Machines
+3850	F24F	20	Instruments
+3820-3825	F24F	80	Other machinery
+3810	F24H	100	Metal products, ex. Machines
+3810	F24J	70	Metal products, ex. Machines
+3820-3825	F24J	30	Other machinery
+3820-3825	F25B	100	Other machinery
+3820-3825	F25C	100	Other machinery
+3820-3825	F25D	100	Other machinery
+3820-3825	F25J	100	Other machinery
+3820-3825	F26B	100	Other machinery
+3830-3832	F27B	10	Electric mach., ex. electronics
+3820-3825	F27B	90	Other machinery
+3820-3825	F27D	100	Other machinery
+3820-3825	F28B	100	Other machinery
+3820-3825	F28C	100	Other machinery
+3820-3825	F28D	100	Other machinery
+3820-3825	F28G	100	Other machinery
+3820-3825	F41A	100	Other machinery
+3820-3825	F41B	100	Other machinery
+3820-3825	F41C	100	Other machinery
+3820-3825	F41D	100	Other machinery
+3820-3825	F41F	100	Other machinery
+3850	F41G	100	Instruments
+3510+3520-3522	F41H	50	Chemistry, except pharmacy
+3820-3825	F41H	50	Other machinery
+3900	F41J	100	Other industrial products
+3820-3825	F42B	100	Other machinery
+3820-3825	F42C	100	Other machinery
+3820-3825	F42D	50	Other machinery
+3550+3560	F42D	50	Rubber and plastic products
+3850	G01B	100	Instruments
+3850	G01C	100	Instruments
+3850	G01D	100	Instruments
+3850	G01F	60	Instruments
+3820-3825	G01F	40	Other machinery
+3820-3825	G01G	100	Other machinery
+3850	G01H	100	Instruments
+3850	G01J	100	Instruments
+3850	G01K	100	Instruments
+3850	G01L	100	Instruments
+3850	G01M	100	Instruments
+3850	G01N	100	Instruments
+3850	G01P	100	Instruments
+3850	G01R	100	Instruments
+3850	G01S	100	Instruments
+3850	G01T	100	Instruments
+3850	G01V	100	Instruments
+3850	G01W	100	Instruments
+3850	G02B	100	Instruments
+3850	G02C	100	Instruments
+3850	G02F	100	Instruments
+3850	G03B	100	Instruments
+3850	G03C	100	Instruments
+3850	G03D	100	Instruments
+3400	G03F	100	Paper, printing and publishing
+3850	G03G	100	Instruments
+3850	G03H	100	Instruments
+3850	G04B	100	Instruments
+3850	G04C	100	Instruments
+3810	G04D	100	Metal products, ex. Machines
+3850	G04F	100	Instruments
+3850	G04G	100	Instruments
+3850	G05B	100	Instruments
+3850	G05C	100	Instruments
+3850	G05D	100	Instruments
+3850	G05F	100	Instruments
+3850	G05G	100	Instruments
+3825	G06C	100	Computers & office machines
+3850	G06D	100	Instruments
+3825	G06E	100	Computers & office machines
+3825	G06F	100	Computers & office machines
+3825	G06G	100	Computers & office machines
+3825	G06J	100	Computers & office machines
+3825	G06K	100	Computers & office machines
+3825	G06M	100	Computers & office machines
+3850	G07B	100	Instruments
+3850	G07C	100	Instruments
+3850	G07D	100	Instruments
+3850	G07F	100	Instruments
+3850	G07G	100	Instruments
+3830-3832	G08B	100	Electric mach., ex. electronics
+3830-3832	G08G	100	Electric mach., ex. electronics
+3832	G09B	50	Electronics
+3400	G09B	50	Paper, printing and publishing
+3900	G09C	100	Other industrial products
+3900	G09D	100	Other industrial products
+3900	G09F	100	Other industrial products
+3850	G09G	100	Instruments
+3900	G10B	100	Other industrial products
+3900	G10C	100	Other industrial products
+3900	G10D	100	Other industrial products
+3900	G10F	100	Other industrial products
+3900	G10G	100	Other industrial products
+3900	G10H	100	Other industrial products
+3900	G10K	100	Other industrial products
+3900	G10L	100	Other industrial products
+3825	G11B	100	Computers & office machines
+3825	G11C	100	Computers & office machines
+3850	G12B	100	Instruments
+3810	G21B	100	Metal products, ex. Machines
+3810	G21C	100	Metal products, ex. Machines
+3810	G21D	100	Metal products, ex. Machines
+3850	G21F	100	Instruments
+3850	G21G	100	Instruments
+3850	G21H	100	Instruments
+3820-3825	G21J	100	Other machinery
+3850	G21K	100	Instruments
+3810	G21X	100	Metal products, ex. Machines
+3830-3832	H01B	100	Electric mach., ex. electronics
+3832	H01C	100	Electronics
+3830-3832	H01F	100	Electric mach., ex. electronics
+3830-3832	H01G	100	Electric mach., ex. electronics
+3830-3832	H01H	100	Electric mach., ex. electronics
+3830-3832	H01J	100	Electric mach., ex. electronics
+3830-3832	H01K	100	Electric mach., ex. electronics
+3832	H01L	100	Electronics
+3830-3832	H01M	100	Electric mach., ex. electronics
+3832	H01P	100	Electronics
+3832	H01Q	100	Electronics
+3830-3832	H01R	100	Electric mach., ex. electronics
+3830-3832	H01S	100	Electric mach., ex. electronics
+3830-3832	H01T	100	Electric mach., ex. electronics
+3830-3832	H02B	100	Electric mach., ex. electronics
+3830-3832	H02G	100	Electric mach., ex. electronics
+3830-3832	H02H	100	Electric mach., ex. electronics
+3830-3832	H02J	100	Electric mach., ex. electronics
+3830-3832	H02K	100	Electric mach., ex. electronics
+3830-3832	H02M	100	Electric mach., ex. electronics
+3830-3832	H02N	100	Electric mach., ex. electronics
+3830-3832	H02P	100	Electric mach., ex. electronics
+3832	H03B	100	Electronics
+3832	H03C	100	Electronics
+3832	H03D	100	Electronics
+3832	H03F	100	Electronics
+3832	H03G	100	Electronics
+3832	H03H	100	Electronics
+3832	H03J	100	Electronics
+3832	H03K	100	Electronics
+3832	H03L	100	Electronics
+3830-3832	H03M	100	Electric mach., ex. electronics
+3832	H04A	100	Electronics
+3832	H04B	100	Electronics
+3832	H04G	100	Electronics
+3832	H04H	100	Electronics
+3832	H04J	100	Electronics
+3832	H04K	100	Electronics
+3832	H04L	100	Electronics
+3832	H04M	100	Electronics
+3832	H04N	100	Electronics
+3832	H04Q	100	Electronics
+3832	H04R	100	Electronics
+3832	H04S	100	Electronics
+3830-3832	H05B	100	Electric mach., ex. electronics
+3830-3832	H05C	100	Electric mach., ex. electronics
+3830-3832	H05F	100	Electric mach., ex. electronics
+3850	H05G	100	Instruments
+3830-3832	H05H	100	Electric mach., ex. electronics
+3832	H05K	100	Electronics
